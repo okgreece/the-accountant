@@ -9,6 +9,7 @@ function gameService($log, $rootScope, Step, Var, Ending, Character, I18n, memoi
   const _vars = Symbol('vars');
   const _history = Symbol('history');
   const _journeyCacheKey = Symbol('journeyCacheKey');
+  const _sessionKey = Symbol('sessionKey');
 
   class Game {
     constructor(meta) {
@@ -18,6 +19,7 @@ function gameService($log, $rootScope, Step, Var, Ending, Character, I18n, memoi
       this[_meta].steps = _.castArray(this[_meta].steps).map(meta => new Step(meta, this));
       // Build step using meta data
       this[_meta].endings = _.castArray(this[_meta].endings).map(meta => new Ending(meta, this));
+      this[_sessionKey] = this.uuidv4();
       // Prepare vars according to choice's history
       this.apply();
       // Ensure those method arround bound to the current instance
@@ -38,6 +40,7 @@ function gameService($log, $rootScope, Step, Var, Ending, Character, I18n, memoi
       // Filter to thoses that have consequences
       return _.some(done, _.method('hasConsequences')) || !this.hasStepsAhead();
     }
+
     isFirstYear() {
       return this.year === _.first(this.years);
     }
@@ -149,6 +152,13 @@ function gameService($log, $rootScope, Step, Var, Ending, Character, I18n, memoi
         return this.meta.years[year].picture;
       }, lastYear);
     }
+    uuidv4() {
+      return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => {
+        const r = Math.random() * 16 | 0;
+        const v = c === 'x' ? r : (r & 0x3 | 0x8);
+        return v.toString(16);
+      });
+    }
     invalidateJourney() {
       this[_journeyCacheKey] = _.uniqueId('journey-');
     }
@@ -200,12 +210,19 @@ function gameService($log, $rootScope, Step, Var, Ending, Character, I18n, memoi
     set history(val) {
       this[_history] = val;
     }
+    set sessionKey(val) {
+      this[_history] = val;
+    }
     // List of choices made by the player
     get history() {
       // Instanciate history if needed
       this[_history] = this[_history] || [];
       // Return the array
       return this[_history];
+    }
+    get sessionKey() {
+      // Return the array
+      return this[_sessionKey];
     }
     // List of step seen or currently seen by the player
     get journey() {

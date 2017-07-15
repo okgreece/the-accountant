@@ -73,8 +73,8 @@ angular
     'gridshore.c3js.chart',
     'duScroll',
     'tmh.dynamicLocale',
-    '720kb.socialshare'
-  ])
+    '720kb.socialshare'])
+  .constant("rootUrl", "http://localhost/cia/public/eavesdrop")
   .config(routesConfig)
   .config(translateConfig)
   .config(markedConfig)
@@ -82,6 +82,7 @@ angular
   .run(chartRun)
   .run(modernizrRun)
   .run(translateRun)
+  .factory('web', ($http, rootUrl) => rootUrl)
   .filter('emoji', emoji)
   .filter('unsafe', unsafe)
   .filter('explainer', explainerFilter)

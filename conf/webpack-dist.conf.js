@@ -19,12 +19,7 @@ module.exports = {
           'json-loader'
         ]
       },
-      {
-        test: /.js$/,
-        exclude: /node_modules/,
-        use: 'eslint-loader',
-        enforce: 'pre'
-      },
+
       {
         test: /\.(css|scss)$/,
         loaders: ExtractTextPlugin.extract({
