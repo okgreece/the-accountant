@@ -90,8 +90,8 @@ export const main = {
       // @see https://github.com/localForage/localForage/issues/626#issuecomment-262448068
       return $localForage.setItem('history', this.game.historySerialized).catch(angular.noop);
     };
-    this.sendHistory = () => {
-      $http.post(web, {id: this.game.sessionKey, history: this.game.historySerialized, vars: _.merge({}, ..._.map(this.game.publicVars, vr => {
+    this.sendHistory = choice => {
+      $http.post(web, {consequences: choice.consequences[0].name, id: this.game.sessionKey, history: this.game.historySerialized, vars: _.merge({}, ..._.map(this.game.publicVars, vr => {
         const ob = {};
         ob[vr.name] = vr.value;
         return ob;
@@ -110,7 +110,7 @@ export const main = {
       $scope.$on('game:selection', this.save);
       $scope.$on('game:undo', this.save);
       // Losing will clear history
-      $scope.$on('game:over', this.sendHistory);
+      $scope.$on('game:over', (e, choice) => this.sendHistory(choice));
       $scope.$on('game:over', () => $localForage.removeItem('history').catch(angular.noop));
       // Restart the timer when re-entering this state
       $transitions.onSuccess({to: 'main'}, this.waitNextSlice);
