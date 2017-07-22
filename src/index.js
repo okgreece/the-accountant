@@ -74,7 +74,7 @@ angular
     'duScroll',
     'tmh.dynamicLocale',
     '720kb.socialshare'])
-  .constant("rootUrl", "http://localhost/cia/public/eavesdrop")
+  .constant("rootUrl", "http://theaccountant.okfn.gr/accountant-backend/eavesdrop")
   .config(routesConfig)
   .config(translateConfig)
   .config(markedConfig)
