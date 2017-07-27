@@ -20,7 +20,7 @@
       "label@de": "Ausgaben",
       "label@fr": "Dépenses",
       "label@sl": "Odhodki",
-      "label@el": "Έξοδα",
+      "label@el": "Έξοδα"
     },
     "reserves": {
       "value": 50,
