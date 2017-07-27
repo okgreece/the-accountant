@@ -8,7 +8,7 @@ module.exports.translateConfig = function translateConfig($translateProvider, tm
       prefix: 'locales/',
       suffix: '.json'
     })
-    .registerAvailableLanguageKeys(['en', 'fr', 'de', 'sl'], {
+    .registerAvailableLanguageKeys(['en', 'fr', 'de', 'sl','el'], {
       'en_US': 'en',
       'en_UK': 'en',
       'en-US': 'en',
@@ -16,7 +16,8 @@ module.exports.translateConfig = function translateConfig($translateProvider, tm
       'fr_FR': 'fr',
       'fr_BE': 'fr',
       'de_DE': 'de',
-      'sl_SI': 'sl'
+      'sl_SI': 'sl',
+      'el_GR': 'el'
     })
     .determinePreferredLanguage()
     .fallbackLanguage('en')
