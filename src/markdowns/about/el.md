@@ -1,6 +1,6 @@
 # Σχετικά με το εργαλείο
 
-_The Good, The Bad and The Accountant_ aims at teaching journalists and their audience about the intricacies of corruption in local budgets. It is the interactive counterpart to [Cooking Budgets](http://cookingbudgets.com/), a series of tutorials on how corruption works in Europe.
+Το _The Good, The Bad and The Accountant_ στοχεύει να διδάξει τους δημοσιογράφους και το κοινό τους για την πολυπλοκότητα της διαφοράς σε τοπικούς προυπολογισμούς. Είναι ένα διαδραστικό εργαλείο αντίστοιχο του [Cooking Budgets](http://cookingbudgets.com/), το οποίο είναι μια σειρά οδηγών για το πως λειτουργεί η διαφθορά στην Ευρώπη.
 
 The choices you have to make in _The Good, The Bad and The Accountant_ can involve active or passive corruption. This does not mean that all civil servants are corrupt. But it does mean that corruption is a systemic issue. Anyone working near large contracts, public or private, has dealt or will deal with officials using their position to serve a third party. As we show in the tool, dealing with corruption cannot mean to simply refuse it. Refusing it might lead to conflicts with other stakeholders.
 
