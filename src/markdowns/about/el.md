@@ -1,32 +1,32 @@
-# Σχετικά με το εργαλείο
+# Εισαγωγή
 
-Το _The Good, The Bad and The Accountant_ στοχεύει να διδάξει τους δημοσιογράφους και το κοινό τους για την πολυπλοκότητα της διαφοράς σε τοπικούς προυπολογισμούς. Είναι ένα διαδραστικό εργαλείο αντίστοιχο του [Cooking Budgets](http://cookingbudgets.com/), το οποίο είναι μια σειρά οδηγών για το πως λειτουργεί η διαφθορά στην Ευρώπη.
+Το _The Good, The Bad and The Accountant_ στοχεύει να διδάξει δημοσιογράφους και κοινό για τα επίπεδα διαφοράς των τοπικών προϋπολογισμών. Είναι ένα διαδραστικό εργαλείο αντίστοιχο του [Cooking Budgets](http://cookingbudgets.com/), (σειρά οδηγών για το πως λειτουργεί η διαφθορά στην Ευρώπη).
 
-The choices you have to make in _The Good, The Bad and The Accountant_ can involve active or passive corruption. This does not mean that all civil servants are corrupt. But it does mean that corruption is a systemic issue. Anyone working near large contracts, public or private, has dealt or will deal with officials using their position to serve a third party. As we show in the tool, dealing with corruption cannot mean to simply refuse it. Refusing it might lead to conflicts with other stakeholders.
+Το εργαλείο δίνει τη δυνατότητα στον χρήστη να εξετάσει την ενεργητική ή την παθητική διαφθορά. Αυτό δεν σημαίνει ότι όλοι οι δημόσιοι υπάλληλοι είναι διεφθαρμένοι, αλλά ότι η διαφθορά είναι συστημικό ζήτημα. Όποιος ασχολείται με μεγάλες συμβάσεις, είτε δημόσιες είτε ιδιωτικές, έχει συναντήσει ή θα συναντήσει αξιωματούχους που χρησιμοποιούν τη θέση τους για να εξυπηρετήσουν τρίτους. Όπως δείχνουμε στο εργαλείο, για αντιμετωπίσουμε την διαφθορά δεν αρκεί απλώς να εναντιωθούμε. Η εναντίωση μπορεί να οδηγήσει σε συγκρούσεις με άλλους ενδιαφερόμενους.
 
-# Γιατί αυτό το εργαλείο;
+# Γιατί να χρησιμοποιήσετε αυτό το εργαλείο;
 
-Several studies from [Sweden](http://www.nordicacademicpress.com/bok/a-clean-house/), the [Netherlands](http://link.springer.com/chapter/10.1007/978-3-319-01839-3_19), [Québec](https://en.wikipedia.org/wiki/Charbonneau_Commission) and [Germany](https://www.amazon.de/Korruption-Deutschland-Portrait-einer-Wachstumsbranche/dp/3406510663) have shown that corruption is a systemic problem. In most countries of the European Union, corruption is rarely seen as such. Officials, private companies and citizens tend to accept corrupt practices as the normal way to do business, or, when an outrageous case appears, describe it as an isolated incident.
+Αρκετές μελέτες από [Σουηδία](http://www.nordicacademicpress.com/bok/a-clean-house/), [Ολλανδία](http://link.springer.com/chapter/10.1007/978-3-319-01839-3_19), [Κεμπέκ](https://en.wikipedia.org/wiki/Charbonneau_Commission) και [Γερμανία](https://www.amazon.de/Korruption-Deutschland-Portrait-einer-Wachstumsbranche/dp/3406510663) έδειξαν ότι η διαφθορά είναι συτημικό πρόβλημα. Στις περισσότερες Ευρωπαικές χώρες η διαφθορά δεν αναγνωρίζεται ως τέτοια. Υπάλληλοι, ιδιωτικές εταιρείες και πολίτες τείνουν να αποδέχονται πρακτικές διαφοράς ως κάτι φυσιολογικό προκειμένου να κάνουν την δουλειά τους. Ωστόσο όταν εμφανίζεται μια ακραία περίπτωση διαφθοράς, την αναγνωρίζουν και την περιγράφουν ως ένα μεμονομένο περιστατικό.
 
-This is a problem because, since the 1980's, the opportunities for corruption increased greatly. The externalization of public services and transfers of people between public and private sectors dramatically increased the number of situations where a risk of corruption arises. If the share of corrupt people remained constant, this means that the total amount of corruption in the European Union increased.
+Αυτό είναι προβληματικό καθώς από τη δεκαετία του 1980 τα περιστατικά διαφθοράς αυξήθηκαν κατακόρυφα. Η ανάθεση εργασιών του δημοσίου σε εξωτερικούς συνεργάτες και οι μεταφορές προσώπων ανάμεσα σε ιδιωτικό και δημόσιο τομέα αύξησαν δραματικά τις περιπτώσεις όπου παραμονεύει ο κίνδυνος της διαφθοράς. Εάν το ποσοστό των διεφθαρμένων προσπώπων παρέμεινε σταθερό, αυτό σημαίνει ότι το συνολικό ποσοστό διαφθοράς εντός της Ευρωπαικής Ένωσης αυξήθηκε.
 
-In order for citizens and public officials to better address corruption, it is necessary for them to gain a better understanding of the issue. By delving into the actual mechanisms of corruption, this tool and the associated tutorials of [Cooking Budgets](http://cookingbudgets.com/) enable users to up their expertise on the topic.
+Προκειμένου πολίτες και δημόσιοι υπάλληλοι να αντιμετωπίσουν αποτελεσματικότερα τη διαφθορά θεωρείται απαραίτητο να την κατανοήσουν σε βάθος. Το εν λόγω εργαλείο και οι σχετικοί οδηγοί για τα [Cooking Budgets](http://cookingbudgets.com/) δίνουν στους χρήστες ολοκληρωμένη γνώση γύρω από το ζήτημα, φέρνοντας τους πιο κοντά στους πραγματικούς μηχανισμούς διαφθοράς.
 
 # Πώς λειτουργεί
 
-Users have to make decisions based on questions. Several variables help them make choices. City financials tell them how much money the city collects each year (**resources**) and spends (**expenditure**), while **reserves** tell the user how much money the city has in the bank.
+Οι χρήστες λαμβάνουν αποφάσεις βάσει ερωτήσεων. Υπάρχουν αρκετές μεταβλητές που τους βοηθούν στην λήψη των αποφάσεων. Τα οικονομικά στοιχεία της πόλης δίνουν πληροφορίες στο χρήστη σχετικά με το ετήσιο ύψος των (**εσόδων**) και των (**εξόδων**), ενώ τα **αποθεματικά** δείχνουν πόσα χρήματα έχει η πόλη στη τράπεζα.
 
-**Political rejection** increases with unpopular decisions, **industry mistrust** increases when the user makes choices that contractors don’t like and **legal risk** increases when the user does something illegal.
+Οι πιθανότητες **πολιτικής απόρριψης** αυξάνονται με την υλοποίηση μη δημοφιλών αποφάσεων. **Η δυσπιστία στη βιομηχανία** αυξάνεται όταν ο χρήστης κάνει επιλογές που δεν αρέσουν στους εργολάβους, όπως και ο **νομικός κίνδυνος** όταν ο χρήστης παρανομήσει.
 
-After each choice, there is a (risk / 20) probability of triggering a _game over_ of the type related to the risk. E.g if **legal risk** is 9, user has 9 chance out of 20 to be arrested by the police at the next step.
+Έπειτα από κάθε επιλογή υπάρχει η πιθανότητα (κίνδυνος/20) να ξεκινήσει ένα παιχνίδι σχετικά με τον κίνδυνο που μπορεί να προκύψει. Για παράδειγμα εάν ο **νομικός κίνδυνος** είναι 9 τότε ο χρήστης έχει 9 στις 20 πιθανότητες να συλληφθεί από την αστυνομία στο επόμενο βήμα.
 
-This tool is part of <strong><a target="_blank" href="http://openbudgets.eu/">OpenBudgets.eu</a>: Fighting Corruption with Fiscal Transparency</strong>, a consortium that includes <a target="_blank" href="https://okfn.org/">Open Knowledge</a>, <a target="_blank" href="https://okfn.de/">Open Knowledge Germany</a>, <a target="_blank" href="http://okfn.gr/">Open Knowledge Greece</a>, <a target="_blank" href="https://www.iais.fraunhofer.de/en.html">Fraunhofer IAIS</a>, <a target="_blank" href="https://www.uni-bonn.de/">University of Bonn</a>, <a target="_blank" href="http://www.civio.es/en/">CIVIO</a>, <a target="_blank" href="http://transparency.eu//">Transparency Int. EU</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Journalism%2B%2B">Journalism++</a> and <a target="_blank" href="https://www.vse.cz/english/">University of Economics - Prague</a>.
+Τέλος το εργαλείο αυτό είναι μέρος του <strong><a target="_blank" href="http://openbudgets.eu/">OpenBudgets.eu</a>: Fighting Corruption with Fiscal Transparency</strong>, μιας κοινοπραξίας που περιλαμβάνει τα <a target="_blank" href="https://okfn.org/">Open Knowledge</a>, <a target="_blank" href="https://okfn.de/">Open Knowledge Germany</a>, <a target="_blank" href="http://okfn.gr/">Open Knowledge Greece</a>, <a target="_blank" href="https://www.iais.fraunhofer.de/en.html">Fraunhofer IAIS</a>, <a target="_blank" href="https://www.uni-bonn.de/">University of Bonn</a>, <a target="_blank" href="http://www.civio.es/en/">CIVIO</a>, <a target="_blank" href="http://transparency.eu//">Transparency Int. EU</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Journalism%2B%2B">Journalism++</a> και <a target="_blank" href="https://www.vse.cz/english/">University of Economics - Prague</a>.
 
 # Θέλεις να βοηθήσεις;
 
-We would be extremely happy if you could help translate the game or contribute to [Cooking Budgets](http://cookingbudgets.com/) by adding examples of local corruption.
+Θα ήμασταν ευγνώμονες αν μπορούσατε να βοηθήσετε στην μετάφραση του παιχνιδιού ή  συνεισφέρατε στο [Cooking Budgets](http://cookingbudgets.com/) προσθέτοντας παραδείγματα τοπικής διαφθοράς.
 
-Contact us at chef@cookingbudgets.com
+Επικοινωνήστε μαζί μας στο chef@cookingbudgets.com
 
 <table>
 
