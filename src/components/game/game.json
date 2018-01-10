@@ -74,7 +74,8 @@
       "label@en": "Political rejection",
       "label@de": "Politischer Widerstand",
       "label@fr": "Risque politique",
-      "label@sl": "Politično nezaupanje"
+      "label@sl": "Politično nezaupanje",
+      "label@el": "Πολιτική απόρριψη"
     },
     "risk_revolving_door": {
       "value": 0,
@@ -113,10 +114,12 @@
       "title@de": "Finanzielle Lage der Stadt",
       "title@fr": "Santé financière de la ville",
       "title@sl": "Finančno zdravje mesta",
+      "title@el": "Οικονομική ευρωστία της πόλης",
       "description@en": "City financials tell you how much money the city collects each year (resources) and spends (expenditure), while reserves tell you how much money the city has in the bank.",
       "description@de": "Diese Indikatoren zeigen wieviele Steuern die Stadt jährlich einnimmt (Einnahmen), wieviel sie ausgibt (Ausgaben) und wieviel sie auf der Bank hat (Rücklagen).",
       "description@fr": "Ces indicateurs montrent combien la ville collecte en impôts tous les ans (revenus), combien elle dépense (dépenses), et les réserves indiquent combien la ville possède en banque.",
-      "description@sl": "Mestne finance vam povedo, koliko sredstev mesto zbere na leteni ravni (prihodki), koliko porabi (odhodki) in koliko denarja je še naloženega v banki (mestne rezerve)."
+      "description@sl": "Mestne finance vam povedo, koliko sredstev mesto zbere na leteni ravni (prihodki), koliko porabi (odhodki) in koliko denarja je še naloženega v banki (mestne rezerve).",
+      "description@el": "μετάφραση"
     }
   },
   "characters": {
