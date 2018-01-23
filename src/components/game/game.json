@@ -984,7 +984,7 @@
           "text@de": "Guten Tag!",
           "text@fr": "Bonjour.",
           "text@sl": "Zdravo.",
-          "text@el": "Καλημέρα",
+          "text@el": "Καλημέρα."
         },
         {
           "character": "football-boss",
@@ -1055,7 +1055,7 @@
               "text@de": "So behandeln Sie meine Freunde?",
               "text@fr": "C'est comme ça que vous traitez mes amis?",
               "text@sl": "Se tako ravna s prijatelji?",
-              "text@el": "Έτσι φέρεσαι στους φίλος μου;",
+              "text@el": "Έτσι φέρεσαι στους φίλος μου;"
             },
             {
               "character": "mayor",
@@ -1114,7 +1114,7 @@
           "text@de": "Wir haben eine Ausschreibung für den Bau eines neuen Kreisverkehrs am Laufen.",
           "text@fr": "Nous avons passé un appel d'offres pour un nouveau rond-point.",
           "text@sl": "Objavili smo poziv za oddajo ponudb za izgradnjo novega krožišča.",
-          "text@el": "Αποφασίστηκε η κατασκευή νέου κυκλικού κόμβου.",
+          "text@el": "Αποφασίστηκε η κατασκευή νέου κυκλικού κόμβου."
         },
         {
           "character": "mayor",
@@ -1161,7 +1161,7 @@
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Grosbéton SARL.",
               "text@sl": "Izbranja je ponudba podjetja Grosbeton d.o.o.",
-              "text@el": "Επιλέγω την προσφορά της Λαμπρόπουλος Α.Ε.",
+              "text@el": "Επιλέγω την προσφορά της Λαμπρόπουλος Α.Ε."
             },
             {
               "character": "construction-boss",
@@ -1169,7 +1169,7 @@
               "text@de": "Eine sehr gute Wahl, Herzchen!",
               "text@fr": "Très bon choix.",
               "text@sl": "Odlična izbira, prijatelj moj.",
-              "text@el": "Σωστή επιλογή, φίλε μου!.",
+              "text@el": "Σωστή επιλογή, φίλε μου!."
             },
             {
               "character": "construction-boss",
@@ -1177,7 +1177,7 @@
               "text@de": "Du wirst den Umschlag wie immer auf deinem Schreibtisch finden.",
               "text@fr": "Vous trouverez une enveloppe sur votre bureau, comme d'habitude.",
               "text@sl": "Tvoj delež boste prejeli v vaši pisarni - kot običajno.",
-              "text@el": "Θα λάβεις το μερίδιό σου στο γραφείο σου, όπως πάντα.",
+              "text@el": "Θα λάβεις το μερίδιό σου στο γραφείο σου, όπως πάντα."
             }
           ]
         },
@@ -1198,7 +1198,7 @@
               "text@de": "Ich habe mich für das Angebot der Meinhardt Hoch- u. Tiefbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Guillory Construction SARL.",
               "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o.",
-              "text@el": "Επιλέγω την προσφορά της Φάκτορ.",
+              "text@el": "Επιλέγω την προσφορά της Φάκτορ."
             },
             {
               "character": "construction-boss",
