@@ -128,10 +128,12 @@
       "name@de": "Marie Meyer",
       "name@fr": "Claudine Daviau",
       "name@sl": "Marjeta Pohle",
+      "name@el": "Χαρούλα Παπαναστασίου",
       "title@en": "The Mayor",
       "title@de": "Die Bürgermeisterin",
       "title@fr": "La maire",
       "title@sl": "Županja",
+      "title@el": "Η Δήμαρχος",
       "avatar": "./images/avatars/mayor.jpg"
     },
     "lawyer": {
