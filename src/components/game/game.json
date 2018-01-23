@@ -222,7 +222,7 @@
       "title@de": "Der Beginn",
       "title@fr": "Rideau",
       "title@sl": "Začetek",
-      "title@el": "Το ξεκίνημα",
+      "title@el": "Το ξεκίνημα"
     },
     "1994": {
       "picture": "images/years/riga.jpeg",
@@ -230,7 +230,7 @@
       "title@de": "Erste Schritte",
       "title@fr": "Premiers pas",
       "title@sl": "Prvi koraki",
-      "title@el": "Πρώτα βήματα", 
+      "title@el": "Πρώτα βήματα"
     },
     "1995": {
       "picture": "images/years/building.jpeg",
@@ -238,7 +238,7 @@
       "title@de": "Wohnbaugeschichten",
       "title@fr": "Histoires d'HLM",
       "title@sl": "Stanovanjske zgodbe",
-      "title@el": "Πρόγραμμα στέγασης",
+      "title@el": "Πρόγραμμα στέγασης"
     },
     "1996": {
       "picture": "images/years/stadium.jpeg",
@@ -246,7 +246,7 @@
       "title@de": "Ball spielen",
       "title@fr": "Jeux de ballon",
       "title@sl": "Igre z žogo",
-      "title@el": "Παίζοντας μπάλα",
+      "title@el": "Παίζοντας μπάλα"
     },
     "1997": {
       "picture": "images/years/tm.jpeg",
@@ -254,7 +254,7 @@
       "title@de": "Kartell",
       "title@fr": "Cartel",
       "title@sl": "Kartel",
-      "title@el": "Καρτέλ",
+      "title@el": "Καρτέλ"
     },
     "1998": {
       "picture": "images/years/roundabout.jpeg",
@@ -262,7 +262,7 @@
       "title@de": "Wachsen",
       "title@fr": "Devenir grand",
       "title@sl": "Odraščanje",
-      "title@el": "Άνοιγμα δραστηριότητων",
+      "title@el": "Άνοιγμα δραστηριότητων"
     },
     "1999": {
       "picture": "images/years/cpn.jpeg",
@@ -270,7 +270,7 @@
       "title@de": "Selbstständig werden",
       "title@fr": "Indépendance",
       "title@sl": "Sam svoj šef",
-      "title@el": "Αφεντικό του εαυτού σου",
+      "title@el": "Αφεντικό του εαυτού σου"
     },
     "2000": {
       "picture": "images/years/berlin.jpeg",
@@ -278,7 +278,7 @@
       "title@de": "Die Karte",
       "title@fr": "La carte",
       "title@sl": "Kreditna kartica",
-      "title@el": "Η Κάρτα",
+      "title@el": "Η Κάρτα"
     },
     "2001": {
       "picture": "images/years/cpn-2.jpeg",
@@ -286,7 +286,7 @@
       "title@de": "Reklame",
       "title@fr": "Pubs",
       "title@sl": "Oglaševanje",
-      "title@el": "Διαφημίσεις",
+      "title@el": "Διαφημίσεις"
     },
     "2002": {
       "picture": "images/years/atomium.jpeg",
@@ -294,7 +294,7 @@
       "title@de": "Spielstart",
       "title@fr": "Coup d'envoi",
       "title@sl": "Dvojna podaja",
-      "title@el": "Αρχίζει το παιχνίδι",
+      "title@el": "Αρχίζει το παιχνίδι"
     },
     "2003": {
       "picture": "images/years/gare.jpeg",
@@ -302,7 +302,7 @@
       "title@de": "Unsichtbar",
       "title@fr": "Invisible",
       "title@sl": "Nevidni",
-      "title@el": "Αόρατος",
+      "title@el": "Αόρατος"
     },
     "2004": {
       "picture": "images/years/metro.jpeg",
@@ -310,7 +310,7 @@
       "title@de": "Inneneinrichtung",
       "title@fr": "Décoration d'intérieur",
       "title@sl": "Notranje oblikovanje",
-      "title@el": "Εσωτερική διακόσμηση",
+      "title@el": "Εσωτερική διακόσμηση"
     },
     "2005": {
       "picture": "images/years/tour-2.jpeg",
@@ -318,7 +318,7 @@
       "title@de": "Expansion",
       "title@fr": "Expansion",
       "title@sl": "Stadion",
-      "title@el": "Η επέκταση",
+      "title@el": "Η επέκταση"
     },
     "2006": {
       "picture": "images/years/stairs.jpeg",
@@ -326,7 +326,7 @@
       "title@de": "Tentakel",
       "title@fr": "Tentacules",
       "title@sl": "Lovke",
-      "title@el": "Πλοκάμια",
+      "title@el": "Πλοκάμια"
     },
     "2007": {
       "picture": "images/years/paris.jpeg",
@@ -334,7 +334,7 @@
       "title@de": "Müll",
       "title@fr": "Ordures",
       "title@sl": "Smeti",
-      "title@el": "Σκουπίδια",
+      "title@el": "Σκουπίδια"
     },
     "2008": {
       "picture": "images/years/bat.jpeg",
@@ -342,7 +342,7 @@
       "title@de": "Verzögerungen",
       "title@fr": "Retardé",
       "title@sl": "Zamude",
-      "title@el": "Καθυστερήσεις",
+      "title@el": "Καθυστερήσεις"
     },
     "2009": {
       "picture": "images/years/airport.jpeg",
@@ -350,7 +350,7 @@
       "title@de": "Zurück zur Schule",
       "title@fr": "Retour à la fac",
       "title@sl": "Nazaj v šolo",
-      "title@el": "Επιστροφή στα θρανία",
+      "title@el": "Επιστροφή στα θρανία"
     },
     "2010": {
       "picture": "images/years/route.jpeg",
@@ -358,7 +358,7 @@
       "title@de": "Hochfinanz",
       "title@fr": "Haute finance",
       "title@sl": "Svet visokih financ",
-      "title@el": "Υψηλή οικονομία",
+      "title@el": "Υψηλή οικονομία"
     },
     "2011": {
       "picture": "images/years/building.jpeg",
@@ -366,7 +366,7 @@
       "title@de": "Familie hat Vorrang",
       "title@fr": "La famille d'abord",
       "title@sl": "Družina na prvem mestu",
-      "title@el": "Η οικογένεια πάνω απ΄όλα",
+      "title@el": "Η οικογένεια πάνω απ΄όλα"
     },
     "2012": {
       "picture": "images/years/pool.jpeg",
@@ -374,7 +374,7 @@
       "title@de": "Drehtür",
       "title@fr": "Pantoufles",
       "title@sl": "Na svoje",
-      "title@el": "Στροφή καριέρας",
+      "title@el": "Στροφή καριέρας"
     },
     "2013": {
       "picture": "images/years/italy.jpeg",
@@ -382,7 +382,7 @@
       "title@de": "Letzter Aufruf",
       "title@fr": "Dernier appel",
       "title@sl": "Zadnji poziv",
-      "title@el": "Τελική προσφορά",
+      "title@el": "Τελική προσφορά"
     }
   },
   "steps": [
@@ -395,7 +395,7 @@
           "text@de": "Hallo und herzlich willkommen im Rathaus!",
           "text@fr": "Bonjour et bienvenue à l'hôtel de ville !",
           "text@sl": "Pozdravljeni! Dobrodošli v mestni hiši!",
-          "text@el": "Γεια, καλώς ήρθατε στο δημαρχειακό μέγαρο!",
+          "text@el": "Γεια, καλώς ήρθατε στο δημαρχειακό μέγαρο!"
         },
         {
           "character": "mayor",
@@ -403,7 +403,7 @@
           "text@de": "Sie sind die neue Geschäftsführerin hier, nicht wahr?",
           "text@fr": "Vous êtes ma nouvelle directrice de cabinet",
           "text@sl": "Veseli me, da boste pri nas kot vodja občinske uprave."
-          "text@el" "Πληροφορήθηκα πως είστε ο νέος διευθύνων σύμβουλος",
+          "text@el" "Πληροφορήθηκα πως είστε ο νέος διευθύνων σύμβουλος"
         },
         {
           "character": "mayor",
@@ -411,7 +411,7 @@
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
           "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
-          "text@el": "Κάποιοι λένε πως η πόλη μας είναι επιρρεπής στην διαφθορά. Μην τους ακούτε. 😒",
+          "text@el": "Κάποιοι λένε πως η πόλη μας είναι επιρρεπής στην διαφθορά. Μην τους ακούτε. 😒"
         },
         {
           "character": "mayor",
@@ -419,7 +419,7 @@
           "text@de": "Aber seien Sie auf der Hut!",
           "text@fr": "Mais soyez prudente.",
           "text@sl": "A vseeno bodite previdni.",
-          "text@el": "Όμως, ας είστε προσεκτικός!",
+          "text@el": "Όμως, ας είστε προσεκτικός!"
         }
       ],
       "choices": [
@@ -436,7 +436,7 @@
               "text@de": "Vielen Dank, Frau Bürgermeisterin. Ich werde mein Bestes geben.",
               "text@fr": "Merci. Je ferai de mon mieux.",
               "text@sl": "Hvala, gospa županja. Vsi se bomo trudili po svojih najboljših močeh.",
-              "text@el": "Ευχαριστώ, κυρία Δήμαρχε. Θα βάλω τα δυνατά μου.",
+              "text@el": "Ευχαριστώ, κυρία Δήμαρχε. Θα βάλω τα δυνατά μου."
             },
             {
               "character": "mayor",
@@ -444,7 +444,7 @@
               "text@de": "Sie werden sich großartig schlagen.",
               "text@fr": "Vous serez parfaite.",
               "text@sl": "Odlično vam bo šlo.",
-              "text@el": "Θα τα πας εξαιρετικά.",
+              "text@el": "Θα τα πας εξαιρετικά."
             },
             {
               "character": "mayor",
@@ -452,7 +452,7 @@
               "text@de": "Frau Salzwedel ist Ihre Assistentin.",
               "text@fr": "Madame Lambert est votre assistante.",
               "text@sl": "Gospa Mateja Skovir je vaša asistentka.",
-              "text@el": "Η Λία είναι η βοηθός σας.",
+              "text@el": "Η Λία είναι η βοηθός σας."
             },
             {
               "character": "mayor",
@@ -460,7 +460,7 @@
               "text@de": "Sie wird Ihnen alles zeigen.",
               "text@fr": "Elle connait bien la maison.",
               "text@sl": "Peljala vas bo na kratek obhod po mestni hiši.",
-              "text@el": "Θα σου δείξει πώς λειτουργούν τα πράγματα εδώ.",
+              "text@el": "Θα σου δείξει πώς λειτουργούν τα πράγματα εδώ."
             },
             {
               "character": "helper",
@@ -468,7 +468,7 @@
               "text@de": "Hallo!",
               "text@fr": "Enchantée.",
               "text@sl": "Pozdravljeni.",
-              "text@el": "Γεια!",
+              "text@el": "Γεια!"
             },
             {
               "character": "helper",
@@ -476,7 +476,7 @@
               "text@de": "Ich werde Ihnen helfen sich zurecht zu finden.",
               "text@fr": "Je suis là pour vous aider.",
               "text@sl": "Pomagala vam bo spoznati razmere pri nas.",
-              "text@el": "Θα σε βοηθήσω να εγκλιματαστείς αμέσως.",
+              "text@el": "Θα σε βοηθήσω να εγκλιματαστείς αμέσως."
             },
             {
               "character": "helper",
@@ -484,7 +484,7 @@
               "text@de": "Ich gebe Ihnen einen Rat: Die Bürgermeisterin hat einflussreiche Freunde. Verärgern Sie sie nicht.",
               "text@fr": "Premier conseil: La maire a de puissants amis, ne vous les mettez pas à dos.",
               "text@sl": "Najboljši nasvet - županja ima precej vplivnih prijateljev. Ne zamerite se jim.",
-              "text@el": "Η καλύτερη συμβουλή: Η δήμαρχος έχει ισχυρούς φίλους. Μην τους εξοργίσεις.",
+              "text@el": "Η καλύτερη συμβουλή: Η δήμαρχος έχει ισχυρούς φίλους. Μην τους εξοργίσεις."
             },
             {
               "character": "helper",
@@ -492,7 +492,7 @@
               "text@de": "Vor allem nicht Herrn Meinhardt.",
               "text@fr": "Surtout monsieur Guillory.",
               "text@sl": "Še zlasti ne gospodu Mavčarju.",
-              "text@el": "Ειδικά τον κύριο Λαμπρόπουλο.",
+              "text@el": "Ειδικά τον κύριο Λαμπρόπουλο."
             }
           ]
         }
@@ -507,7 +507,7 @@
           "text@de": "Wir haben eine Ausschreibung für den Neubau einer Straße veröffentlicht.",
           "text@fr": "Nous avons passé un appel d'offre pour une nouvelle route.",
           "text@sl": "Objavili smo poziv k oddaji ponudb za izgradnjo novega cestnega odseka.",
-          "text@el": "Δημοσιεύσαμε την απόφαση για την κατασκευή νέου δρόμου.",
+          "text@el": "Δημοσιεύσαμε την απόφαση για την κατασκευή νέου δρόμου."
         },
         {
           "character": "mayor",
@@ -515,7 +515,7 @@
           "text@de": "Das Amt für Verkehr hat die Kosten auf ca. 10 Millionen geschätzt.",
           "text@fr": "Le bureau d'études estime les travaux à 10 millions.",
           "text@sl": "Naš oddelek za promet ocenjuje, da bodo stroški znašali približno 10 milijonov.",
-          "text@el": "Το Τμήμα Μεταφορών υπολογίζει πως το κόστος θα φτάσει τα 10 εκατομμύρια.",
+          "text@el": "Το Τμήμα Μεταφορών υπολογίζει πως το κόστος θα φτάσει τα 10 εκατομμύρια."
         },
         {
           "character": "mayor",
@@ -523,7 +523,7 @@
           "text@de": "Wir haben drei Einreichungen erhalten. Wählen Sie das beste Angebot aus.",
           "text@fr": "On a reçu trois offres. Choisissez la meilleure.",
           "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
-          "text@el": "Λάβαμε τρεις προσφορές. Επίλεξε την πιο συμφέρουσα.",
+          "text@el": "Λάβαμε τρεις προσφορές. Επίλεξε την πιο συμφέρουσα."
         }
       ],
       "helper": [
