@@ -154,7 +154,7 @@
       "name@de": "Ferdi Meinhardt",
       "name@fr": "Cyril Guillory",
       "name@sl": "Robert Mavčar",
-      "name@el": "Μάρκος Λαμπρόπουλος"
+      "name@el": "Μάρκος Λαμπρόπουλος",
       "title@en": "Boss of Robert Construction Limited",
       "title@de": "Chef von Meinhardt Hoch- u. Tiefbau GmbH",
       "title@fr": "Chef de Guillory Construction SARL",
@@ -1214,6 +1214,7 @@
               "text@de": "Du wirst den Job nicht lang behalten, wenn du so weitermachst.",
               "text@fr": "Tu ne resteras pas longtemps en poste si tu continues.",
               "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju.",
+              "
               
             },
             {
