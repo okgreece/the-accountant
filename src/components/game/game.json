@@ -582,8 +582,8 @@
               "text@en": "I choose the offer of Eco-Sense Construction.",
               "text@de": "Ich habe mich für das Angebot der Firma Eco-Sense Construction entschieden.",
               "text@fr": "Je choisis l'offre de Eco-Sense Construction.",
-              "text@sl": "Izbrana je ponudba podjetja Eco-Sense Konstrukcije."
-              "text@el": "Επιλέγω την προσφορά της Eco-Sense.",
+              "text@sl": "Izbrana je ponudba podjetja Eco-Sense Konstrukcije.",
+              "text@el": "Επιλέγω την προσφορά της Eco-Sense."
             },
             {
               "character": "construction-boss",
@@ -859,7 +859,7 @@
           "text@en": "I wrote you a memo nevertheless. [Click here to read it|bribes].",
           "text@de": "Ich haben Ihnen trotzdem mal ein Dossier zusammengestellt. [Klicken Sie hier, um es zu lesen|bribes].",
           "text@fr": "Mais je vous ai quand même préparé [un mémo sur le sujet|bribes].",
-          "text@sl": "Vseeno sem vam pripravila kratko predstavitev. [Za branje kliknite sem|bribes]."
+          "text@sl": "Vseeno sem vam pripravila kratko predstavitev. [Za branje kliknite sem|bribes].",
           "text@el": "Σου ετοίμασα μερικές σημειώσεις για παν ενδεχόμενο. [Πατήστε εδώ για να τις διαβάσετε|bribes]."
         }
       ],
@@ -1009,6 +1009,7 @@
           "text@fr": "La ville possède un terrain. Je sais qu'il vaut 10 millions, mais ça serait honnête de me le vendre pour 4 millions, non ?",
           "text@sl": "Blizu igrišča je večje zemljišče v lasti mesta. Ocenjeno je na 10 milijonov, a se mi zdi, da bi bila bolj primerna cena približno 4 milijone. Kaj menite?",
           "text@el": "Υπάρχει αυτό το άδειο δημόσιο οικόπεδο. Γνωρίζω πως η αξία του κυμαίνεται στα 10 εκατομμύρια. Τι θα έλεγες για μια καλύτερη προσφορά, ας πούμε, στα 4 εκατομμυρία;" 
+        }
       ],
       "helper": [
         {
@@ -1148,7 +1149,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 7 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 7 millions",
           "text@sl": "Grosbeton d.o.o. je oddal ponudbo za 7 milijonov.",
-          "text@el": "Η Φάκτορ Κατασκευαστική έκανε προσφορά 7 εκατομμυρίων",
+          "text@el": "Η Λαμπρόπουλος Κατασκευαστική Α.Ε. έκανε προσφορά 7 εκατομμυρίων",
           "var_changes": {
             "reserves": -7,
             "personal_account": 1000
@@ -1160,20 +1161,23 @@
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Grosbéton SARL.",
               "text@sl": "Izbranja je ponudba podjetja Grosbeton d.o.o.",
+              "text@el": "Επιλέγω την προσφορά της Λαμπρόπουλος Α.Ε.",
             },
             {
               "character": "construction-boss",
               "text@en": "Good choice, buddy.",
               "text@de": "Eine sehr gute Wahl, Herzchen!",
               "text@fr": "Très bon choix.",
-              "text@sl": "Odlična izbira, prijatelj moj."
+              "text@sl": "Odlična izbira, prijatelj moj.",
+              "text@el": "Σωστή επιλογή, φίλε μου!.",
             },
             {
               "character": "construction-boss",
               "text@en": "Your share will be deposited in your office, as usual.",
               "text@de": "Du wirst den Umschlag wie immer auf deinem Schreibtisch finden.",
               "text@fr": "Vous trouverez une enveloppe sur votre bureau, comme d'habitude.",
-              "text@sl": "Tvoj delež boste prejeli v vaši pisarni - kot običajno."
+              "text@sl": "Tvoj delež boste prejeli v vaši pisarni - kot običajno.",
+              "text@el": "Θα λάβεις το μερίδιό σου στο γραφείο σου, όπως πάντα.",
             }
           ]
         },
@@ -1182,6 +1186,7 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 7,1 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 7,1 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je pripravilo ponudbo za 7,1 milijona.",
+          "text@el": "Η Φάκτορ Κατασκευαστική έκανε προσφορά 7.1 εκατομμυρίων.",
           "var_changes": {
             "reserves": -7.1,
             "risk_contractors": 1
@@ -1192,21 +1197,24 @@
               "text@en": "I choose the offer of Robert Construction Limited.",
               "text@de": "Ich habe mich für das Angebot der Meinhardt Hoch- u. Tiefbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Guillory Construction SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o.",
+              "text@el": "Επιλέγω την προσφορά της Φάκτορ.",
             },
             {
               "character": "construction-boss",
               "text@en": "Playing with fire, are we?",
               "text@de": "Du spielst mit dem Feuer, meine Liebe!",
               "text@fr": "Alors, on joue avec le feu ?",
-              "text@sl": "Očitno se radi igrate z ognjem."
+              "text@sl": "Očitno se radi igrate z ognjem.",
+              "text@el": "Παίζεις με την φωτιά, ε;"
             },
             {
               "character": "construction-boss",
               "text@en": "You won't last long if you continue like this.",
               "text@de": "Du wirst den Job nicht lang behalten, wenn du so weitermachst.",
               "text@fr": "Tu ne resteras pas longtemps en poste si tu continues.",
-              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju."
+              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju.",
+              
             },
             {
               "character": "helper",
