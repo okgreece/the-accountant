@@ -119,7 +119,7 @@
       "description@de": "Diese Indikatoren zeigen wieviele Steuern die Stadt jährlich einnimmt (Einnahmen), wieviel sie ausgibt (Ausgaben) und wieviel sie auf der Bank hat (Rücklagen).",
       "description@fr": "Ces indicateurs montrent combien la ville collecte en impôts tous les ans (revenus), combien elle dépense (dépenses), et les réserves indiquent combien la ville possède en banque.",
       "description@sl": "Mestne finance vam povedo, koliko sredstev mesto zbere na leteni ravni (prihodki), koliko porabi (odhodki) in koliko denarja je še naloženega v banki (mestne rezerve).",
-      "description@el": "μετάφραση"
+      "description@el": "Αυτοί οι δείκτες περιγράφουν την οικονομική κατάσταση της πόλης ετησίως, πόσα χρήματα συγκεντρώνει (πόροι), πόσα ξοδεύει (έξοδα) και πόσα έχει στην τράπεζα (αποθεματικό)."
     }
   },
   "characters": {
@@ -128,7 +128,7 @@
       "name@de": "Marie Meyer",
       "name@fr": "Claudine Daviau",
       "name@sl": "Marjeta Pohle",
-      "name@el": "Χαρούλα Παπαναστασίου",
+      "name@el": "Χαρούλα Αναστασίου",
       "title@en": "The Mayor",
       "title@de": "Die Bürgermeisterin",
       "title@fr": "La maire",
@@ -141,10 +141,12 @@
       "name@de": "Ekin Krantz",
       "name@fr": "Nadya Mathieu",
       "name@sl": "Tanja Pravdar",
+      "name@el": "Ειρήνη Κοτσίδου",
       "title@en": "Your lawyer",
       "title@de": "Ihre Anwältin",
       "title@fr": "Votre avocate",
       "title@sl": "Vaša odvetnica",
+      "title@el": "Η δικηγόρος σας",
       "avatar": "./images/avatars/lawyer.jpg"
     },
     "construction-boss": {
@@ -152,10 +154,12 @@
       "name@de": "Ferdi Meinhardt",
       "name@fr": "Cyril Guillory",
       "name@sl": "Robert Mavčar",
+      "name@el": "Μάρκος Λαμπρόπουλος"
       "title@en": "Boss of Robert Construction Limited",
       "title@de": "Chef von Meinhardt Hoch- u. Tiefbau GmbH",
       "title@fr": "Chef de Guillory Construction SARL",
       "title@sl": "Direktor gradbenega podjetja Mavčar Biro d.o.o.",
+      "title@el": "Πρόεδρος της Λαμπρόπουλος Κατασκευαστική Α.Ε.",
       "avatar": "./images/avatars/construction-boss.jpg"
     },
     "university-boss": {
@@ -163,10 +167,12 @@
       "name@de": "Halit Beutel",
       "name@fr": "Rasul Géroux",
       "name@sl": "prof. dr. Damjan Gabrin",
+      "name@el": "Αλέξανδρος Παντούλης",
       "title@en": "Director of the University",
       "title@de": "Direktor der Universität",
       "title@fr": "Directeur de l'université",
       "title@sl": "Rektor Univerze",
+      "title@el": "Πρύτανης του Πανεπιστημίου",
       "avatar": "./images/avatars/university-boss.jpg"
     },
     "football-boss": {
@@ -174,10 +180,12 @@
       "name@de": "Wendel Slusser",
       "name@fr": "Gustave Tremble",
       "name@sl": "Matjaž Kalinšek a.k.a. Kale",
+      "name@el": "Χαράλαμπος Γαρδέλης",
       "title@en": "President of the City Football Club",
       "title@de": "Präsident des städtischen Fußballvereins",
       "title@fr": "Président du club de football de la ville",
       "title@sl": "Predsednik mestnega nogometnega kluba",
+      "title@el": "Πρόεδρος του ποδοσφαιρικού σωματείου",
       "avatar": "./images/avatars/football-boss.jpg"
     },
     "helper": {
@@ -185,10 +193,12 @@
       "name@de": "Ferdinanda Salzwedel",
       "name@fr": "Andrée Lambert",
       "name@sl": "Mateja Skovir",
+      "name@el": "Λία Παπαδοπούλου",
       "title@en": "Assistant",
       "title@de": "Assistentin",
       "title@fr": "Assistante",
       "title@sl": "Vaša asistentka",
+      "title@el": "Βοηθός",
       "avatar": "./images/avatars/helper.jpg"
     },
     "you": {
@@ -196,10 +206,12 @@
       "name@de": "Sie",
       "name@fr": "Vous",
       "name@sl": "Ti",
+      "name@el": "Εσεί",
       "title@en": "General manager",
       "title@de": "Geschäftsführerin",
       "title@fr": "Dir' cab",
       "title@sl": "Vodja občinske uprave",
+      "title@el": "Γενικός διευθυντής",
       "avatar": null
     }
   },
@@ -209,147 +221,168 @@
       "title@en": "The Beginning",
       "title@de": "Der Beginn",
       "title@fr": "Rideau",
-      "title@sl": "Začetek"
+      "title@sl": "Začetek",
+      "title@el": "Το ξεκίνημα",
     },
     "1994": {
       "picture": "images/years/riga.jpeg",
       "title@en": "First Steps",
       "title@de": "Erste Schritte",
       "title@fr": "Premiers pas",
-      "title@sl": "Prvi koraki"
+      "title@sl": "Prvi koraki",
+      "title@el": "Πρώτα βήματα", 
     },
     "1995": {
       "picture": "images/years/building.jpeg",
       "title@en": "Housing Stories",
       "title@de": "Wohnbaugeschichten",
       "title@fr": "Histoires d'HLM",
-      "title@sl": "Stanovanjske zgodbe"
+      "title@sl": "Stanovanjske zgodbe",
+      "title@el": "Πρόγραμμα στέγασης",
     },
     "1996": {
       "picture": "images/years/stadium.jpeg",
       "title@en": "Playing ball",
       "title@de": "Ball spielen",
       "title@fr": "Jeux de ballon",
-      "title@sl": "Igre z žogo"
+      "title@sl": "Igre z žogo",
+      "title@el": "Παίζοντας μπάλα",
     },
     "1997": {
       "picture": "images/years/tm.jpeg",
       "title@en": "Cartel",
       "title@de": "Kartell",
       "title@fr": "Cartel",
-      "title@sl": "Kartel"
+      "title@sl": "Kartel",
+      "title@el": "Καρτέλ",
     },
     "1998": {
       "picture": "images/years/roundabout.jpeg",
       "title@en": "Growing up",
       "title@de": "Wachsen",
       "title@fr": "Devenir grand",
-      "title@sl": "Odraščanje"
+      "title@sl": "Odraščanje",
+      "title@el", "Άνοιγμα δραστηριότητων",
     },
     "1999": {
       "picture": "images/years/cpn.jpeg",
       "title@en": "Be Your Own Boss",
       "title@de": "Selbstständig werden",
       "title@fr": "Indépendance",
-      "title@sl": "Sam svoj šef"
+      "title@sl": "Sam svoj šef",
+      "title@el": "Αφεντικό του εαυτού σου",
     },
     "2000": {
       "picture": "images/years/berlin.jpeg",
       "title@en": "The Card",
       "title@de": "Die Karte",
       "title@fr": "La carte",
-      "title@sl": "Kreditna kartica"
+      "title@sl": "Kreditna kartica",
+      "title@el": "Η Κάρτα",
     },
     "2001": {
       "picture": "images/years/cpn-2.jpeg",
       "title@en": "Adverts",
       "title@de": "Reklame",
       "title@fr": "Pubs",
-      "title@sl": "Oglaševanje"
+      "title@sl": "Oglaševanje",
+      "title@el": "Διαφημίσεις",
     },
     "2002": {
       "picture": "images/years/atomium.jpeg",
       "title@en": "Game on",
       "title@de": "Spielstart",
       "title@fr": "Coup d'envoi",
-      "title@sl": "Dvojna podaja"
+      "title@sl": "Dvojna podaja",
+      "title@el": "Αρχίζει το παιχνίδι",
     },
     "2003": {
       "picture": "images/years/gare.jpeg",
       "title@en": "Invisible",
       "title@de": "Unsichtbar",
       "title@fr": "Invisible",
-      "title@sl": "Nevidni"
+      "title@sl": "Nevidni",
+      "title@el": "Αόρατος",
     },
     "2004": {
       "picture": "images/years/metro.jpeg",
       "title@en": "Interior design",
       "title@de": "Inneneinrichtung",
       "title@fr": "Décoration d'intérieur",
-      "title@sl": "Notranje oblikovanje"
+      "title@sl": "Notranje oblikovanje",
+      "title@el": "Εσωτερική διακόσμηση",
     },
     "2005": {
       "picture": "images/years/tour-2.jpeg",
       "title@en": "Getting Bigger",
       "title@de": "Expansion",
       "title@fr": "Expansion",
-      "title@sl": "Stadion"
+      "title@sl": "Stadion",
+      "title@el": "Η επέκταση",
     },
     "2006": {
       "picture": "images/years/stairs.jpeg",
       "title@en": "Tentacles",
       "title@de": "Tentakel",
       "title@fr": "Tentacules",
-      "title@sl": "Lovke"
+      "title@sl": "Lovke",
+      "title@el": "Πλοκάμια",
     },
     "2007": {
       "picture": "images/years/paris.jpeg",
       "title@en": "Trash",
       "title@de": "Müll",
       "title@fr": "Ordures",
-      "title@sl": "Smeti"
+      "title@sl": "Smeti",
+      "title@el": "Σκουπίδια",
     },
     "2008": {
       "picture": "images/years/bat.jpeg",
       "title@en": "Delays",
       "title@de": "Verzögerungen",
       "title@fr": "Retardé",
-      "title@sl": "Zamude"
+      "title@sl": "Zamude",
+      "title@el": "Καθυστερήσεις",
     },
     "2009": {
       "picture": "images/years/airport.jpeg",
       "title@en": "Back to school",
       "title@de": "Zurück zur Schule",
       "title@fr": "Retour à la fac",
-      "title@sl": "Nazaj v šolo"
+      "title@sl": "Nazaj v šolo",
+      "title@el": "Επιστροφή στα θρανία",
     },
     "2010": {
       "picture": "images/years/route.jpeg",
       "title@en": "High finance",
       "title@de": "Hochfinanz",
       "title@fr": "Haute finance",
-      "title@sl": "Svet visokih financ"
+      "title@sl": "Svet visokih financ",
+      "title@el": "Υψηλή οικονομία",
     },
     "2011": {
       "picture": "images/years/building.jpeg",
       "title@en": "Family first",
       "title@de": "Familie hat Vorrang",
       "title@fr": "La famille d'abord",
-      "title@sl": "Družina na prvem mestu"
+      "title@sl": "Družina na prvem mestu",
+      "title@el": "Η οικογένεια πάνω απ΄όλα",
     },
     "2012": {
       "picture": "images/years/pool.jpeg",
       "title@en": "Going private",
       "title@de": "Drehtür",
       "title@fr": "Pantoufles",
-      "title@sl": "Na svoje"
+      "title@sl": "Na svoje",
+      "title@el": "Στροφή καριέρας",
     },
     "2013": {
       "picture": "images/years/italy.jpeg",
       "title@en": "The last tender",
       "title@de": "Letzter Aufruf",
       "title@fr": "Dernier appel",
-      "title@sl": "Zadnji poziv"
+      "title@sl": "Zadnji poziv",
+      "title@el": "Τελική προσφορά",
     }
   },
   "steps": [
@@ -361,7 +394,8 @@
           "text@en": "Hi there, welcome to City Hall!",
           "text@de": "Hallo und herzlich willkommen im Rathaus!",
           "text@fr": "Bonjour et bienvenue à l'hôtel de ville !",
-          "text@sl": "Pozdravljeni! Dobrodošli v mestni hiši!"
+          "text@sl": "Pozdravljeni! Dobrodošli v mestni hiši!",
+          "text@el": "Γεια, καλώς ήρθατε στο δημαρχειακό μέγαρο!",
         },
         {
           "character": "mayor",
@@ -369,20 +403,23 @@
           "text@de": "Sie sind die neue Geschäftsführerin hier, nicht wahr?",
           "text@fr": "Vous êtes ma nouvelle directrice de cabinet",
           "text@sl": "Veseli me, da boste pri nas kot vodja občinske uprave."
+          "text@el" "Πληροφορήθηκα πως είστε ο νέος διευθύνων σύμβουλος",
         },
         {
           "character": "mayor",
           "text@en": "Some say this city has corruption issues. Don't listen to them 😒.",
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
-          "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒"
+          "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
+          "text@el": "Κάποιοι λένε πως η πόλη μας είναι επιρρεπής στην διαφθορά. Μην τους ακούτε. 😒",
         },
         {
           "character": "mayor",
           "text@en": "But be careful.",
           "text@de": "Aber seien Sie auf der Hut!",
           "text@fr": "Mais soyez prudente.",
-          "text@sl": "A vseeno bodite previdni."
+          "text@sl": "A vseeno bodite previdni.",
+          "text@el": "Όμως, ας είστε προσεκτικός!",
         }
       ],
       "choices": [
@@ -391,13 +428,14 @@
           "text@de": "Los geht’s",
           "text@fr": "Commencer",
           "text@sl": "Začni",
+          "text@el" "΄Πάμε",
           "feedback": [
             {
               "character": "you",
               "text@en": "Thank you mayor, I'll do my best.",
               "text@de": "Vielen Dank, Frau Bürgermeisterin. Ich werde mein Bestes geben.",
               "text@fr": "Merci. Je ferai de mon mieux.",
-              "text@sl": "Hvala, gospa županja. Vsi se bomo trudili po svojih najboljših močeh."
+              "text@sl": "Hvala, gospa županja. Vsi se bomo trudili po svojih najboljših mo
             },
             {
               "character": "mayor",
