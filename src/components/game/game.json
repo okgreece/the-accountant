@@ -1238,7 +1238,7 @@
               "text@en": "By not choosing the company that should have won, you're embarassing Gerber.",
               "text@de": "Sie haben sich nicht für die Firma entschieden, die hätte gewinnen sollen. Damit haben Sie die Meinhardt GmbH in Schwierigkeiten gebracht.",
               "text@fr": "En ne choisissant pas la société qui aurait dû gagner, vous embarrassez Guillory.",
-              "text@sl": "Gospoda Mavčarja ste spravili v zadrego, saj niste izbrali podjetja, ki bi moralo zmagati."
+              "text@sl": "Gospoda Mavčarja ste spravili v zadrego, saj niste izbrali podjetja, ki bi moralo zmagati.",
               "text@el": "Ντροπιάζετε τον Λαμπρόπουλος αν δεν επιλέξετε την εταιρεία που ήταν να κερδίσει."
             }
           ]
@@ -1649,7 +1649,7 @@
               "text@en": "You run a cartel and you can't even pick the right offer?",
               "text@de": "Du baust ein Kartell auf, aber bist nicht in der Lage das richtige Angebot auszuwählen?",
               "text@fr": "Tu fais un cartel et tu ne choisis pas la bonne offre ?",
-              "text@sl": "Vodite našo kartelno združbo in niste sposobni izbrati pravega ponudnika!"
+              "text@sl": "Vodite našo kartelno združbo in niste sposobni izbrati pravega ponudnika!",
               "text@el": "Στήνεις ολόκληρο καρτέλ και δεν μπορείς να διαλέξεις την σωστή προσφοράς;"
             }
           ]
@@ -1828,7 +1828,7 @@
           "text@en": "It'll make your work faster and benefit citizens!",
           "text@de": "Es wird Ihre Produktivität steigern und die Bürger werden davon profitieren.",
           "text@fr": "Cela va améliorer votre productivité et profiter aux citoyens !",
-          "text@sl": "Lažje boste delali in tako naredili več za občane."
+          "text@sl": "Lažje boste delali in tako naredili več za občane.",
           "text@el": "Θα κάνει την δουλειά σας ταχύτερη και θα ωφελήσει τους πολίτες!"
         }
       ],
@@ -2281,7 +2281,7 @@
               "text@en": "I will make it happen.",
               "text@de": "Alles klar.",
               "text@fr": "Je m'en occupe",
-              "text@sl": "Vse bo urejeno."
+              "text@sl": "Vse bo urejeno.",
               "text@el": "Θα το τρέξω."
             },
             {
@@ -2289,7 +2289,7 @@
               "text@en": "Well done!",
               "text@de": "Gut gespielt!",
               "text@fr": "Bien joué !",
-              "text@sl": "Tako se to dela!"
+              "text@sl": "Tako se to dela!",
               "text@el": "Ύπεροχα!"
             },
             {
@@ -2297,7 +2297,7 @@
               "text@en": "Here's to our collaboration! 🍻",
               "text@de": "Auf unsere Zusammenarbeit! 🍻",
               "text@fr": "A notre collaboration ! 🍻",
-              "text@sl": "Na najino sodelovanje! 🍻"
+              "text@sl": "Na najino sodelovanje! 🍻",
               "text@el": "Στην υγειά της νέας μας συνεργασίας! 🍻"
             }
           ]
@@ -2392,7 +2392,7 @@
               "text@en": "You're right.",
               "text@de": "Sie haben Recht.",
               "text@fr": "Vous avez raison.",
-              "text@sl": "Prav imate, to pohištvo je res grdo in zdelano."
+              "text@sl": "Prav imate, to pohištvo je res grdo in zdelano.",
               "text@el": "Έχεις δίκιο."
             },
             {
@@ -2436,7 +2436,7 @@
               "text@en": "No, we can't afford this.",
               "text@de": "Nein, das kann ich mir nicht erlauben.",
               "text@fr": "Non, on ne peut pas se le permettre.",
-              "text@sl": "Žal, tega si ne morem dovoliti."
+              "text@sl": "Žal, tega si ne morem dovoliti.",
               "text@el": "Όχι, δεν υπάρχουν χρήματα γι' αυτό."
             },
             {
@@ -2485,7 +2485,7 @@
           "text@en": "PPPs are quite a trend.",
           "text@de": "ÖPPs sind der letzte Schrei.",
           "text@fr": "Les PPPs sont à la mode.",
-          "text@sl": "Javno-zasebna partnerstva so kar v modi."
+          "text@sl": "Javno-zasebna partnerstva so kar v modi.",
           "text@el": "Οι ΣΔΙΤ είναι πολύ στη μόδα τελευταία."
         },
         {
@@ -2493,7 +2493,7 @@
           "text@en": "[I prepared a memo for you on the topic|ppp].",
           "text@de": "Ich habe [für Sie ein Dossier zusammengestellt|ppp].",
           "text@fr": "Voici [un mémo sur le sujet|ppp].",
-          "text@sl": "[Pripravila sem vam kratko predstavitev javno-zasebnih partnerstev|ppp]"
+          "text@sl": "[Pripravila sem vam kratko predstavitev javno-zasebnih partnerstev|ppp]",
           "text@el": "Ετοίμασα [σημειώσεις για το θέμα|ppp]."
         }
       ],
@@ -2521,7 +2521,7 @@
               "text@en": "Ten MILLION?",
               "text@de": "Zehn MILLIONEN?",
               "text@fr": "Dix MILLIONS ?",
-              "text@sl": "Deset milijonov!!!!!"
+              "text@sl": "Deset milijonov!!!!!",
               "text@el": "Δέκα ΕΚΑΤΟΜΜΥΡΙΑ;!;!"
             },
             {
