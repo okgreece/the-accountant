@@ -146,7 +146,7 @@
       "title@de": "Ihre Anwältin",
       "title@fr": "Votre avocate",
       "title@sl": "Vaša odvetnica",
-      "title@el": "Η δικηγόρος σας",
+      "title@el": "Η δικηγόρος σου",
       "avatar": "./images/avatars/lawyer.jpg"
     },
     "construction-boss": {
@@ -206,7 +206,7 @@
       "name@de": "Sie",
       "name@fr": "Vous",
       "name@sl": "Ti",
-      "name@el": "Εσεί",
+      "name@el": "Εσύ",
       "title@en": "General manager",
       "title@de": "Geschäftsführerin",
       "title@fr": "Dir' cab",
@@ -395,7 +395,7 @@
           "text@de": "Hallo und herzlich willkommen im Rathaus!",
           "text@fr": "Bonjour et bienvenue à l'hôtel de ville !",
           "text@sl": "Pozdravljeni! Dobrodošli v mestni hiši!",
-          "text@el": "Γεια, καλώς ήρθατε στο δημαρχειακό μέγαρο!"
+          "text@el": "Καλώς ήρθατε στο δημαρχειακό μέγαρο!"
         },
         {
           "character": "mayor",
@@ -444,7 +444,7 @@
               "text@de": "Sie werden sich großartig schlagen.",
               "text@fr": "Vous serez parfaite.",
               "text@sl": "Odlično vam bo šlo.",
-              "text@el": "Θα τα πας εξαιρετικά."
+              "text@el": "Θα τα πάτε εξαιρετικά."
             },
             {
               "character": "mayor",
@@ -460,7 +460,7 @@
               "text@de": "Sie wird Ihnen alles zeigen.",
               "text@fr": "Elle connait bien la maison.",
               "text@sl": "Peljala vas bo na kratek obhod po mestni hiši.",
-              "text@el": "Θα σου δείξει πώς λειτουργούν τα πράγματα εδώ."
+              "text@el": "Θα σας δείξει πώς λειτουργούν τα πράγματα εδώ."
             },
             {
               "character": "helper",
@@ -476,7 +476,7 @@
               "text@de": "Ich werde Ihnen helfen sich zurecht zu finden.",
               "text@fr": "Je suis là pour vous aider.",
               "text@sl": "Pomagala vam bo spoznati razmere pri nas.",
-              "text@el": "Θα σε βοηθήσω να εγκλιματαστείς αμέσως."
+              "text@el": "Θα σας βοηθήσω να εγκλιματαστείτε αμέσως."
             },
             {
               "character": "helper",
@@ -484,7 +484,7 @@
               "text@de": "Ich gebe Ihnen einen Rat: Die Bürgermeisterin hat einflussreiche Freunde. Verärgern Sie sie nicht.",
               "text@fr": "Premier conseil: La maire a de puissants amis, ne vous les mettez pas à dos.",
               "text@sl": "Najboljši nasvet - županja ima precej vplivnih prijateljev. Ne zamerite se jim.",
-              "text@el": "Η καλύτερη συμβουλή: Η δήμαρχος έχει ισχυρούς φίλους. Μην τους εξοργίσεις."
+              "text@el": "Η καλύτερη συμβουλή: Η δήμαρχος έχει ισχυρούς φίλους. Μην τους εξοργίσετε."
             },
             {
               "character": "helper",
@@ -523,7 +523,7 @@
           "text@de": "Wir haben drei Einreichungen erhalten. Wählen Sie das beste Angebot aus.",
           "text@fr": "On a reçu trois offres. Choisissez la meilleure.",
           "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
-          "text@el": "Λάβαμε τρεις προσφορές. Επίλεξε την πιο συμφέρουσα."
+          "text@el": "Λάβαμε τρεις προσφορές. Επιλέξτε την πιο συμφέρουσα."
         }
       ],
       "helper": [
@@ -541,7 +541,7 @@
           "text@de": "Ich habe Ihnen ein Dossier zu diesem Thema erstellt. [Klicken Sie hier, um es zu lesen|cartel].",
           "text@fr": "J'ai préparé un mémo sur le sujet. [Cliquez ici pour le lire|cartel].",
           "text@sl": "Pripravila sem vam kratko predstavitev kartela. [Kliknite sem|cartel].",
-          "text@el": "Σου ετοίμασα μερικές σημειώσεις για το θέμα. [Πατήστε εδώ για να τις διαβάσετε|cartel]." 
+          "text@el": "Σας ετοίμασα μερικές σημειώσεις για το θέμα. [Πατήστε εδώ για να τις διαβάσετε|cartel]." 
         }
       ],
       "choices": [
@@ -624,7 +624,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 12,2 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 12,2 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je pripravilo ponudbo za 12,2 milijona.",
-          "text@el": "Η Φάκτορ Κατασκευαστική έκανε προσφορα 12.2 εκατομμυρίων.",
+          "text@el": "Η ΦΑΚΤΟΡ Κατασκευαστική έκανε προσφορα 12.2 εκατομμυρίων.",
           "var_changes": {
             "reserves": -12.2,
             "risk_contractors": 1
@@ -636,7 +636,7 @@
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Grosbéton SARL.",
               "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o.",
-              "text@el": "Επιλεγώ την προσφορά της Φράκτορ."
+              "text@el": "Επιλεγώ την προσφορά της ΦΑΚΤΟΡ."
             },
             {
               "character": "construction-boss",
@@ -711,7 +711,7 @@
           "text@de": "Ach ja: hast du Interesse an einem nagelneuen BMW? Ich habe ihn mir erst vergangenen Monat gekauft, brauche ihn aber eigentlich nicht.",
           "text@fr": "D'ailleurs, tu veux cette BMW ? Je l'ai acheté le mois passé mais je ne m'en sers pas.",
           "text@sl": "Mimogrede, bi si želeli nov BMW? Prejšnji mesec sem kupil enega, a ga v resnici ne potrebujem.",
-          "text@el": "Παραμπιπτώντος, μήπως θα ήθελες αυτήν την καινούργια BMW; Την αγόρασα πριν ένα μήνα αλλά δεν την χρειάζομαι και τόσο."
+          "text@el": "Παραμπιπτώντος, μήπως θα θα θέλατε μία καινούργια BMW; Την αγόρασα πριν ένα μήνα αλλά δεν την χρειάζομαι και τόσο."
         }
       ],
       "helper": [
@@ -842,7 +842,7 @@
           "text@de": "Können Sie eine Lösung für sie finden?",
           "text@fr": "Vous pouvez me trouver une solution ?",
           "text@sl": "Lahko najdete rešitev?",
-          "text@el": "Μπορείς να βρεις μία λύση;"
+          "text@el": "Θα μπορούσατε να βρείτε κάποια λύση;"
         }
       ],
       "helper": [
@@ -860,7 +860,7 @@
           "text@de": "Ich haben Ihnen trotzdem mal ein Dossier zusammengestellt. [Klicken Sie hier, um es zu lesen|bribes].",
           "text@fr": "Mais je vous ai quand même préparé [un mémo sur le sujet|bribes].",
           "text@sl": "Vseeno sem vam pripravila kratko predstavitev. [Za branje kliknite sem|bribes].",
-          "text@el": "Σου ετοίμασα μερικές σημειώσεις για παν ενδεχόμενο. [Πατήστε εδώ για να τις διαβάσετε|bribes]."
+          "text@el": "Σας ετοίμασα μερικές σημειώσεις για παν ενδεχόμενο. [Πατήστε εδώ για να τις διαβάσετε|bribes]."
         }
       ],
       "choices": [
@@ -869,7 +869,7 @@
           "text@de": "Bieten Sie Ihnen an für 5.000 in Bar die Anfrage schneller zu bearbeiten.",
           "text@fr": "Proposer d'accélerer les demandes en échange de 5 000 en liquide",
           "text@sl": "Ponudite pospešitev postopka v zameno za 5.000 v kuverti.",
-          "text@el": "Ζήτα φακελάκι των 5.000 με ανταλλάγμα να επισπεύσεις τις διαδικασίες",
+          "text@el": "Ζήτα φακελάκι των 5.000 για να επισπεύσεις τις διαδικασίες",
           "var_changes": {
             "personal_account": 5000,
             "risk_police": 2
@@ -925,7 +925,7 @@
               "text@de": "Und wie bitteschön sollen wir für dieses Programm bezahlen?",
               "text@fr": "Et comment allons-nous le financer ?",
               "text@sl": "In kje točno bomo dobili denar za to.",
-              "text@el": "Και πώς στο καλό θα βρούμε χρήματα γι' αυτό;"
+              "text@el": "Και πώς θα βρούμε χρήματα γι' αυτό;"
             },
             {
               "character": "mayor",
@@ -933,7 +933,7 @@
               "text@de": "Wenn Sie so weitermachen, werden wir bald kein Geld mehr für meine Empfänge übrig haben.",
               "text@fr": "Si vous continuez sur cette voie, il ne restera bientôt plus rien pour payer mes réceptions.",
               "text@sl": "Če boste tako nadaljevali, ne bo ostalo nič sredstev za moje sprejeme.",
-              "text@el": "Αν συνεχίσεις με αυτόν τον ρυθμό, δεν θα έχουμε πια λεφτά για τις δεξιώσεις μου."
+              "text@el": "Αν συνεχίσετε με αυτόν τον ρυθμό, δεν θα έχουμε πια χρήματα για τις δεξιώσεις μου."
             }
           ]
         },
@@ -953,7 +953,7 @@
               "text@de": "Es tut mir leid, aber ich kann nichts machen.",
               "text@fr": "Je m'en excuse, mais je ne peux rien faire.",
               "text@sl": "Žal mi je, a ničesar ne morem storiti.",
-              "text@el": "Λυπάμαι μα δεν μπορώ να κάνω κάτι για σας."
+              "text@el": "Λυπάμαι, δεν μπορώ να κάνω κάτι για σας."
             },
             {
               "character": "mayor",
@@ -961,7 +961,7 @@
               "text@de": "Diese Leute kommen immer noch zu mir. Es ist nicht auszuhalten!",
               "text@fr": "Ces gens viennent toujours me voir.",
               "text@sl": "Obljubili ste mi rešitev, a niste ukrenili ničesar. Vsi ti ljudje še vedno hodijo k meni!",
-              "text@el": "Μικρέ, αυτοί οι άνθρωποι εξακολουθούν να με ενοχλούν."
+              "text@el": "Αυτοί οι άνθρωποι εξακολουθούν να με ενοχλούν."
             },
             {
               "character": "mayor",
@@ -969,7 +969,7 @@
               "text@de": "Sie sollten dringend etwas an Ihrer Einstellung ändern.",
               "text@fr": "Il va falloir que vous changiez d'attitude.",
               "text@sl": "Nekoliko boste morali spremeniti svoj odnos.",
-              "text@el": "Θα σου πρότεινα να αναθεωρήσεις την στάση σου."
+              "text@el": "Θα σας πρότεινα να αναθεωρήσετε την στάση σας."
             }
           ]
         }
@@ -1026,7 +1026,7 @@
           "text@de": "Ich habe für Sie ein Dossier zusammengestellt. [Klicken Sie hier, um es zu lesen|land_sales].",
           "text@fr": "Je vous ai préparé un mémo. [Cliquez pour le lire.|land_sales]",
           "text@sl": "Pripravila sem vam predstavitev na to temo. [Kliknite sem|land_sales].",
-          "text@el": "Ετοίμασα μερικές σημειώσεις για σένα σχετικά με το θέμα. [Πατήστε εδώ για να τις διαβάσετε|land_sales]."
+          "text@el": "Ετοίμασα μερικές σημειώσεις για σας σχετικά με το θέμα. [Πατήστε εδώ για να τις διαβάσετε|land_sales]."
         }
       ],
       "choices": [
@@ -1047,7 +1047,7 @@
               "text@de": "Sie können es haben, aber der Preis bleibt bei 10 Millionen. Keine Diskussion.",
               "text@fr": "Le terrain est à vous pour 10 millions - non négociable.",
               "text@sl": "Zemljišče je lahko vaše, a cena je 10 milijonov, brez pogajanj.",
-              "text@el": "Είναι όλο δικό σου αλλά η τιμή δεν πεφτεί κάτω από 10 εκατομμύρια. Δεν το διαπραγματεύομαι."
+              "text@el": "Είναι όλο δικό σας αλλά η τιμή δεν πεφτεί κάτω από 10 εκατομμύρια. Δεν το διαπραγματεύομαι."
             },
             {
               "character": "mayor",
@@ -1055,7 +1055,7 @@
               "text@de": "So behandeln Sie meine Freunde?",
               "text@fr": "C'est comme ça que vous traitez mes amis?",
               "text@sl": "Se tako ravna s prijatelji?",
-              "text@el": "Έτσι φέρεσαι στους φίλος μου;"
+              "text@el": "Έτσι φέρεστε στους φίλος μου;"
             },
             {
               "character": "mayor",
@@ -1063,7 +1063,7 @@
               "text@de": "Seien Sie in Zukunft etwas respektvoller!",
               "text@fr": "Dans le futur, soyez plus respectueuse.",
               "text@sl": "V prihodnosti bodite bolj obzirni.",
-              "text@el": "Να δείχνεις μεγαλύτερο σεβασμό από δω και πέρα."
+              "text@el": "Να δείχνετε μεγαλύτερο σεβασμό από δω και πέρα."
             }
           ]
         },
@@ -1099,7 +1099,7 @@
               "text@de": "Ich lasse Ihnen VIP Tickets für’s nächste Spiel zukommen.",
               "text@fr": "Je vous enverrai des tickets pour le prochain match.",
               "text@sl": "Poskrbel bom, da boste prejeli vstopnice za prihodnjo tekmo.",
-              "text@el": "Θα φροντίσω να σου στείλω εισιτήρια για τον επόμενο αγώνα μας."
+              "text@el": "Θα φροντίσω να σας στείλω εισιτήρια για τον επόμενο αγώνα μας."
             }
           ]
         }
@@ -1130,7 +1130,7 @@
           "text@de": "Wir haben drei Angebote erhalten. Wählen Sie das beste aus.",
           "text@fr": "Nous avons reçu trois offres. Choisissez la meilleure.",
           "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
-          "text@el": "Λάβαμε τρείς προσφορές. Επίλεξε την πιο συμφέρουσα."
+          "text@el": "Λάβαμε τρείς προσφορές. Επιλέξτε την πιο συμφέρουσα."
         }
       ],
       "helper": [
@@ -1169,7 +1169,7 @@
               "text@de": "Eine sehr gute Wahl, Herzchen!",
               "text@fr": "Très bon choix.",
               "text@sl": "Odlična izbira, prijatelj moj.",
-              "text@el": "Σωστή επιλογή, φίλε μου!."
+              "text@el": "Σωστή επιλογή, φίλε μου!"
             },
             {
               "character": "construction-boss",
@@ -1186,7 +1186,7 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 7,1 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 7,1 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je pripravilo ponudbo za 7,1 milijona.",
-          "text@el": "Η Φάκτορ Κατασκευαστική έκανε προσφορά 7.1 εκατομμυρίων.",
+          "text@el": "Η ΦΑΚΤΟΡ Κατασκευαστική έκανε προσφορά 7.1 εκατομμυρίων.",
           "var_changes": {
             "reserves": -7.1,
             "risk_contractors": 1
@@ -1198,7 +1198,7 @@
               "text@de": "Ich habe mich für das Angebot der Meinhardt Hoch- u. Tiefbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Guillory Construction SARL.",
               "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o.",
-              "text@el": "Επιλέγω την προσφορά της Φάκτορ."
+              "text@el": "Επιλέγω την προσφορά της ΦΑΚΤΟΡ."
             },
             {
               "character": "construction-boss",
@@ -1214,7 +1214,7 @@
               "text@de": "Du wirst den Job nicht lang behalten, wenn du so weitermachst.",
               "text@fr": "Tu ne resteras pas longtemps en poste si tu continues.",
               "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju.",
-              "text@el": "Δεν θα αντέξεις καιρό αν συνεχίσει έτσι."
+              "text@el": "Δεν θα αντέξεις καιρό αν συνεχίσεις έτσι."
             
             },
             {
@@ -1222,14 +1222,16 @@
               "text@en": "Cartels rotate the company that wins the tender.",
               "text@de": "In einem Kartell wird vorher bestimmt, welche Firma die Ausschreibung gewinnt. Dabei wechseln sich die Firmen ab.",
               "text@fr": "Dans un cartel, la société qui remporte l'appel d'offre change régulièrement.",
-              "text@sl": "Člani kartela, ki so uspešni pri oddaji ponudbe, se menjajo od poziva do poziva."
+              "text@sl": "Člani kartela, ki so uspešni pri oddaji ponudbe, se menjajo od poziva do poziva.",
+              "text@el": "Τα καρτέλ καθορίζουν ποια εταιρεία θα αναλάβει το έργο και κάθε φορά εναλάσσονται μεταξύ τους."
             },
             {
               "character": "helper",
               "text@en": "The winner then pays off other members of the cartel.",
               "text@de": "Diejenige Firma, welche gewonnen hat, bezahlt daraufhin anteilig die anderen Mitglieder des Kartells.",
               "text@fr": "Elle paye ensuite les autres membres du cartel.",
-              "text@sl": "Zmagovalec nato izplača deleže še ostalim članom kartela."
+              "text@sl": "Zmagovalec nato izplača deleže še ostalim članom kartela.",
+              "text@el": "Στην συνέχεια η νικήτρια εταιρεία μοιράζεται τα κέρδη με τις υπόλοιπες του καρτέλ."
             },
             {
               "character": "helper",
@@ -1237,6 +1239,7 @@
               "text@de": "Sie haben sich nicht für die Firma entschieden, die hätte gewinnen sollen. Damit haben Sie die Meinhardt GmbH in Schwierigkeiten gebracht.",
               "text@fr": "En ne choisissant pas la société qui aurait dû gagner, vous embarrassez Guillory.",
               "text@sl": "Gospoda Mavčarja ste spravili v zadrego, saj niste izbrali podjetja, ki bi moralo zmagati."
+              "text@el": "Ντροπιάζετε τον Λαμπρόπουλος αν δεν επιλέξετε την εταιρεία που ήταν να κερδίσει."
             }
           ]
         },
@@ -1245,6 +1248,7 @@
           "text@de": "Das Angebot der Eco-Sence Construction liegt bei 7,2 Millionen.",
           "text@fr": "Eco-Sense Construction a fait une offre à 7,2 millions",
           "text@sl": "Podjetje Eco-Sense Konstrukcije je oddalo ponudbo ya 7,2 milijona.",
+          "text@el": "Η Eco-Sense έκανε προσφορά των 7.2 εκατομμυρίων.",
           "var_changes": {
             "reserves": -7.2,
             "risk_contractors": 1
@@ -1255,21 +1259,24 @@
               "text@en": "I choose the offer of Eco-Sense Construction.",
               "text@de": "Ich habe mich für das Angebot der Eco-Sence Construction entschieden.",
               "text@fr": "Je choisis l'offre de Eco-Sense.",
-              "text@sl": "Izbrana je ponudba podjetja Eco-Sense."
+              "text@sl": "Izbrana je ponudba podjetja Eco-Sense.",
+              "text@el": "Επιλέγω την προσφορά της Eco-Sense."
             },
             {
               "character": "construction-boss",
               "text@en": "Playing with fire, are we?",
               "text@de": "Du spielst mit dem Feuer, meine Liebe!",
               "text@fr": "Alors, on joue avec le feu ?",
-              "text@sl": "Očitno se radi igrate z ognjem."
+              "text@sl": "Očitno se radi igrate z ognjem.",
+              "text@el": "Παίζεις με την φωτιά, έτσι;"
             },
             {
               "character": "construction-boss",
               "text@en": "You won't last long if you continue like this.",
               "text@de": "Wenn du so weitermachst, wirst du nicht lange dabei bleiben",
               "text@fr": "Tu ne resteras pas longtemps en poste si tu continues.",
-              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju."
+              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju.",
+              "text@el": "Δεν θα αντέξεις καιρό αν συνεχίσεις έτσι."
             }
           ]
         }
@@ -1283,14 +1290,16 @@
           "text@en": "Hey, I just got your voicemail.",
           "text@de": "Hallo! Ich habe Ihre Nachricht erhalten.",
           "text@fr": "Je viens d'avoir votre message.",
-          "text@sl": "Zdravo. Pravkar sem prejela vaše glasovno sporočilo."
+          "text@sl": "Zdravo. Pravkar sem prejela vaše glasovno sporočilo.",
+          "text@el": "Έλα, μόλις έλαβα το μήνυμά σου."
         },
         {
           "character": "lawyer",
           "text@en": "So, you want to create your own company?",
           "text@de": "Sie wollen Ihre eigene Firma gründen?",
           "text@fr": "Vous voulez créer votre propre société, c'est ça ?",
-          "text@sl": "Če prav razumem, bi radi ustanovili svoje podjetje."
+          "text@sl": "Če prav razumem, bi radi ustanovili svoje podjetje.",
+          "text@el": "Ώστε αποφάσισες να ιδρύσεις την δική σου εταιρεία;"
         }
       ],
       "helper": [
@@ -1299,14 +1308,16 @@
           "text@en": "Getting into conflicts of interests, are we?",
           "text@de": "Damit begeben Sie sich in einen Interessenkonflikt.",
           "text@fr": "Vous vous engagez dans un conflit d'intérêts.",
-          "text@sl": "To diši po nasprotju interesov."
+          "text@sl": "To diši po nasprotju interesov.",
+          "text@el": "Έτσι προκύπτουν καταστάσεις σύγκρουσης συμφερόντων."
         },
         {
           "character": "helper",
           "text@en": "You might want to [read this|conflicts_of_interest] before you decide anything.",
           "text@de": "Sie sollten [dieses Dossier lesen|conflicts_of_interest],bevor Sie eine Entscheidung treffen.",
           "text@fr": "Vous devriez [lire ceci|conflicts_of_interest] avant de décider de quoi que ce soit.",
-          "text@sl": "Morda bi bilo dobro, če [bi prebrali to|conflicts_of_interest], preden se karkoli odločite."
+          "text@sl": "Morda bi bilo dobro, če [bi prebrali to|conflicts_of_interest], preden se karkoli odločite.",
+          "text@el": "Ίσως θα θέλατε να [ρίξετε μια ματιά εδω|conflicts_of_interest] πριν πάρετε κάποια απόφαση."
         }
       ],
       "choices": [
@@ -1315,6 +1326,7 @@
           "text@de": "Ja",
           "text@fr": "Oui",
           "text@sl": "Da.",
+          "text@el": "Ναι.",
           "var_changes": {
             "own_company": 1
           },
@@ -1324,7 +1336,8 @@
               "text@en": "Yes, a public works company.",
               "text@de": "Ja, eine Firma für Tiefbau.",
               "text@fr": "Oui, une société de travaux publics.",
-              "text@sl": "Da, podjetje, ki se bo ukvarjalo z javno infrstrukturo."
+              "text@sl": "Da, podjetje, ki se bo ukvarjalo z javno infrstrukturo.",
+              "text@el": "Ναι, μία εταιρεία δημοσίων έργων,"
             }
           ]
         },
@@ -1333,6 +1346,7 @@
           "text@de": "Nein",
           "text@fr": "Non",
           "text@sl": "Ne.",
+          "text@el": "Όχι.",
           "var_changes": {
             "own_company": 0
           },
@@ -1342,14 +1356,16 @@
               "text@en": "No, it's not a good idea actually.",
               "text@de": "Nein, das wäre keine gute Idee.",
               "text@fr": "Non, ce n'est pas une bonne idée.",
-              "text@sl": "Morda pa to res ni najboljša ideja."
+              "text@sl": "Morda pa to res ni najboljša ideja.",
+              "text@el": "Όχι. Ίσως τελικά να μην είναι καλή ιδέα."
             },
             {
               "character": "lawyer",
               "text@en": "Well, you have the right to change your mind.",
               "text@de": "In Ordnung. Sie haben das Recht Ihre Ansicht zu ändern.",
               "text@fr": "OK, vous avez le droit de changer d'avis.",
-              "text@sl": "OK, seveda imate pravico do spremembe mnenja."
+              "text@sl": "OK, seveda imate pravico do spremembe mnenja.",
+              "text@el": "Εντάξει. Έχεις χρόνο, αν αλλάξεις γνώμη."
             }
           ]
         }
@@ -1367,14 +1383,16 @@
           "text@en": "I'll get started with the paperwork.",
           "text@de": "Ich werde mich um die Unterlagen kümmern.",
           "text@fr": "Je vais m'occuper de la paperasse.",
-          "text@sl": "Pričela bom urejati dokumente."
+          "text@sl": "Pričela bom urejati dokumente.",
+          "text@el": "Θα ξεκινήσω την διαδικασία."
         },
         {
           "character": "lawyer",
           "text@en": "Who should be the nominal owner of the company?",
           "text@de": "Wer soll der Firmeneigentümer sein?",
           "text@fr": "Qui doit être le propriétaire de la société ?",
-          "text@sl": "Kdo naj bo uradni lastnik podjetja."
+          "text@sl": "Kdo naj bo uradni lastnik podjetja.",
+          "text@el": "Ποιος θα είναι ιδιοκτήτης της εταιρείας;"
         }
       ],
       "choices": [
@@ -1383,6 +1401,7 @@
           "text@de": "Sie persönlich",
           "text@fr": "Vous personnement",
           "text@sl": "Vi osebno",
+          "text@el": "Εσύ προσωπικά.",
           "var_changes": {
             "risk_police": 2
           },
@@ -1392,14 +1411,16 @@
               "text@en": "Me.",
               "text@de": "Ich.",
               "text@fr": "Moi.",
-              "text@sl": "Jaz."
+              "text@sl": "Jaz.",
+              "text@el": "Εγώ,"
             },
             {
               "character": "lawyer",
               "text@en": "It's easier, but it'll make it very easy to link you back to the company.",
               "text@de": "Das ist die einfachste Lösung. Es wird allerdings sehr leicht sein eine Beziehung zwischen Ihnen und der Firma herzustellen.",
               "text@fr": "C'est le plus simple, mais ça sera très facile de vous relier à la société.",
-              "text@sl": "To je bolj preprosta rešitev, a vas bo zelo lahko povezati s podjetjem."
+              "text@sl": "To je bolj preprosta rešitev, a vas bo zelo lahko povezati s podjetjem.",
+              "text@el": "Είναι πιο απλό αλλά θα συνδεθεί ευκολότερα το όνομά σου με την εταιρεία."
             }
           ]
         },
@@ -1408,6 +1429,7 @@
           "text@de": "Ihr Partner",
           "text@sl": "Vaš partner",
           "text@fr": "Votre époux ou partenaire",
+          "text@el": "Η σύντροφός σου",
           "var_changes": {
             "risk_police": 1
           },
@@ -1417,14 +1439,16 @@
               "text@en": "My spouse.",
               "text@de": "Mein Ehemann.",
               "text@fr": "Mon époux.",
-              "text@sl": "Vaš partner"
+              "text@sl": "Vaš partner",
+              "text@el": "Η γυναίκα μου."
             },
             {
               "character": "lawyer",
               "text@en": "Smart move, but it'll be easy to link you back to the company.",
               "text@de": "Gute Idee, aber es wird ein Leichtes sein eine Verbindung über Ihren Namen herzustellen.",
               "text@fr": "Bonne idée, mais ça sera assez simple de vous relier à la société.",
-              "text@sl": "Dobra ideja, a vas bo zelo lahko povezati s podjetjem."
+              "text@sl": "Dobra ideja, a vas bo zelo lahko povezati s podjetjem.",
+              "text@el": "Έξυπνη κίνηση αλλά είναι σχετικά εύκολο να συνδεθεί το όνομά σου με την εταιρεία."
             }
           ]
         },
@@ -1433,6 +1457,7 @@
           "text@de": "Eine Strohfirma in einer Steueroase",
           "text@fr": "Une société-écran",
           "text@sl": "Slamnato podjetje v davčni oazi",
+          "text@el": "Εικονική εταιρεία σε φορολογικό παράδεισο.",
           "var_changes": {
             "shell_company": 1
           },
@@ -1442,28 +1467,32 @@
               "text@en": "A shell company.",
               "text@de": "Eine Strohfirma.",
               "text@fr": "Une société-écran.",
-              "text@sl": "Slamnato podjetje v davčni oazi"
+              "text@sl": "Slamnato podjetje v davčni oazi",
+              "text@el": "Εικονική εταιρεία."
             },
             {
               "character": "lawyer",
               "text@en": "Good choice.",
               "text@de": "Gute Idee.",
               "text@fr": "Bonne idée.",
-              "text@sl": "Dobra ideja"
+              "text@sl": "Dobra ideja",
+              "text@el": "Καλή επιλογή."
             },
             {
               "character": "lawyer",
               "text@en": "I'll set it up in the Seychelles.",
               "text@de": "Ich werde sie auf den Seychellen gründen.",
               "text@fr": "Je vais la créer aux Seychelles.",
-              "text@sl": "Odprla bom podjetje na Sejšelih."
+              "text@sl": "Odprla bom podjetje na Sejšelih.",
+              "text@el": "Θα έχει έδρα τις Σεϋχέλλες."
             },
             {
               "character": "lawyer",
               "text@en": "It'll take a bit longer, but you'll be safe.",
               "text@de": "Das dauert ein wenig länger, ist aber wesentlich sicherer.",
               "text@fr": "Ça sera un peu plus long, mais vous serez tranquille.",
-              "text@sl": "Trajalo bo nekoliko dlje, a boste vsaj mirno spali."
+              "text@sl": "Trajalo bo nekoliko dlje, a boste vsaj mirno spali.",
+              "text@el": "Μπορεί να πάρει περισσότερο χρόνο αλλά είναι ασφαλέστερο."
             }
           ]
         }
@@ -1481,21 +1510,24 @@
           "text@en": "We passed a tender to build a new school.",
           "text@de": "Wir haben eine Ausschreibung für den Bau einer neuen Schule am Laufen.",
           "text@fr": "Nous avons passé un appel d'offre pour construire une nouvelle école.",
-          "text@sl": "Objavili smo poziv za oddajo ponudb za gradnjo nove šole."
+          "text@sl": "Objavili smo poziv za oddajo ponudb za gradnjo nove šole.",
+          "text@el": "Ψηφίστηκε η απόφαση να χτιστεί καινούργιο σχολικό κτίριο."
         },
         {
           "character": "mayor",
           "text@en": "Our construction department estimates the cost of the works at 3 million.",
           "text@de": "Das Amt für Bauwesen hat die Kosten auf 3 Millionen geschätzt.",
           "text@fr": "Notre bureau d'études évalue les travaux à 3 millions.",
-          "text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone."
+          "text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone.",
+          "text@el": "Το Τμήμα Ανάπτυξης και Κατασκευών υπολογιζεί το κόστος των εργασιών στα 3 εκατομμύρια."
         },
         {
           "character": "mayor",
           "text@en": "We received three offers. Pick the best one.",
           "text@de": "Wir haben drei Angebote erhalten. Wählen Sie das beste aus.",
           "text@fr": "Nous avons reçu 3 offres. Choisissez la meilleure.",
-          "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo."
+          "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
+          "text@el": "Λάβαμε τρεις προσφορές. Επιλέξτε την πιο συμφέρουσα."
         }
       ],
       "helper": [
@@ -1504,7 +1536,8 @@
           "text@en": "Six years on the job and already running a cartel! Here's my [memo on the topic|cartel] if you need it.",
           "text@de": "Sie befinden sich nun an der Spitze eines Kartells! Mein [Memo über das Kartell ist noch immer da|cartel].",
           "text@fr": "Vous voilà à la tête d'un cartel ! Mon [mémo sur les cartels est toujours là|cartel] si besoin.",
-          "text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel]."
+          "text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel].",
+          "text@el": "Έξι χρόνια σε αυτήν την θέση και ήδη εμπλέκεστε σε καρτέλ! [Οι σημειώσεις μου για τα καρτέλ υπάρχουν ακόμα εδώ|cartel]."
         }
       ],
       "choices": [
@@ -1513,6 +1546,7 @@
           "text@de": "Das Angebot Ihrer Firma liegt bei 3,5 Millionen.",
           "text@fr": "Votre société a fait une offre à 3,5 millions",
           "text@sl": "Vaše podjetje je oddalo ponudbo za 3,5 milijona.",
+          "text@el": "Η δική σου εταιρεία έκανε προσφορά των 3.5 εκατομμυρίων.",
           "var_changes": {
             "reserves": -3.5,
             "risk_police": 1,
@@ -1524,21 +1558,24 @@
               "text@en": "I choose my company.",
               "text@de": "Ich habe mich für das Angebot meiner Firma entschieden.",
               "text@fr": "Je choisis ma société.",
-              "text@sl": "Izbral sem svoje podjetje."
+              "text@sl": "Izbral sem svoje podjetje.",
+              "text@el": "Επιλέγω την εταιρεία μου."
             },
             {
               "character": "construction-boss",
               "text@en": "Like a boss!",
               "text@de": "Du sorgst dich wie ein Chef.",
               "text@fr": "Tu te débrouilles comme un chef !",
-              "text@sl": "Kot pravi šef!"
+              "text@sl": "Kot pravi šef!",
+              "text@el": "Είσαι ο αρχηγός!"
             },
             {
               "character": "construction-boss",
               "text@en": "Don't forget to pay us our share.",
               "text@de": "Vergiss nicht uns unseren Teil auszuzahlen!",
               "text@fr": "N'oublie pas de nous payer notre part.",
-              "text@sl": "Ne pozabite na naš delež!"
+              "text@sl": "Ne pozabite na naš delež!",
+              "text@el": "Μην ξεχάσεις το μερίδιό μας."
             }
           ]
         },
@@ -1547,6 +1584,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 3,6 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 3,6 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je oddalo ponudbo za 3,6 milijona.",
+          "text@el": "Η Λαμπρόπουλος Κατασκευαστική Α.Ε. έκανε προσφορά των 3.6 εκατομμυρίων.",
           "var_changes": {
             "reserves": -3.6,
             "risk_contractors": 1
@@ -1557,21 +1595,25 @@
               "text@en": "I choose Concrete Construction.",
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis Grosbéton SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o.",
+              "text@el": "Επιλέγω την Λαμπρόπουλος Α.Ε." 
             },
             {
               "character": "construction-boss",
               "text@en": "What the hell?",
               "text@de": "Wie bitte?",
               "text@fr": "Quoi ?",
-              "text@sl": "Kaj! Kako, prosim?"
+              "text@sl": "Kaj! Kako, prosim?",
+              "text@el": "Ορίστε!;"
+
             },
             {
               "character": "construction-boss",
               "text@en": "You run a cartel and you can't even pick the right offer?",
               "text@de": "Du baust ein Kartell auf, aber bist nicht in der Lage das richtige Angebot auszuwählen?",
               "text@fr": "Tu fais un cartel et tu ne choisis pas la bonne offre ?",
-              "text@sl": "Vodite našo kartelno združbo in niste sposobni izbrati pravega ponudnika!"
+              "text@sl": "Vodite našo kartelno združbo in niste sposobni izbrati pravega ponudnika!",
+              "text@el": "Στήνεις ολόκληρο καρτέλ και δεν μπορείς να διαλέξεις την σωστή προσφορά;"
             }
           ]
         },
@@ -1580,6 +1622,7 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 3,7 Millionen",
           "text@fr": "Guillory Construction SARL a fait une offre à 3,7 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je oddalo ponudbo v višini 3,7 milijona.",
+          "text@el": "Η ΦΑΚΤΟΡ έκανε προσφορά των 3.7 εκατομμυρίων.",
           "var_changes": {
             "reserves": -3.7,
             "risk_contractors": 1
@@ -1590,14 +1633,16 @@
               "text@en": "I choose Robert Construction Limited.",
               "text@de": "Ich habe mich für das Angebot der Meinhardt Hoch- u. Tiefbau GmbH entschieden.",
               "text@fr": "Je choisis Guillory Construction SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o.",
+              "text@el": "Επιλέγω την ΦΑΚΤΟΡ."
             },
             {
               "character": "construction-boss",
               "text@en": "What the hell?",
               "text@de": "Wie bitte?",
               "text@fr": "Quoi ?",
-              "text@sl": "Kaj! Kako, prosim?"
+              "text@sl": "Kaj! Kako, prosim?",
+              "text@el": "Ορίστε!;"
             },
             {
               "character": "construction-boss",
@@ -1605,6 +1650,7 @@
               "text@de": "Du baust ein Kartell auf, aber bist nicht in der Lage das richtige Angebot auszuwählen?",
               "text@fr": "Tu fais un cartel et tu ne choisis pas la bonne offre ?",
               "text@sl": "Vodite našo kartelno združbo in niste sposobni izbrati pravega ponudnika!"
+              "text@el": "Στήνεις ολόκληρο καρτέλ και δεν μπορείς να διαλέξεις την σωστή προσφοράς;"
             }
           ]
         }
@@ -1622,21 +1668,24 @@
           "text@en": "We passed a tender to build a new school.",
           "text@de": "Wir haben eine Ausschreibung für den Neubau einer Schule veröffentlicht.",
           "text@fr": "On a passé un appel d'offre pour construire une nouvelle école.",
-          "text@sl": "Objavili smo poziv za oddajo ponudb za gradnjo nove šole."
+          "text@sl": "Objavili smo poziv za oddajo ponudb za gradnjo nove šole.",
+          "text@el": "Ψηφίστηκε η απόφαση να χτιστεί καινούργιο σχολικό κτίριο."
         },
         {
           "character": "mayor",
           "text@en": "Our construction department estimates the cost of the works at 3 million.",
           "text@de": "Das Amt für Bauwesen hat die Kosten auf 3 Millionen geschätzt.",
           "text@fr": "Notre bureau d'études évalue les travaux à 3 millions.",
-          "text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone."
+          "text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone.",
+          "text@el": "Το Τμήμα Ανάπτυξης και Κατασκευών υπολογιζεί το κόστος των εργασιών στα 3 εκατομμύρια."
         },
         {
           "character": "mayor",
           "text@en": "We received three offers. Pick the best one.",
           "text@de": "Wir haben drei Angebote erhalten. Wählen Sie das beste aus.",
           "text@fr": "On a reçu 3 offres. Choisissez la meilleure.",
-          "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo."
+          "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
+          "Λάβαμε τρεις προσφορές. Επιλέξτε την πιο συμφέρουσα."
         }
       ],
       "helper": [
@@ -1645,7 +1694,8 @@
           "text@en": "Here's my [memo on cartels|cartel], just in case.",
           "text@de": "Mein [Dossier zum Thema Kartelle|cartel] ist noch immer verfügbar.",
           "text@fr": "Mon [mémo sur les cartels|cartel] est toujours disponible.",
-          "text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel]."
+          "text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel].",
+          "text@el": "Εδώ είναι [οι σημειώσεις μου για τα καρτέλ|cartel], για παν ενδεχόμενο."
         }
       ],
       "choices": [
@@ -1654,6 +1704,7 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 3,5 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 3,5 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je oddalo ponudbo za 3,5 milijona.",
+          "text@el": "Η Λαμπρόπουλος Κατασκευαστική Α.Ε. έκανε προσφορά των 3.5 εκατομμυρίων.",
           "var_changes": {
             "reserves": -3.5,
             "personal_account": 1000
@@ -1664,21 +1715,24 @@
               "text@en": "I choose Robert Construction Limited.",
               "text@de": "Ich habe mich für das Angebot der Meinhardt Hoch- u. Tiefbau GmbH entschieden.",
               "text@fr": "Je choisis Guillory Construction SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO d.o.o.",
+              "text@el": "Επιλέγω την Λαμπρόπουλος Α.Ε."
             },
             {
               "character": "construction-boss",
               "text@en": "Good choice, buddy.",
               "text@de": "Gute Wahl!",
               "text@fr": "Bon choix !",
-              "text@sl": "Odlična izbira"
+              "text@sl": "Odlična izbira",
+              "text@el": "Καλή επιλογή, φίλε μου."
             },
             {
               "character": "construction-boss",
               "text@en": "Your share will be deposited in your office, as usual.",
               "text@de": "Deinen Teil findest du, wie immer, auf deinem Schreibtisch.",
               "text@fr": "Tu trouveras ta part sur ton bureau, comme d'habitude.",
-              "text@sl": "Vaš delež boste prejeli v vaši pisarni - kot običajno."
+              "text@sl": "Vaš delež boste prejeli v vaši pisarni - kot običajno.",
+              "text@el": "Θα λάβεις το μερίδιό σου στο γραφείο σου, όπως πάντα."
             }
           ]
         },
@@ -1687,6 +1741,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 3,6 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 3,6 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je oddalo ponudbo za 3,6 milijona.",
+          "text@el": "Η ΦΑΚΤΟΡ έκανε προσφορά των 3.6 εκατομμυρίων.",
           "var_changes": {
             "reserves": -3.6,
             "risk_contractors": 1
@@ -1697,21 +1752,24 @@
               "text@en": "I choose Concrete Construction.",
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis Grosbéton SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.ο.",
+              "text@el": "Επιλέγω την ΦΑΚΤΟΡ."
             },
             {
               "character": "construction-boss",
               "text@en": "Playing with fire, are we?",
               "text@de": "Du spielst mit dem Feuer!",
               "text@fr": "Tu joues avec le feu !",
-              "text@sl": "Se radi igrate z ognjem?"
+              "text@sl": "Se radi igrate z ognjem?",
+              "text@el": "Παίζεις με την φωτιά, έτσι;"
             },
             {
               "character": "construction-boss",
               "text@en": "You won't last long if you continue like this.",
               "text@de": "Du wirst den Job nicht lang behalten, wenn du so weitermachst.",
               "text@fr": "Tu ne tiendras pas longtemps si tu continues comme ça.",
-              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju."
+              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju.",
+              "text@el": "Δεν θα αντέξεις πολύ αν συνεχίσεις έτσι."
             }
           ]
         },
@@ -1720,6 +1778,7 @@
           "text@de": "Das Angebot der Eco-Sense Construction liegt bei 3,7 Millionen",
           "text@fr": "Eco-Sense Construction a fait une offre à 3,7 millions",
           "text@sl": "Podjetje Eco-Sence Konstrukcije je oddalo ponudbo za 3,7 milijona.",
+          "text@el": "Η Eco-Sense έκανε προσφορά των 3.7 εκατομμυρίων.",
           "var_changes": {
             "reserves": -3.7,
             "risk_contractors": 1
@@ -1730,21 +1789,24 @@
               "text@en": "I choose Eco-Sense Construction.",
               "text@de": "Ich habe mich für das Angebot der Eco-Sense Construction entschieden.",
               "text@fr": "Je choisis Eco-Sense.",
-              "text@sl": "Izbrana je ponudba podjetja Eco-Sense Konstrukcije."
+              "text@sl": "Izbrana je ponudba podjetja Eco-Sense Konstrukcije.",
+              "text@el": "Επιλέγω την ΦΑΚΤΟΡ."
             },
             {
               "character": "construction-boss",
               "text@en": "Playing with fire, are we?",
               "text@de": "Du spielst mit dem Feuer!",
               "text@fr": "Tu joues avec le feu !",
-              "text@sl": "Se radi igrate z ognjem?"
+              "text@sl": "Se radi igrate z ognjem?",
+              "text@el": "Παίζεις με την φωτιά, έτσι;"
             },
             {
               "character": "construction-boss",
               "text@en": "You won't last long if you continue like this.",
               "text@de": "Du wirst den Job nicht lang behalten, wenn du so weitermachst.",
               "text@fr": "Tu ne tiendras pas longtemps si tu continue comme ça.",
-              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju."
+              "text@sl": "Če boste nadaljevali tako, ne boste več dolgo na svojem položaju.",
+              "text@el": "Δεν θα αντέξεις πολύ αν συνεχίσεις έτσι."
             }
           ]
         }
@@ -1758,7 +1820,8 @@
           "text@en": "As part of the Smart Administration 2000 plan, I want you to have a credit card.",
           "text@de": "Im Rahmen meines „Smart Administration 2000“ Plans habe ich befugt, dass Sie eine Kreditkarte erhalten.",
           "text@fr": "Dans le cadre de mon programme Smart Administration 2000, vous avez droit à une carte de crédit.",
-          "text@sl": "V skladu z mojim načrtom Pametna Uprava 2000, želim da pričnete uporabljati kreditno kartico."
+          "text@sl": "V skladu z mojim načrtom Pametna Uprava 2000, želim da pričnete uporabljati kreditno kartico.",
+          "text@el": "Στα πλαίσια του προγράμματος Smart Administration 2000, θέλω να πάρετε αυτήν την πιστωτική κάρτα."
         },
         {
           "character": "mayor",
@@ -1766,6 +1829,7 @@
           "text@de": "Es wird Ihre Produktivität steigern und die Bürger werden davon profitieren.",
           "text@fr": "Cela va améliorer votre productivité et profiter aux citoyens !",
           "text@sl": "Lažje boste delali in tako naredili več za občane."
+          "text@el": "Θα κάνει την δουλειά σας ταχύτερη και θα ωφελήσει τους πολίτες!"
         }
       ],
       "helper": [
@@ -1774,7 +1838,8 @@
           "text@en": "I prepared a [memo on credit cards|credit_card] for you.",
           "text@de": "Ich habe für Sie [ein Dossier zu diesem Thema|credit_card] zusammengestellt.",
           "text@fr": "Je vous ai préparé [un mémo sur les cartes de crédit.|credit_card]",
-          "text@sl": "Pripravila sem vam [kratko predstavitev o uporabi kreditnih kartic|credit_card]"
+          "text@sl": "Pripravila sem vam [kratko predstavitev o uporabi kreditnih kartic|credit_card]",
+          "text@el": "Ετοίμασα μερικές [σημειώσεις για τις πιστωτικές κάρτες|credit_card]."
         }
       ],
       "choices": [
@@ -1783,6 +1848,7 @@
           "text@de": "Mit der Kreditkarte DVDs auf amazon.de kaufen.",
           "text@fr": "Utiliser la carte de crédit pour acheter des DVD sur Amazon.fr",
           "text@sl": "Preizkusite kartico in na Amazonu naročite nekaj DVD-jev.",
+          "text@el": "Αγόρασε DVD από το Amazon και πλήρωσε με την κάρτα.",
           "var_changes": {
             "risk_police": 4,
             "personal_account": 1000
@@ -1793,28 +1859,32 @@
               "text@en": "Oh, a credit card!",
               "text@de": "Oh, eine Kreditkarte!",
               "text@fr": "Oh, une carte de crédit !",
-              "text@sl": "Oho, kreditna kartica!"
+              "text@sl": "Oho, kreditna kartica!",
+              "text@el": "Ω, πιστωτική κάρτα!"
             },
             {
               "character": "you",
               "text@en": "Let's buy some new DVDs on Amazon.com",
               "text@de": "Ich werde mir ein paar DVDs auf amazon.de kaufen.",
               "text@fr": "Je vais m'acheter des DVD sur Amazon.fr",
-              "text@sl": "No, pa naročimo nekaj filmov na Amazonu."
+              "text@sl": "No, pa naročimo nekaj filmov na Amazonu.",
+              "text@el": "Ας αγοράσω μερικά DVD από το Amazon."
             },
             {
               "character": "lawyer",
               "text@en": "No, you didn't, did you?",
               "text@de": "Das haben Sie nicht ersthaft getan! Oder?",
               "text@fr": "Non, vous n'avez pas fait ça ?",
-              "text@sl": "Ne! Saj si niste res privoščili tega?"
+              "text@sl": "Ne! Saj si niste res privoščili tega?",
+              "text@el": "Πες μου ότι δεν το έκανες!"
             },
             {
               "character": "lawyer",
               "text@en": "As soon as the comptroller reads the credit card statements, you'll be fired!",
               "text@de": "Wenn der Rechnungsprüfer das entdeckt sind Sie gefeuert!",
               "text@fr": "Quand le comptable lira le relevé de carte bleue, vous serez mise à la porte !",
-              "text@sl": "Takoj, ko bo kakšen nadzornik videl izpiske kreditne kartice, boste odpuščeni."
+              "text@sl": "Takoj, ko bo kakšen nadzornik videl izpiske kreditne kartice, boste odpuščeni.",
+              "text@el": "Μόλις οι κινήσεις της κάρτας περάσουν από έλεγχο, απολύεσαι!."
             }
           ]
         },
@@ -1823,6 +1893,7 @@
           "text@de": "Nichts unternehmen.",
           "text@fr": "Ne rien faire",
           "text@sl": "Ne storite ničesar",
+          "text@el": "Μην κάνεις τίποτα.",
           "var_changes": {
             "risk_police": 0
           },
@@ -1832,21 +1903,24 @@
               "text@en": "I don't see the need for it.",
               "text@de": "Daran habe ich kein Interesse.",
               "text@fr": "Je ne vois pas l'intérêt.",
-              "text@sl": "Mislim, da je ne potrebujem."
+              "text@sl": "Mislim, da je ne potrebujem.",
+              "text@el": "Δεν την θεωρώ αναγκαία."
             },
             {
               "character": "mayor",
               "text@en": "You're right, better be careful with this plastic thingy.",
               "text@de": "Sie haben Recht. Man sollte vorsichtig sein mit diesen kleinen Plastikkarten.",
               "text@fr": "Vous avez raison, faites attention avec ce bout de plastique.",
-              "text@sl": "Imate prav. Bolje je biti previden s temi plastičnimi igračami."
+              "text@sl": "Imate prav. Bolje je biti previden s temi plastičnimi igračami.",
+              "text@el": "Έχετε δίκιο. Καλύτερα να προσέχετε με αυτό το πλαστικό πράγμα."
             },
             {
               "character": "mayor",
               "text@en": "I don't want any scandal here.",
               "text@de": "Ich will keinen Skandal in meinem Haus.",
               "text@fr": "Je ne veux pas de scandale chez moi.",
-              "text@sl": "Ne želim si nobenega škandala v mestni hiši."
+              "text@sl": "Ne želim si nobenega škandala v mestni hiši.",
+              "text@el": "Δεν θέλω σκάνδαλα εδω."
             }
           ]
         }
@@ -1860,14 +1934,16 @@
           "text@en": "There's an election coming up.",
           "text@de": "Bald geht der Wahlkampf wieder los.",
           "text@fr": "Les élections municipales arrivent.",
-          "text@sl": "Volitve prihajajo."
+          "text@sl": "Volitve prihajajo.",
+          "text@el": "Ερχονται εκλογές."
         },
         {
           "character": "mayor",
           "text@en": "I want you to run some ads that praise my work in the local paper, using city funds.",
           "text@de": "Ich möchte, dass mit Mitteln der Gemeinde in den Zeitungen für mich geworben wird.",
           "text@fr": "J'aimerais que vous me fassiez de la publicité dans le journal local en utilisant les fonds de la mairie.",
-          "text@sl": "Želim, da v lokalnem časopisu z mestnimi sredstvi plačate nekaj oglasov o uspešnosti mojega dosedanjega dela."
+          "text@sl": "Želim, da v lokalnem časopisu z mestnimi sredstvi plačate nekaj oglasov o uspešnosti mojega dosedanjega dela.",
+          "text@el": "Θέλω να βάλεις μερικές διαφημίσεις στην τοπική εφημερίδα για να αναδείξεις το έργο μου. Δημοσία δαπάνη, φυσικά."
         }
       ],
       "helper": [
@@ -1876,7 +1952,8 @@
           "text@en": "I prepared a [memo on political advertising|ads], in case you need help.",
           "text@de": "Ich habe für Sie [ein Dossier zur politischen Werbung|ads] zusammengestellt.",
           "text@fr": "Je vous ai préparé [un mémo sur la publicité politique|ads], au cas où.",
-          "text@sl": "Pripravila sem vam predstavitev o [političnem oglaševanju|ads]."
+          "text@sl": "Pripravila sem vam predstavitev o [političnem oglaševanju|ads].",
+          "text@el": "Ορίστε μερικές [σημειώσεις για την πολιτική διαφήμιση|ads], σε περίπτωση που χρειαστείς βοήθεια."
         }
       ],
       "choices": [
@@ -1885,6 +1962,7 @@
           "text@de": "Auf keinen Fall. Das wäre unethisch.",
           "text@fr": "Pas question, ce n'est pas éthique.",
           "text@sl": "Ne pride v poštev, to ni etično.",
+          "text@el": "Αποκλείεται! Είναι ανήθικο.",
           "var_changes": {
             "risk_political": 3
           },
@@ -1894,28 +1972,32 @@
               "text@en": "I can't do this, it's unethical.",
               "text@de": "Das kann ich nicht machen, es ist unethisch.",
               "text@fr": "Je ne peux pas le faire. Ce n'est pas éthique.",
-              "text@sl": "Tega ne morem storiti, saj je neetično."
+              "text@sl": "Tega ne morem storiti, saj je neetično.",
+              "text@el": "Δεν μπορώ να το κάνω αυτό. Είναι ανήθικο.",
             },
             {
               "character": "mayor",
               "text@en": "What????",
               "text@de": "Wie bitte????",
               "text@fr": "Qu'entends-je ???",
-              "text@sl": "Kaaaaaaaj!!??"
+              "text@sl": "Kaaaaaaaj!!??",
+              "text@el": "Τιι;;;;"
             },
             {
               "character": "mayor",
               "text@en": "...",
               "text@de": "...",
               "text@fr": "...",
-              "text@sl": "..."
+              "text@sl": "...",
+              "text@el": "..."
             },
             {
               "character": "mayor",
               "text@en": "When I'm reelected, you're out.",
               "text@de": "Sobald ich wiedergewählt bin, fliegen Sie raus!",
               "text@fr": "Quand je serai réélue, vous serez dehors.",
-              "text@sl": "Po moji ponovni izvolitvi se lahko poslovite od službe."
+              "text@sl": "Po moji ponovni izvolitvi se lahko poslovite od službe.",
+              "text@el": "Παίρνεις πόδι όταν επανεκλεγώ!"
             }
           ]
         },
@@ -1924,6 +2006,7 @@
           "text@de": "Alles klar, ich werde für Sie eine Werbekampagne organisieren.",
           "text@fr": "D'accord, je vais vous acheter des espaces publicitaires.",
           "text@sl": "Seveda, uredil bom nekaj oglasov s pozitivno predstavitvijo vašega dela.",
+          "text@el": "Φυσικά, θα βάλω διαφημίσεις για τις δράσεις σου.",
           "var_changes": {
             "reserves": -0.5
           },
@@ -1933,21 +2016,24 @@
               "text@en": "Sure, I am on it.",
               "text@de": "Alles klar, wird erledigt.",
               "text@fr": "D'accord, je m'en charge.",
-              "text@sl": "Seveda, ni vam treba skrbeti."
+              "text@sl": "Seveda, ni vam treba skrbeti.",
+              "text@el": "Φυσικά, ξεκινάω!"
             },
             {
               "character": "mayor",
               "text@en": "I knew I could count on you.",
               "text@de": "Ich wusste auf Sie ist Verlass!",
               "text@fr": "Je savais que je pouvais compter sur vous.",
-              "text@sl": "Vedela sem, da se lahko zanesem na vas."
+              "text@sl": "Vedela sem, da se lahko zanesem na vas.",
+              "text@el": "Ξέρω ότι μπορώ να υπολογιζώ σε σας."
             },
             {
               "character": "mayor",
               "text@en": "Just tell the accounting department to pass it as marketing expenditures for the city.",
               "text@de": "Sagen Sie der Buchhaltung, sie soll es als Marketingaufwand verbuchen.",
               "text@fr": "Dites juste à la compta de faire passer ça en dépenses de communication.",
-              "text@sl": "Zgolj sporočite računovodstvu, da naj račune zavede pod stroške marketinga mestne hiše."
+              "text@sl": "Zgolj sporočite računovodstvu, da naj račune zavede pod stroške marketinga mestne hiše.",
+              "text@el": "Απλά ζήτα από το Τμήμα Λογιστηρίου να το δηλώσει ως έξοδα ανάδειξης της πόλης."
             }
           ]
         }
@@ -1961,42 +2047,48 @@
           "text@en": "We're in trouble.",
           "text@de": "Wir haben ein Problem.",
           "text@fr": "On est mal.",
-          "text@sl": "Imamo težave."
+          "text@sl": "Imamo težave.",
+          "text@el": "Έχουμε πρόβλημα."
         },
         {
           "character": "football-boss",
           "text@en": "We need 12 million.",
           "text@de": "Wir brauchen 12 Millionen",
           "text@fr": "On a besoin de 12 millions.",
-          "text@sl": "Potrebujemo 12 milijonov."
+          "text@sl": "Potrebujemo 12 milijonov.",
+          "text@el": "Χρειαζόμαστε 12 εκατομμύρια."
         },
         {
           "character": "football-boss",
           "text@en": "Cash.",
           "text@de": "In Bar.",
           "text@fr": "En cash.",
-          "text@sl": "V gotovini."
+          "text@sl": "V gotovini.",
+          "text@el": "Σε μετρητά."
         },
         {
           "character": "football-boss",
           "text@en": "I was thinking... The city could buy me back the plot of land you sold me, back in 1996.",
           "text@de": "Ich habe mir gedacht ... Die Stadt könnte das Grundstück zurückkaufen, welches sie mir 1996 verkauft hat.",
           "text@fr": "Je me disais... La ville pourrait me racheter le terrain que vous m'avez vendu en 1996.",
-          "text@sl": "Razmišljal sem ... Mesto bi lahko od kluba odkupilo zemljišče, ki nam ga je prodalo leta 1996."
+          "text@sl": "Razmišljal sem ... Mesto bi lahko od kluba odkupilo zemljišče, ki nam ga je prodalo leta 1996.",
+          "text@el": "Σκεφτόμουν... Ο Δήμος θα μπορούσε να αγοράσει ξανά εκείνο το οικόπεδο που μου πουλήσατε το '96."
         },
         {
           "character": "football-boss",
           "text@en": "Then I rent it from the city at a fair price.",
           "text@de": "Und dann vermietet sie es mir zu einem fairen Preis.",
           "text@fr": "Et je pourrais le louer à la ville à un prix honnête.",
-          "text@sl": "Nato pa bi nam ga ponudilo v najem za pošteno ceno."
+          "text@sl": "Nato pa bi nam ga ponudilo v najem za pošteno ceno.",
+          "text@el": "Και μετά κανονίζουμε να σας δίνω ένα καλό ενοίκιο."
         },
         {
           "character": "football-boss",
           "text@en": "That'd make everybody happy, wouldn't it? Voters would hate it if their team had to leave.",
           "text@de": "Damit wären alle zufriedengestellt. Und die Wähler wären doch sicher sehr enttäuscht, wenn Ihr Verein Konkurs anmelden müsste.",
           "text@fr": "Tout le monde serait content. Les électeurs seraient très déçus si leur club faisait faillite.",
-          "text@sl": "S tem bi bili vsi zadovoljni, kajne. Volivci imajo radi svoj nogometni klub in ne bi želeli, da propade."
+          "text@sl": "S tem bi bili vsi zadovoljni, kajne. Volivci imajo radi svoj nogometni klub in ne bi želeli, da propade.",
+          "text@el": "Έτσι θα είμαστε όλοι ευχαριστημένοι, σωστά; Δεν θέλουμε να εξαγριωθούν οι ψηφοφόροι αν η ομάδα τους αναγκαστεί να φύγει."
         }
       ],
       "helper": [
@@ -2005,14 +2097,16 @@
           "text@en": "We're getting technical here.",
           "text@de": "Es wird ein bisschen fachspezifisch.",
           "text@fr": "Ça devient technique.",
-          "text@sl": "To so pa že precej tehnične zadeve."
+          "text@sl": "To so pa že precej tehnične zadeve.",
+          "text@el": "Περνάμε σε τεχνικά ζητήματα."
         },
         {
           "character": "helper",
           "text@en": "Here's a [memo on leasing public space to private companies|emphyteutic] you might like.",
           "text@de": "Hier finden Sie ein Dossier zum Thema [Vermietung von öffentlichen Grundstücken an Privatgesellschaften.|emphyteutic]",
           "text@fr": "Voici [un mémo sur la location d'espace publics à des sociétés privées.|emphyteutic]",
-          "text@sl": "Pripravila sem vam [predstavitev o najemu mestnih površin s strani zasebnih podjetij|emphyteutic], ki vam bo morda všeč."
+          "text@sl": "Pripravila sem vam [predstavitev o najemu mestnih površin s strani zasebnih podjetij|emphyteutic], ki vam bo morda všeč.",
+          "Να μερικές [σημειώσεις περί μίσθωσης δημόσιου χώρου σε ιδιώτες|emphyteutic] που ίσως έχουν ενδιαφέρον."
         }
       ],
       "choices": [
@@ -2021,6 +2115,7 @@
           "text@de": "Das Grundstück zurückkaufen.",
           "text@fr": "Racheter le terrain.",
           "text@sl": "Odkupite zemljo od kluba.",
+          "text@el": "Αγόρασε ξανά το οικόπεδο.",
           "var_changes": {
             "reserves": -12,
             "resources": 0.2
@@ -2031,21 +2126,24 @@
               "text@en": "Sure, a healthy football club for a healthy city!",
               "text@de": "Aber sicher! Ein gesunder Verein für eine gesunde Stadt!",
               "text@fr": "Bien sûr! Un club en forme pour une ville dynamique !",
-              "text@sl": "Seveda! Zdrav klub v zdravem mestu!"
+              "text@sl": "Seveda! Zdrav klub v zdravem mestu!",
+              "text@el": "Φυσικά! Τα πάντα για το σωματείο της πόλης μας!"
             },
             {
               "character": "football-boss",
               "text@en": "Yeah!",
               "text@de": "Yeah!",
               "text@fr": "Yeah !",
-              "text@sl": "Odlično!"
+              "text@sl": "Odlično!",
+              "text@el": "Ναι!"
             },
             {
               "character": "football-boss",
               "text@en": "With people like you, we'll win the Cup!",
               "text@de": "Mit Leuten wie Ihnen werden wir den Pokal gewinnen!",
               "text@fr": "Avec des gens comme vous, on va gagner la Coupe !",
-              "text@sl": "Z ljudmi, kot ste vi, bomo drugo leto osvojili prvenstvo."
+              "text@sl": "Z ljudmi, kot ste vi, bomo drugo leto osvojili prvenstvo.",
+              "text@el": "Με ανθρώπους σαν εσένα, πάμε σίγουρα για το πρωτάθλημα!."
             }
           ]
         },
@@ -2054,6 +2152,7 @@
           "text@de": "Nein, Fußballvereine sind private Organisationen, sie brauchen keine Rettungsaktionen.",
           "text@fr": "Non, les clubs de foot sont des sociétés privées, on ne va pas les renflouer.",
           "text@sl": "Žal, nogometni klubi so zasebna podjetja, ne potrebujejo javne pomoči.",
+          "text@el": "Αποκλείεται. Τα ποδοσφαρικά σωματεία είναι ιδιωτικές εταιρείες, δεν χρειάζονται προγράμματα διάσωσης.",
           "var_changes": {
             "risk_political": 1
           },
@@ -2063,35 +2162,40 @@
               "text@en": "No, sorry.",
               "text@de": "Nein, tut mir leid.",
               "text@fr": "Non, désolé.",
-              "text@sl": "Žal ne."
+              "text@sl": "Žal ne.",
+              "text@el": "Όχι, λυπάμαι."
             },
             {
               "character": "you",
               "text@en": "It wouldn't be in the general interest.",
               "text@de": "Das läge nicht im öffentlichen Interesse.",
               "text@fr": "Cela ne servirait pas l'intérêt général.",
-              "text@sl": "To ne bi bilo v javnem interesu."
+              "text@sl": "To ne bi bilo v javnem interesu.",
+              "text@el": "Δεν εξυπηρετεί το κοινό καλό."
             },
             {
               "character": "mayor",
               "text@en": "What did you do?",
               "text@de": "Was haben Sie getan?",
               "text@fr": "Qu'est ce que vous avez fait ?",
-              "text@sl": "Kaj ste storili?"
+              "text@sl": "Kaj ste storili?",
+              "text@el": "Τι έκανες;",
             },
             {
               "character": "mayor",
               "text@en": "You turned my friend down?",
               "text@de": "Sie haben meinen Freund im Stich gelassen!",
               "text@fr": "Vous avez laissé tomber mon ami ?",
-              "text@sl": "Zavrnili ste mojega dobrega prijatelja."
+              "text@sl": "Zavrnili ste mojega dobrega prijatelja.",
+              "text@el": "Παράτησες τον φίλο μου σε μια δύσκολη στιγμή;"
             },
             {
               "character": "mayor",
               "text@en": "Who do you think people will blame if the football team goes bankrupt?",
               "text@de": "Wem, denken Sie, werden die Wähler die Schuld geben, wenn der Verein pleite geht?",
               "text@fr": "Qui croyez vous que les habitants tiendront pour responsable, en cas de faillite du club ?",
-              "text@sl": "Kaj mislite, koga bodo ljudje okrivili, če bo klub bankrotiral?"
+              "text@sl": "Kaj mislite, koga bodo ljudje okrivili, če bo klub bankrotiral?",
+              "text@el": "Ποιον πιστεύεις ότι θα κατηγορήσουν όταν χρεωκοπήσει το σωματείο;"
             }
           ]
         }
@@ -2105,35 +2209,41 @@
           "text@en": "Hey buddy!",
           "text@de": "Hey, du!",
           "text@fr": "Salut, toi !",
-          "text@sl": "Pozdravljeni"
+          "text@sl": "Pozdravljeni",
+          "text@el": "Γεια σου, φίλε!"
         },
         {
           "character": "construction-boss",
           "text@en": "I have a great idea.",
           "text@de": "Ich habe da eine großartige Idee.",
           "text@fr": "J'ai une super idée.",
-          "text@sl": "Imam odlično idejo."
+          "text@sl": "Imam odlično idejo.",
+          "text@el": "Έχω μια φοβερή ιδέα."
         },
         {
           "character": "construction-boss",
           "text@en": "You'll pass a public tender to renovate a street that doesn't exist.",
           "text@de": "Du veröffentlichst eine Ausschreibung für die Renovierung einer nicht existierenden Straße.",
           "text@fr": "Tu passes un appel d'offre pour rénover une rue qui n'existe pas.",
-          "text@sl": "Objavite poziv za renovacijo ulice, ki sploh ne obstaja."
+          "text@sl": "Objavite poziv za renovacijo ulice, ki sploh ne obstaja.",
+          "text@el": "Θα περάσεις απόφαση για την ανακατασκευή δρόμου που δεν υπάρχει.",
+         
         },
         {
           "character": "construction-boss",
           "text@en": "Give me the contract...",
           "text@de": "Du erteilst mir den Zuschlag ...",
           "text@fr": "Tu me passes le contrat...",
-          "text@sl": "Če naše podjetje dobi pogodbo ..."
+          "text@sl": "Če naše podjetje dobi pogodbo ...",
+          "text@el": "Αναλαμβάνω το έργο..."
         },
         {
           "character": "construction-boss",
           "text@en": "And we'll share the money.",
           "text@de": "Und wir teilen das Geld!",
           "text@fr": "Et on partage le fric !",
-          "text@sl": "... dobite pošten delež."
+          "text@sl": "... dobite pošten delež.",
+          "text@el": "Και μοιραζόμαστε τα λεφτά."
         }
       ],
       "helper": [
@@ -2142,14 +2252,16 @@
           "text@en": "You wouldn't be the first to indulge, you know.",
           "text@de": "Auf die Idee sind schon andere gekommen, wissen Sie?",
           "text@fr": "Cette idée n'est pas nouvelle, vous savez.",
-          "text@sl": "Ne bi bili prvi, ki se spustili v kaj takega."
+          "text@sl": "Ne bi bili prvi, ki se spustili v kaj takega.",
+          "text@el": "Δεν θα είστε ο πρώτος που υποκύπτει, ξέρετε."
         },
         {
           "character": "helper",
           "text@en": "Here's [some documentation on the issue|fake], just in case.",
           "text@de": "[Hie finden Sie ein paar Informationen|fake] zum Thema.",
           "text@fr": "Voilà un peu de [documentation sur le sujet|fake].",
-          "text@sl": "Tukaj je nekaj [dokumentov na to temo|fake]."
+          "text@sl": "Tukaj je nekaj [dokumentov na to temo|fake].",
+          "text@el": "Εδώ θα βρείτε [μερικές πληροφορίες για το θέμα|fake]."
         }
       ],
       "choices": [
@@ -2158,6 +2270,7 @@
           "text@de": "Zustimmen",
           "text@fr": "Accepter",
           "text@sl": "Sprejmite",
+          "text@el": "Δέχομαι.",
           "var_changes": {
             "personal_account": 50000,
             "risk_police": 2
@@ -2169,6 +2282,7 @@
               "text@de": "Alles klar.",
               "text@fr": "Je m'en occupe",
               "text@sl": "Vse bo urejeno."
+              "text@el": "Θα το τρέξω."
             },
             {
               "character": "construction-boss",
@@ -2176,6 +2290,7 @@
               "text@de": "Gut gespielt!",
               "text@fr": "Bien joué !",
               "text@sl": "Tako se to dela!"
+              "text@el": "Ύπεροχα!"
             },
             {
               "character": "construction-boss",
@@ -2183,6 +2298,7 @@
               "text@de": "Auf unsere Zusammenarbeit! 🍻",
               "text@fr": "A notre collaboration ! 🍻",
               "text@sl": "Na najino sodelovanje! 🍻"
+              "text@el": "Στην υγειά της νέας μας συνεργασίας! 🍻"
             }
           ]
         },
@@ -2191,6 +2307,7 @@
           "text@de": "Ablehnen",
           "text@fr": "Refuser",
           "text@sl": "Zavrnite",
+          "text@el": "Απορρίπτω",
           "var_changes": {
             "risk_contractors": 1
           },
@@ -2200,21 +2317,24 @@
               "text@en": "No, it seems too risky too me.",
               "text@de": "Nein, das ist mir zu riskant",
               "text@fr": "Non, ça me parait trop risqué.",
-              "text@sl": "To pa res ne, zdi se mi preveč riskantno."
+              "text@sl": "To pa res ne, zdi se mi preveč riskantno.",
+              "text@el": "Όχι, μου φαίνεται πολύ ριψοκίνδυνο."
             },
             {
               "character": "construction-boss",
               "text@en": "Careful, buddy...",
               "text@de": "Pass auf, meine Liebe!",
               "text@fr": "Fais gaffe à toi...",
-              "text@sl": "Le počasi ..."
+              "text@sl": "Le počasi ...",
+              "text@el": "Προσοχή, φίλε..."
             },
             {
               "character": "construction-boss",
               "text@en": "You don't want to see me angry.",
               "text@de": "Du willst mich nicht wütend erleben.",
               "text@fr": "Tu veux pas me voir en colère.",
-              "text@sl": "Ne želite me videti jeznega!"
+              "text@sl": "Ne želite me videti jeznega!",
+              "text@el": "Δεν θέλεις να με δεις θυμωμένο."
             }
           ]
         }
@@ -2228,28 +2348,32 @@
           "text@en": "Hey buddy!",
           "text@de": "Guten Tag!",
           "text@fr": "Salut !",
-          "text@sl": "Pozdravljeni!"
+          "text@sl": "Pozdravljeni!",
+          "text@el": "Γεια, φίλε!"
         },
         {
           "character": "construction-boss",
           "text@en": "Someone as important as you should have a nicer office.",
           "text@de": "Jemand, der so wichtig ist wie du, sollte in einem schöneren Büro sitzen.",
           "text@fr": "Quelqu'un d'aussi important que toi devrait avoir un plus beau bureau.",
-          "text@sl": "Nekdo na vašem položaju bi moral imeti lepšo pisarno."
+          "text@sl": "Nekdo na vašem položaju bi moral imeti lepšo pisarno.",
+          "text@el": "Κάποιος με το δική σου θέση θα έπρεπε να έχει καλύτερο γραφείο.¨"
         },
         {
           "character": "construction-boss",
           "text@en": "You deserve a mahogany desk and designer chairs, at least!",
           "text@de": "Zumindest einen Mahagoni- Schreibtisch und einen Ledersessel solltest du dir gönnen.",
           "text@fr": "Un bureau en acajou et des chaises en cuir, au moins !",
-          "text@sl": "Zaslužite si mahagonijevo mizo in dizajnerske stole, se vam ne zdi?"
+          "text@sl": "Zaslužite si mahagonijevo mizo in dizajnerske stole, se vam ne zdi?",
+          "text@el": "Χρειάζεσαι τουλάχιστον γραφείο από μαόνι και καρέκλα σχεδιαστή."
         },
         {
           "character": "construction-boss",
           "text@en": "Give me a contract and I'll buy you the furniture you really deserve.",
           "text@de": "Gib mir einen Vertrag und ich kaufe dir die Möbel, die du verdienst.",
           "text@fr": "Donne moi un contrat et je vais t'acheter les meubles que tu mérites.",
-          "text@sl": "Zagotovite mi pogodbo z mestom in dobili boste pohištvo, ki si ga zaslužite."
+          "text@sl": "Zagotovite mi pogodbo z mestom in dobili boste pohištvo, ki si ga zaslužite.",
+          "text@el": "Ανάθεσέ μου το έργο και θα σου αγοράσω τα έπιπλα που σου αξίζουν."
         }
       ],
       "choices": [
@@ -2258,6 +2382,7 @@
           "text@de": "Sie haben Recht.",
           "text@fr": "Vous avez raison.",
           "text@sl": "Prav imate, to pohištvo je res grdo in zdelano.",
+          "text@el": "Έχεις δίκιο.",
           "var_changes": {
             "risk_political": 1
           },
@@ -2268,27 +2393,31 @@
               "text@de": "Sie haben Recht.",
               "text@fr": "Vous avez raison.",
               "text@sl": "Prav imate, to pohištvo je res grdo in zdelano."
+              "text@el": "Έχεις δίκιο."
             },
             {
               "character": "mayor",
               "text@en": "What happened?",
               "text@de": "Was ist passiert?",
               "text@fr": "Que s'est-il passé ?",
-              "text@sl": "Kaj se je zgodilo?"
+              "text@sl": "Kaj se je zgodilo?",
+              "text@el": "Τι έγινε εδώ;"
             },
             {
               "character": "mayor",
               "text@en": "How come your office is nicer than mine?",
               "text@de": "Warum ist Ihr Büro schöner als meins?",
               "text@fr": "Pourquoi votre bureau est-il mieux que le mien ?",
-              "text@sl": "Kako je mogoče, da imate lepšo pisarno kot jaz?"
+              "text@sl": "Kako je mogoče, da imate lepšo pisarno kot jaz?",
+              "text@el": "Γιατί το γραφείο σου είναι καλύτερο και από το δικό μου;"
             },
             {
               "character": "mayor",
               "text@en": "Something's wrong with you.",
               "text@de": "Wie können Sie sich das leisten?",
               "text@fr": "Quelque chose ne va pas chez vous.",
-              "text@sl": "Nekaj je narobe z vami."
+              "text@sl": "Nekaj je narobe z vami.",
+              "text@el": "Δεν πας καλά, μου φαίνεται."
             }
           ]
         },
@@ -2297,6 +2426,7 @@
           "text@de": "Nein, das kann ich mir nicht leisten.",
           "text@fr": "Non, on ne peut pas se le permettre.",
           "text@sl": "Žal, tega si ne morem dovoliti.",
+          "text@el": "Όχι, δεν υπάρχουν χρήματα γι' αυτό.",
           "var_changes": {
             "risk_contractors": 1
           },
@@ -2307,13 +2437,15 @@
               "text@de": "Nein, das kann ich mir nicht erlauben.",
               "text@fr": "Non, on ne peut pas se le permettre.",
               "text@sl": "Žal, tega si ne morem dovoliti."
+              "text@el": "Όχι, δεν υπάρχουν χρήματα γι' αυτό."
             },
             {
               "character": "construction-boss",
               "text@en": "I thought we were friends.",
               "text@de": "Ich dachte wir wären Freunde.",
               "text@fr": "Je croyais qu'on était amis.",
-              "text@sl": "Mislil sem, da sva prijatelja."
+              "text@sl": "Mislil sem, da sva prijatelja.",
+              "text@el": "Νόμιζα πως ήμασταν φίλοι..."
             }
           ]
         }
@@ -2327,21 +2459,24 @@
           "text@en": "We need a new football stadium.",
           "text@de": "Wir brauchen ein neues Fußballstadion.",
           "text@fr": "Il nous faut un nouveau stade de foot.",
-          "text@sl": "Potrebujemo nov nogometni stadion."
+          "text@sl": "Potrebujemo nov nogometni stadion.",
+          "text@el": "Χρειαζόμαστε καινούργιο γήπεδο ποδοσφαίρου."
         },
         {
           "character": "mayor",
           "text@en": "The people deserve this.",
           "text@de": "Die Bürgerinnen und Bürger haben es sich verdient!",
           "text@fr": "Le peuple le mérite !",
-          "text@sl": "Ljudje si ga zaslužijo."
+          "text@sl": "Ljudje si ga zaslužijo.",
+          "text@el": "Οι άνθρωποι το αξίζουν."
         },
         {
           "character": "mayor",
           "text@en": "How should we arrange the financing?",
           "text@de": "Wie sollen wir das finanzieren?",
           "text@fr": "Comment allons-nous le financer ?",
-          "text@sl": "Kako naj zagotovimo financiranje?"
+          "text@sl": "Kako naj zagotovimo financiranje?",
+          "text@el": "Πώς θα το βολέψουμε οικονομικά;"
         }
       ],
       "helper": [
@@ -2351,6 +2486,7 @@
           "text@de": "ÖPPs sind der letzte Schrei.",
           "text@fr": "Les PPPs sont à la mode.",
           "text@sl": "Javno-zasebna partnerstva so kar v modi."
+          "text@el": "Οι ΣΔΙΤ είναι πολύ στη μόδα τελευταία."
         },
         {
           "character": "helper",
@@ -2358,6 +2494,7 @@
           "text@de": "Ich habe [für Sie ein Dossier zusammengestellt|ppp].",
           "text@fr": "Voici [un mémo sur le sujet|ppp].",
           "text@sl": "[Pripravila sem vam kratko predstavitev javno-zasebnih partnerstev|ppp]"
+          "text@el": "Ετοίμασα [σημειώσεις για το θέμα|ppp]."
         }
       ],
       "choices": [
@@ -2366,6 +2503,7 @@
           "text@de": "Die Stadt kommt für das Stadion auf (Kostenpunkt: 10 Millionen).",
           "text@fr": "La ville paye pour le stade (coût: 10 millions)",
           "text@sl": "Mesto naj zgradi stadion (enkratni strošek v višini 10 milijonov).",
+          "text@el": "Ο Δήμος πρέπει να κατασκευάσει το γήπεδο αναλαμβανόντας το πλήρες κόστος (10 εκατομμύρια).",
           "var_changes": {
             "reserves": -10
           },
@@ -2375,7 +2513,8 @@
               "text@en": "Let's build this stadium for 10 million.",
               "text@de": "Die Stadt wird das Stadion für 10 Millionen bauen.",
               "text@fr": "Construisons le stade pour 10 millions.",
-              "text@sl": "Zgradimo stadion za 10 milijonov."
+              "text@sl": "Zgradimo stadion za 10 milijonov.",
+              "text@el": "Διαθέτουμε 10 εκατομμύρια για το στάδιο."
             },
             {
               "character": "mayor",
@@ -2383,20 +2522,23 @@
               "text@de": "Zehn MILLIONEN?",
               "text@fr": "Dix MILLIONS ?",
               "text@sl": "Deset milijonov!!!!!"
+              "text@el": "Δέκα ΕΚΑΤΟΜΜΥΡΙΑ;!;!"
             },
             {
               "character": "mayor",
               "text@en": "Where do you think you work at? Buckingham Palace?",
               "text@de": "Denken Sie, dass die Staatskasse Ihr Spielplatz ist?",
               "text@fr": "Mais où vous croyez vous ?",
-              "text@sl": "Mislite, da delate v Buckinghamski palači?!!!"
+              "text@sl": "Mislite, da delate v Buckinghamski palači?!!!",
+              "text@el": "Και τι είναι τα δημόσια ταμεία; Παιδική χαρά;"
             },
             {
               "character": "mayor",
               "text@en": "Go for PPP next time.",
               "text@de": "Entscheiden Sie sich das nächste Mal für eine ÖPP.",
               "text@fr": "Choisissez un PPP la prochaine fois.",
-              "text@sl": "Naslednjič se odločite za partnerstvo z zasebniki."
+              "text@sl": "Naslednjič se odločite za partnerstvo z zasebniki.",
+              "text@el": "Έργα ΣΔΙΤ από δω και πέρα."
             }
           ]
         },
@@ -2405,6 +2547,7 @@
           "text@de": "Eine Öffentlich-Private Partnerschaft aufbauen (es entstehen aktuell keine Kosten, jedoch muss die Stadt in den kommenden 20 Jahren jährlich 1 Million an den Betreiber zahlen).",
           "text@fr": "Mettre en place un partenariat public-privé (aucun coût maintenant, mais vous devrez payer l'opérateur 1 million par an pendant 20 ans)",
           "text@sl": "Vzpostavite javno-zasebno partnerstvo (brez takojšnjih stroškov, vendar morate zasebnemu podjetju v naslednjih 20 letih vsako leto plačati milijon).",
+          "text@el": "Πρότεινε έργο με Σύμπραξη Δημόσιου και Ιδιωτικού Τομέρα (κανένα άμεσο κόστος αλλά θα πρέπει να καταβάλεις στην εταιρεία 1 εκατομμύριο κάθε χρόνο για τα επόμενα 20 χρόνια).",
           "var_changes": {
             "expenditures": 1
           },
@@ -2414,28 +2557,32 @@
               "text@en": "Let's do a public-private partnership.",
               "text@de": "Wir werden eine Öffentlich- Private Partnerschaft eingehen.",
               "text@fr": "Faisons un partenariat public-privé.",
-              "text@sl": "No, pa vzpostavimo javno.zasebno partnerstvo."
+              "text@sl": "No, pa vzpostavimo javno.zasebno partnerstvo.",
+              "text@el": "Ας προχωρήσουμε σε σύμπραξη με τον ιδιωτικό τομέα."
             },
             {
               "character": "you",
               "text@en": "This way, we don't have to pay anything now.",
               "text@de": "So entstehen uns aktuell keine Kosten.",
               "text@fr": "Comme cela, nous n'avons rien à payer maintenant.",
-              "text@sl": "Na ta način nam ni treba plačati ničesar."
+              "text@sl": "Na ta način nam ni treba plačati ničesar.",
+              "text@el": "Έτσι δεν θα χρειαστεί να πληρώσουμε τίποτα τώρα."
             },
             {
               "character": "mayor",
               "text@en": "I love this PPP thing!",
               "text@de": "Ich liebe diese ÖPPs!",
               "text@fr": "J'adore ces PPP !",
-              "text@sl": "Obožujem javno-zasebna partnerstva."
+              "text@sl": "Obožujem javno-zasebna partnerstva.",
+              "text@el": "Λατρεύω τις ΣΔΙΤ!"
             },
             {
               "character": "mayor",
               "text@en": "I get stuff done, and it's the next mayors who pay!",
               "text@de": "Man kann bauen was man will und der nächste Bürgermeister muss es bezahlen!",
               "text@fr": "On peut construire ce qu'on veut, et c'est le maire suivant qui paye !",
-              "text@sl": "Na ta način lahko izvajam projekte, ki jih bodo plačevali župani za menoj."
+              "text@sl": "Na ta način lahko izvajam projekte, ki jih bodo plačevali župani za menoj.",
+              "text@el": "Κάνω έργα και τα πληρώνει ο επόμενος δήμαρχος."
             }
           ]
         }
@@ -2449,28 +2596,32 @@
           "text@en": "Next year, we'll outsource trash collection.",
           "text@de": "Nächste Jahr werden wir die Müllentsorgung auslagern.",
           "text@fr": "L'année prochaine, nous externaliserons la collecte d'ordures.",
-          "text@sl": "Prihodnje leto bomo pobiranje smeti zaupali zunanjemu izvajalcu."
+          "text@sl": "Prihodnje leto bomo pobiranje smeti zaupali zunanjemu izvajalcu.",
+          "text@el": "Το επόμενο έτος θα αναθέσουμε την συλλογή απορριμάτων σε τρίτους."
         },
         {
           "character": "lawyer",
           "text@en": "Have you heard the news?",
           "text@de": "Haben Sie schon das Neueste gehört?",
           "text@fr": "Vous avez entendu les nouvelles ?",
-          "text@sl": "Ste že slišali novico?"
+          "text@sl": "Ste že slišali novico?",
+          "text@e": "Τα' μαθες;"
         },
         {
           "character": "lawyer",
           "text@en": "Do you want to buy shares in Voelia Environment, a trash collection company?",
           "text@de": "Wollen Sie Anteile an Voelia Environment, einer Entsorgungsfirma, kaufen?",
           "text@fr": "Voulez-vous acheter des actions de Voelia Environment, une société de collecte d'ordures ?",
-          "text@sl": "Bi želeli kupiti delnice v Voelia Okolje, podjetju za zbiranje odpadkov."
+          "text@sl": "Bi želeli kupiti delnice v Voelia Okolje, podjetju za zbiranje odpadkov.",
+          "text@e;l": "Ενδιαφέρεσαι να αγοράσεις μετοχές της Καθαρίζειν Α.Ε. Είναι εταιρεία συλλογής απορριμάτων." 
         },
         {
           "character": "lawyer",
           "text@en": "They might get the contract next year.",
           "text@de": "Vielleicht bekommt sie nächstes Jahr den Auftrag.",
           "text@fr": "Peut-être auront-ils le marché l'année prochaine.",
-          "text@sl": "Mogoče bodo prihodnje leto dobili pogodbo z mestom."
+          "text@sl": "Mogoče bodo prihodnje leto dobili pogodbo z mestom.",
+          "text@el": "Κατά πάσα πιθανότητα θα αναλάβουν το έργο του χρόνου."
         }
       ],
       "choices": [
@@ -2479,6 +2630,7 @@
           "text@de": "Ja. Investieren Sie 50.000.",
           "text@fr": "Oui, investis 50 000.",
           "text@sl": "Seveda, investirajte 50.000.",
+          "text@el": "Ναι, επένδυσε 50.000.",
           "var_changes": {
             "trash_company": 1,
             "personal_account": -50000
@@ -2489,21 +2641,24 @@
               "text@en": "Yes, good idea, I'll put in 50,000.",
               "text@de": "Ja, gute Idee. Investieren Sie bitte 50.000.",
               "text@fr": "Oui, bonne idée, je vais mettre 50 000.",
-              "text@sl": "Seveda, dobra ideja, investirajmo 50.000."
+              "text@sl": "Seveda, dobra ideja, investirajmo 50.000.",
+              "text@el": "Ναι, καλή ιδέα. Θα βάλω 50.000."
             },
             {
               "character": "lawyer",
               "text@en": "Brilliant!",
               "text@de": "Wunderbar.",
               "text@fr": "Super !",
-              "text@sl": "Odlično!"
+              "text@sl": "Odlično!",
+              "text@el": "Εξαιρετικά!"
             },
             {
               "character": "lawyer",
               "text@en": "I'll take care of it.",
               "text@de": "Ich kümmere mich um den Kaufauftrag.",
               "text@fr": "Je passe les ordres d'achat.",
-              "text@sl": "Uredila bom tako, da bo prav."
+              "text@sl": "Uredila bom tako, da bo prav.",
+              "text@el": "Αναλαμβάνω τα υπόλοιπα."
             }
           ]
         },
@@ -2512,6 +2667,7 @@
           "text@de": "Nein.",
           "text@fr": "Non.",
           "text@sl": "Ne.",
+          "text@el": "Όχι.",
           "var_changes": {
             "trash_company": 0
           },
@@ -2521,21 +2677,24 @@
               "text@en": "No, it's not a good idea.",
               "text@de": "Nein, das ist keine gute Idee.",
               "text@fr": "Non, ce n'est pas une bonne idée.",
-              "text@sl": "Mislim, da to ni dobra ideja."
+              "text@sl": "Mislim, da to ni dobra ideja.",
+              "text@el": "Όχι, δεν είναι καλή ιδέα."
             },
             {
               "character": "lawyer",
               "text@en": "All right.",
               "text@de": "Wie Sie wollen.",
               "text@fr": "Comme vous voulez.",
-              "text@sl": "Kot želite."
+              "text@sl": "Kot želite.",
+              "text@el": "Όπως νομίζεις."
             },
             {
               "character": "lawyer",
               "text@en": "But you should invest your money more wisely.",
               "text@de": "Aber sie sollten ihr Geld intelligenter einsetzen.",
               "text@fr": "Mais vous devriez investir votre argent plus intelligement.",
-              "text@sl": "Vendar bi morali svoj denar nalagati pametno."
+              "text@sl": "Vendar bi morali svoj denar nalagati pametno.",
+              "text@el": "Όμως κάποια στιγμή πρέπει να κάνεις έξυπνες επενδύσεις."
             }
           ]
         }
