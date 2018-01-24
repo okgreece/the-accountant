@@ -3770,7 +3770,7 @@
           "text@de": "Es wäre nicht gut, wenn etwas aus meinem Archiv an die Öffentlichkeit käme.",
           "text@fr": "Il ne faudrait pas que mes archives atterissent chez Mediapart.",
           "text@sl": "Saj ne bi želeli, da moj arhiv slučajno pride na dan, kajne?",
-          "text@el": "Δεν θα ήθελες να διαρεύσει το αρχείο μου στο διαδίκτυο."
+          "text@el": "Δεν θα ήθελες να διαρρεύσει το αρχείο μου στο διαδίκτυο."
         }
       ],
       "choices": [
@@ -3911,7 +3911,7 @@
           "text@de": "Das Angebot der Eco- Sence Construction liegt bei 620.000",
           "text@sl": "Eco-Sense Konstrukcije je oddal ponudbo za 620.000.",
           "text@fr": "Eco-Sense Construction a fait une offre à 620 000.",
-          "text@el": "Η Eco-Sense έκανε προσφορά των 620.000."
+          "text@el": "Η Eco-Sense έκανε προσφορά των 620.000.",
           "var_changes": {
             "reserves": -0.62,
             "risk_contractors": 1
@@ -4159,7 +4159,7 @@
       "title@de": "Das Stellenkarussell",
       "title@sl": "Vrtljiva vrata",
       "title@fr": "Le pantouflage",
-      "title@el": "Μεταπήδηση στον ιδιωτικό τομέα".
+      "title@el": "Μεταπήδηση στον ιδιωτικό τομέα",
       "body@en": "After a career in the administration, public officials can be invited to work in the private sectors. Their contacts and their in-depth knowledge of how an administration works are very valuable for a private company. Sometimes, the promise of having a plump job is enough to convince a public official to take a decision in favor of a private company.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> at Cooking Budgets.",
       "body@de": "Im Anschluss an eine Karriere im öffentlichen Sektor werden hohen Beamten häufig Stellen in der Privatwirtschaft angeboten. Ihre Kontakte und ihr Fachwissen werden dort sehr geschätzt. Und manchmal genügt schon ein in Aussicht gestellter hoher Posten, um einen Beamten ausreichend zu beeinflussen noch während seiner Amtszeit Entscheidungen zu treffen, die dem Unternehmen zu Gute kommen.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> von Cooking Budgets.",
       "body@fr": "Après une carrière dans l'administration publique, certains fonctionnaires sont invités à travailler dans le secteur privé. Leurs contacts et leur connaissance du fonctionnement de l'administration sont très utiles à une société privée. Parfois, la promesse de recevoir un poste bien doté suffit à convaincre un élu ou un fonctionnaire de prendre une décision favorable à cette société privée.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
