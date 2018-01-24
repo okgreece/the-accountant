@@ -3004,7 +3004,7 @@
           "text@de": "Einen Prozess gegen den Auftragnehmer anstreben.",
           "text@fr": "Intenter un procès contre la société de construction.",
           "text@sl": "Vložite tožbo proti podjetju, ki gradi stadion.",
-          "text@el": "Πάνε τον εργολάβο στα δικαστήρια".,
+          "text@el": "Πάνε τον εργολάβο στα δικαστήρια",
           "var_changes": {
             "reserves": 2,
             "risk_political": 1
@@ -3770,7 +3770,7 @@
           "text@de": "Es wäre nicht gut, wenn etwas aus meinem Archiv an die Öffentlichkeit käme.",
           "text@fr": "Il ne faudrait pas que mes archives atterissent chez Mediapart.",
           "text@sl": "Saj ne bi želeli, da moj arhiv slučajno pride na dan, kajne?",
-          "text@el": "Δεν θα ήθελες να διαρεύσει το αρχείο μου στο διαδίκτυο.
+          "text@el": "Δεν θα ήθελες να διαρεύσει το αρχείο μου στο διαδίκτυο."
         }
       ],
       "choices": [
@@ -3862,7 +3862,7 @@
           "text@de": "Das Amt für Parks und Grünflächen hat die Kosten auf ca. eine halbe Million geschätzt.",
           "text@fr": "Notre bureau d'études estime le coût des travaux à 500 000.",
           "text@sl": "Naš oddelke za javne površine ocenjuje, da bo strošek približno 500.000.",
-          "text@el": "Το Τμήμα Πρασίνου υπολογίζει ότι το κόστος του έργου θα ανέλθει στις 500.000"
+          "text@el": "Το Τμήμα Πρασίνου υπολογίζει ότι το κόστος του έργου θα ανέλθει στις 500.000."
         },
         {
           "character": "mayor",
