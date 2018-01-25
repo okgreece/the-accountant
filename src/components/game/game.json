@@ -2512,7 +2512,7 @@
 					"text@de": "Haben Sie schon das Neueste gehört?",
 					"text@fr": "Vous avez entendu les nouvelles ?",
 					"text@sl": "Ste že slišali novico?",
-					"text@e": "Τα' μαθες;"
+					"text@el": "Τα' μαθες;"
 				},
 				{
 					"character": "lawyer",
@@ -2520,7 +2520,7 @@
 					"text@de": "Wollen Sie Anteile an Voelia Environment, einer Entsorgungsfirma, kaufen?",
 					"text@fr": "Voulez-vous acheter des actions de Voelia Environment, une société de collecte d'ordures ?",
 					"text@sl": "Bi želeli kupiti delnice v Voelia Okolje, podjetju za zbiranje odpadkov.",
-					"text@e;l": "Ενδιαφέρεσαι να αγοράσεις μετοχές της Καθαρίζειν Α.Ε. Είναι εταιρεία συλλογής απορριμάτων."
+					"text@el": "Ενδιαφέρεσαι να αγοράσεις μετοχές της Καθαρίζειν Α.Ε. Είναι εταιρεία συλλογής απορριμάτων."
 				},
 				{
 					"character": "lawyer",
