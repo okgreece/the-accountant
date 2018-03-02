@@ -509,7 +509,7 @@
 					"text@de": "Das Amt für Verkehr hat die Kosten auf ca. 10 Millionen geschätzt.",
 					"text@fr": "Le bureau d'études estime les travaux à 10 millions.",
 					"text@sl": "Naš oddelek za promet ocenjuje, da bodo stroški znašali približno 10 milijonov.",
-					"text@el": "Το Τμήμα Μεταφορών υπολογίζει πως το κόστος θα φτάσει τα 10 εκατομμύρια."
+					"text@el": "Το Τμήμα Μεταφορών υπολογίζει ότι το κόστος θα φτάσει τα 10 εκατομμύρια."
 				},
 				{
 					"character": "mayor",
@@ -832,7 +832,7 @@
 					"text@de": "Bestechung ist verboten.",
 					"text@fr": "Les pots-de-vins sont interdits.",
 					"text@sl": "Podkupnine so prepovedane.",
-					"text@el": "Η δωροδοκία διώκεται ποινικά,"
+					"text@el": "Η δωροδοκία διώκεται ποινικά."
 				},
 				{
 					"character": "helper",
@@ -1019,7 +1019,7 @@
 							"text@de": "Sie können es haben, aber der Preis bleibt bei 10 Millionen. Keine Diskussion.",
 							"text@fr": "Le terrain est à vous pour 10 millions - non négociable.",
 							"text@sl": "Zemljišče je lahko vaše, a cena je 10 milijonov, brez pogajanj.",
-							"text@el": "Είναι όλο δικό σας αλλά η τιμή δεν πεφτεί κάτω από 10 εκατομμύρια. Δεν το διαπραγματεύομαι."
+							"text@el": "Είναι όλο δικό σας αλλά η τιμή δεν πέφτει κάτω από 10 εκατομμύρια. Δεν το διαπραγματεύομαι."
 						},
 						{
 							"character": "mayor",
@@ -1027,7 +1027,7 @@
 							"text@de": "So behandeln Sie meine Freunde?",
 							"text@fr": "C'est comme ça que vous traitez mes amis?",
 							"text@sl": "Se tako ravna s prijatelji?",
-							"text@el": "Έτσι φέρεστε στους φίλος μου;"
+							"text@el": "Έτσι φέρεστε στους φίλους μου;"
 						},
 						{
 							"character": "mayor",
@@ -1100,7 +1100,7 @@
 					"text@de": "Wir haben drei Angebote erhalten. Wählen Sie das beste aus.",
 					"text@fr": "Nous avons reçu trois offres. Choisissez la meilleure.",
 					"text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
-					"text@el": "Λάβαμε τρείς προσφορές. Επιλέξτε την πιο συμφέρουσα."
+					"text@el": "Λάβαμε τρεις προσφορές. Επιλέξτε την πιο συμφέρουσα."
 				}
 			],
 			"helper": [{
@@ -1279,7 +1279,7 @@
 					"text@de": "Sie sollten [dieses Dossier lesen|conflicts_of_interest],bevor Sie eine Entscheidung treffen.",
 					"text@fr": "Vous devriez [lire ceci|conflicts_of_interest] avant de décider de quoi que ce soit.",
 					"text@sl": "Morda bi bilo dobro, če [bi prebrali to|conflicts_of_interest], preden se karkoli odločite.",
-					"text@el": "Ίσως θα θέλατε να [ρίξετε μια ματιά εδω|conflicts_of_interest] πριν πάρετε κάποια απόφαση."
+					"text@el": "Ίσως θα θέλατε να [ρίξετε μια ματιά εδώ|conflicts_of_interest] πριν πάρετε κάποια απόφαση."
 				}
 			],
 			"choices": [{
@@ -1297,7 +1297,7 @@
 						"text@de": "Ja, eine Firma für Tiefbau.",
 						"text@fr": "Oui, une société de travaux publics.",
 						"text@sl": "Da, podjetje, ki se bo ukvarjalo z javno infrstrukturo.",
-						"text@el": "Ναι, μία εταιρεία δημοσίων έργων,"
+						"text@el": "Ναι, μία εταιρεία δημοσίων έργων."
 					}]
 				},
 				{
@@ -1315,7 +1315,7 @@
 							"text@de": "Nein, das wäre keine gute Idee.",
 							"text@fr": "Non, ce n'est pas une bonne idée.",
 							"text@sl": "Morda pa to res ni najboljša ideja.",
-							"text@el": "Όχι. Ίσως τελικά να μην είναι καλή ιδέα."
+							"text@el": "Όχι. Ίσως να μην είναι καλή ιδέα τελικά."
 						},
 						{
 							"character": "lawyer",
@@ -1367,7 +1367,7 @@
 							"text@de": "Ich.",
 							"text@fr": "Moi.",
 							"text@sl": "Jaz.",
-							"text@el": "Εγώ,"
+							"text@el": "Εγώ."
 						},
 						{
 							"character": "lawyer",
@@ -1437,7 +1437,7 @@
 							"text@de": "Ich werde sie auf den Seychellen gründen.",
 							"text@fr": "Je vais la créer aux Seychelles.",
 							"text@sl": "Odprla bom podjetje na Sejšelih.",
-							"text@el": "Θα έχει έδρα τις Σεϋχέλλες."
+							"text@el": "Θα έχει έδρα στις Σεϋχέλλες."
 						},
 						{
 							"character": "lawyer",
@@ -1488,7 +1488,7 @@
 				"text@de": "Sie befinden sich nun an der Spitze eines Kartells! Mein [Memo über das Kartell ist noch immer da|cartel].",
 				"text@fr": "Vous voilà à la tête d'un cartel ! Mon [mémo sur les cartels est toujours là|cartel] si besoin.",
 				"text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel].",
-				"text@el": "Έξι χρόνια σε αυτήν την θέση και ήδη εμπλέκεστε σε καρτέλ! [Οι σημειώσεις μου για τα καρτέλ υπάρχουν ακόμα εδώ|cartel]."
+				"text@el": "Έξι χρόνια σε αυτήν την θέση και εμπλέκεστε ήδη σε καρτέλ! [Οι σημειώσεις μου για τα καρτέλ υπάρχουν ακόμα εδώ|cartel]."
 			}],
 			"choices": [{
 					"text@en": "Your company made an offer for 3.5 million",
@@ -1596,7 +1596,7 @@
 							"text@de": "Du baust ein Kartell auf, aber bist nicht in der Lage das richtige Angebot auszuwählen?",
 							"text@fr": "Tu fais un cartel et tu ne choisis pas la bonne offre ?",
 							"text@sl": "Vodite našo kartelno združbo in niste sposobni izbrati pravega ponudnika!",
-							"text@el": "Στήνεις ολόκληρο καρτέλ και δεν μπορείς να διαλέξεις την σωστή προσφοράς;"
+							"text@el": "Στήνεις ολόκληρο καρτέλ και δεν μπορείς να διαλέξεις την σωστή προσφορά;"
 						}
 					]
 				}
@@ -1622,7 +1622,7 @@
 					"text@de": "Das Amt für Bauwesen hat die Kosten auf 3 Millionen geschätzt.",
 					"text@fr": "Notre bureau d'études évalue les travaux à 3 millions.",
 					"text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone.",
-					"text@el": "Το Τμήμα Ανάπτυξης και Κατασκευών υπολογιζεί το κόστος των εργασιών στα 3 εκατομμύρια."
+					"text@el": "Το Τμήμα Ανάπτυξης και Κατασκευών υπολογίζει το κόστος των εργασιών στα 3 εκατομμύρια."
 				},
 				{
 					"character": "mayor",
@@ -1853,7 +1853,7 @@
 							"text@de": "Ich will keinen Skandal in meinem Haus.",
 							"text@fr": "Je ne veux pas de scandale chez moi.",
 							"text@sl": "Ne želim si nobenega škandala v mestni hiši.",
-							"text@el": "Δεν θέλω σκάνδαλα εδω."
+							"text@el": "Δεν θέλω σκάνδαλα εδώ."
 						}
 					]
 				}
@@ -1867,7 +1867,7 @@
 					"text@de": "Bald geht der Wahlkampf wieder los.",
 					"text@fr": "Les élections municipales arrivent.",
 					"text@sl": "Volitve prihajajo.",
-					"text@el": "Ερχονται εκλογές."
+					"text@el": "Έρχονται εκλογές."
 				},
 				{
 					"character": "mayor",
@@ -1884,7 +1884,7 @@
 				"text@de": "Ich habe für Sie [ein Dossier zur politischen Werbung|ads] zusammengestellt.",
 				"text@fr": "Je vous ai préparé [un mémo sur la publicité politique|ads], au cas où.",
 				"text@sl": "Pripravila sem vam predstavitev o [političnem oglaševanju|ads].",
-				"text@el": "Ορίστε μερικές [σημειώσεις για την πολιτική διαφήμιση|ads], σε περίπτωση που χρειαστείς βοήθεια."
+				"text@el": "Ορίστε μερικές [σημειώσεις για την πολιτική διαφήμιση|ads], σε περίπτωση που χρειαστείτε βοήθεια."
 			}],
 			"choices": [{
 					"text@en": "No way, it's unethical",
@@ -1934,7 +1934,7 @@
 					"text@de": "Alles klar, ich werde für Sie eine Werbekampagne organisieren.",
 					"text@fr": "D'accord, je vais vous acheter des espaces publicitaires.",
 					"text@sl": "Seveda, uredil bom nekaj oglasov s pozitivno predstavitvijo vašega dela.",
-					"text@el": "Φυσικά, θα βάλω διαφημίσεις για τις δράσεις σου.",
+					"text@el": "Φυσικά, θα βάλω διαφημίσεις για τις δράσεις σας.",
 					"var_changes": {
 						"reserves": -0.5
 					},
@@ -1960,7 +1960,7 @@
 							"text@de": "Sagen Sie der Buchhaltung, sie soll es als Marketingaufwand verbuchen.",
 							"text@fr": "Dites juste à la compta de faire passer ça en dépenses de communication.",
 							"text@sl": "Zgolj sporočite računovodstvu, da naj račune zavede pod stroške marketinga mestne hiše.",
-							"text@el": "Απλά ζητήστε από το Τμήμα Λογιστηρίου να το δηλώσει ως δαπάνη για την ανάδειξη της πόλης."
+							"text@el": "Απλά ζητήστε από το Λογιστήριο να το δηλώσει ως δαπάνη για την ανάδειξη της πόλης."
 						}
 					]
 				}
@@ -2066,7 +2066,7 @@
 							"text@de": "Mit Leuten wie Ihnen werden wir den Pokal gewinnen!",
 							"text@fr": "Avec des gens comme vous, on va gagner la Coupe !",
 							"text@sl": "Z ljudmi, kot ste vi, bomo drugo leto osvojili prvenstvo.",
-							"text@el": "Αν συνεχίσουμε έτσι, πάμε για πρωτάθλημα!."
+							"text@el": "Αν συνεχίσουμε έτσι, πάμε για πρωτάθλημα!"
 						}
 					]
 				},
@@ -2225,7 +2225,7 @@
 					"text@de": "Ablehnen",
 					"text@fr": "Refuser",
 					"text@sl": "Zavrnite",
-					"text@el": "Απορρίπτω",
+					"text@el": "Απορρίπτεται",
 					"var_changes": {
 						"risk_contractors": 1
 					},
@@ -2273,7 +2273,7 @@
 					"text@de": "Jemand, der so wichtig ist wie du, sollte in einem schöneren Büro sitzen.",
 					"text@fr": "Quelqu'un d'aussi important que toi devrait avoir un plus beau bureau.",
 					"text@sl": "Nekdo na vašem položaju bi moral imeti lepšo pisarno.",
-					"text@el": "Κάποιος με το δική σου θέση θα έπρεπε να έχει καλύτερο γραφείο.¨"
+					"text@el": "Κάποιος με την δική σου θέση θα έπρεπε να έχει καλύτερο γραφείο."
 				},
 				{
 					"character": "construction-boss",
@@ -2413,7 +2413,7 @@
 					"text@de": "Die Stadt kommt für das Stadion auf (Kostenpunkt: 10 Millionen).",
 					"text@fr": "La ville paye pour le stade (coût: 10 millions)",
 					"text@sl": "Mesto naj zgradi stadion (enkratni strošek v višini 10 milijonov).",
-					"text@el": "Ο Δήμος πρέπει να κατασκευάσει το γήπεδο αναλαμβανόντας το πλήρες κόστος (10 εκατομμύρια).",
+					"text@el": "Ο Δήμος πρέπει να κατασκευάσει το γήπεδο αναλαμβάνοντας το πλήρες κόστος (10 εκατομμύρια).",
 					"var_changes": {
 						"reserves": -10
 					},
@@ -2456,7 +2456,7 @@
 					"text@de": "Eine Öffentlich-Private Partnerschaft aufbauen (es entstehen aktuell keine Kosten, jedoch muss die Stadt in den kommenden 20 Jahren jährlich 1 Million an den Betreiber zahlen).",
 					"text@fr": "Mettre en place un partenariat public-privé (aucun coût maintenant, mais vous devrez payer l'opérateur 1 million par an pendant 20 ans)",
 					"text@sl": "Vzpostavite javno-zasebno partnerstvo (brez takojšnjih stroškov, vendar morate zasebnemu podjetju v naslednjih 20 letih vsako leto plačati milijon).",
-					"text@el": "Πρότεινε έργο με Σύμπραξη Δημόσιου και Ιδιωτικού Τομέρα (κανένα άμεσο κόστος αλλά θα πρέπει να καταβάλεις στην εταιρεία 1 εκατομμύριο κάθε χρόνο για τα επόμενα 20 χρόνια).",
+					"text@el": "Πρότεινε έργο με Σύμπραξη Δημόσιου και Ιδιωτικού Τομέα (κανένα άμεσο κόστος αλλά θα πρέπει να καταβάλεις στην εταιρεία 1 εκατομμύριο κάθε χρόνο για τα επόμενα 20 χρόνια).",
 					"var_changes": {
 						"expenditures": 1
 					},
@@ -2684,7 +2684,7 @@
 					"text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
 					"text@fr": "SATI Waste Management a fait une offre à 0,9 millions par an",
 					"text@sl": "Podjetje SATI Odpadki je oddalo ponudbo za 0,9 milijona",
-					"text@el": "Η ΣΑΤΙ Διαχείριση Απορριμάτων έκανε προσφορά των 0.9 εκατομμυρίων ετησίως.",
+					"text@el": "Η SATI Διαχείριση Απορριμάτων έκανε προσφορά των 0.9 εκατομμυρίων ετησίως.",
 					"var_changes": {
 						"resources": -0.9,
 						"personal_account": 45000
@@ -2695,7 +2695,7 @@
 							"text@de": "Ich habe mich für das Angebot von SATI Waste Management entschieden.",
 							"text@fr": "Je choisis SATI Waste Management.",
 							"text@sl": "Izbrana je ponudba podjetja SATI Odpadki.",
-							"text@el": "Επιλέγω την ΣΑΤΙ Διαχείριση Απορριμάτων."
+							"text@el": "Επιλέγω την SATI Διαχείριση Απορριμάτων."
 						},
 						{
 							"character": "mayor",
@@ -2812,7 +2812,7 @@
 					"text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
 					"text@fr": "SATI Waste Management a fait une offre à 900 000 par an",
 					"text@sl": "Podjetje SATI Odpadki je oddalo ponudbo za 0,9 milijona",
-					"text@el": "Η ΣΑΤΙ Διαχείριση Απορριμάτων έκανε προσφορά των 0.9 εκατομμυρίων ετησίως.",
+					"text@el": "Η SATI Διαχείριση Απορριμάτων έκανε προσφορά των 0.9 εκατομμυρίων ετησίως.",
 					"var_changes": {
 						"resources": -0.9
 					},
@@ -2822,7 +2822,7 @@
 							"text@de": "Ich habe mich für das Angebot der SATI Waste Management entschieden.",
 							"text@fr": "Je choisis SATI Waste Management.",
 							"text@sl": "Izbrana je ponudba podjetja SATI Odpadki.",
-							"text@el": "Επιλέγω την ΣΑΤΙ Διαχείριση Απορριμάτων."
+							"text@el": "Επιλέγω την SATI Διαχείριση Απορριμάτων."
 						},
 						{
 							"character": "mayor",
@@ -2893,7 +2893,7 @@
 					"text@de": "Einen Prozess gegen den Auftragnehmer anstreben.",
 					"text@fr": "Intenter un procès contre la société de construction.",
 					"text@sl": "Vložite tožbo proti podjetju, ki gradi stadion.",
-					"text@el": "Πάνε τον εργολάβο στα δικαστήρια",
+					"text@el": "Πάνε τον εργολάβο στα δικαστήρια.",
 					"var_changes": {
 						"reserves": 2,
 						"risk_political": 1
@@ -2952,7 +2952,7 @@
 							"text@de": "Wir werden sagen, dass die europäische Union die Schuld an der Verspätung trägt.",
 							"text@fr": "On va dire que le retard est la faute de l'Union Européenne.",
 							"text@sl": "Rekli bomo, da zamujamo zaradi Evropske Unije.",
-							"text@el": "Θα πούμε ότι η Ευρωπαϊκή Ένωση ευθύνεται για την καθυστέρηση."
+							"text@el": "Θα πούμε ότι για την καθυστέρηση ευθύνεται η Ευρωπαϊκή Ένωση."
 						}
 					]
 				}
@@ -2974,7 +2974,7 @@
 					"text@de": "Das Treffen zum Frühstück war eine großartige Idee.",
 					"text@fr": "Ce déjeuner était une grande idée.",
 					"text@sl": "Kosilo je bila odlična ideja.",
-					"text@el": "Πολύ καλή η ιδέα σου να βρεθούμε για φαγητό."
+					"text@el": "Πολύ καλή η ιδέα σου να βγούμε για φαγητό."
 				},
 				{
 					"character": "university-boss",
@@ -3082,7 +3082,7 @@
 					"text@de": "Ihn für den Lunch zahlen lassen.",
 					"text@fr": "Faites-vous inviter.",
 					"text@sl": "Pustite naj plača račun",
-					"text@el": "Άφησε τον να πληρώσει τον λογαριασμό.",
+					"text@el": "Άφησέ τον να πληρώσει τον λογαριασμό.",
 					"var_changes": {
 						"personal_account": 100
 					},
@@ -3100,7 +3100,7 @@
 							"text@de": "Auf unsere Freundschaft! 🍻",
 							"text@fr": "A notre longue amitié ! 🍻",
 							"text@sl": "Na dolgoletno prijateljstvo. 🍻",
-							"text@el": "Ας πιούμε στην φιλίας μας! 🍻"
+							"text@el": "Ας πιούμε στην φιλία μας! 🍻"
 						}
 					]
 				}
@@ -3122,7 +3122,7 @@
 					"text@de": "Er sagt, er habe eine Idee, um unseren Haushalt zu sanieren.",
 					"text@fr": "Il dit avoir une idée de génie pour assainir nos comptes.",
 					"text@sl": "Pravijo, da imajo odlično idejo, kako izboljšati finančno stanje občine.",
-					"text@el": "Είπαν πως έχουν μια καλή ιδέα για να βελτιώσουμε την οικονομική κατάσταση του δήμου."
+					"text@el": "Είπαν ότι έχουν μια καλή ιδέα για να βελτιώσουμε την οικονομική κατάσταση του Δήμου."
 				},
 				{
 					"character": "mayor",
@@ -3171,7 +3171,7 @@
 					"text@de": "Ja! Der Reichtum naht!",
 					"text@fr": "Acceptez! L'apparance de la richesse, c'est toujours ça.",
 					"text@sl": "Sprejmem. Dober izgled je vseeno boljši kot nič.",
-					"text@el": "Συμφωνήστε! Τα έσοδα στα χαρτιά είναι καλύτερα απ' το τίποτα.",
+					"text@el": "ΝΑΙ! Τα έσοδα στα χαρτιά είναι καλύτερα απ' το τίποτα.",
 					"var_changes": {
 						"reserves": 20,
 						"resources": -3
@@ -3287,7 +3287,7 @@
 					"text@de": "Sie haben folgende Optionen:",
 					"text@fr": "Voilà vos options.",
 					"text@sl": "Imate pa nekaj možnosti.",
-					"text@el": "Υπάρχουν, όμως, μερικές εναλλακτικες."
+					"text@el": "Υπάρχουν, όμως, μερικές εναλλακτικές."
 				}
 			],
 			"helper": [{
@@ -3411,7 +3411,7 @@
 					"text@de": "Nichts unternehmen. Man sollte Beruf und Privatleben nicht miteinander vermischen.",
 					"text@fr": "Ne rien faire. On ne doit pas mélanger vie privée et professionelle.",
 					"text@sl": "Ne storite ničesar. Zasebno in poklicno življenje se ne mešata.",
-					"text@el": "Μην κάνεις τίποτα. Δεν χρειάζεται να μπλέκεις τα επαγγελματική με την προσωπική σου ζωή.",
+					"text@el": "Μην κάνεις τίποτα. Δεν χρειάζεται να μπλέκεις τα επαγγελματικά με την προσωπική σου ζωή.",
 					"var_changes": {
 						"personal_account": -1000
 					},
@@ -3796,7 +3796,7 @@
 			"text@de": "<h2>Sie haben verloren!</h2><p>Gegen Sie wurde ein Ermittlungsverfahren eingeleitet. Sie haben zwar gute Beziehungen zur Bürgermeisterin und zu den Industriellen aufgebaut, aber die Finanzbehörde ermittelt gegen Sie wegen Veruntreuung öffentlicher Gelder. Kein Grund zur Panik, Sie werden mit hoher Wahrscheinlichkeit nicht im Gefängnis landen. Aber die Bürgermeisterin verlangt Ihren Rücktritt.</p>",
 			"text@fr": "<h2>Perdu: Vous êtes mise en examen !</h2><p>Vous avez entretenu de bonnes relations avec le maire et avec les industriels, mais un enquêteur du parquet financier vous inculpe dans une affaire de détournement de fonds publics. Pas de panique, vous n'irez sans doute pas en prison. Mais la maire exige votre démission.</p>",
 			"text@sl": "<h2>Ujeli so vas: izgubili ste!</h2><p>Ohranili ste dobre odnose z izvajalci iz zasebnega sektorja in vašo priljubljenost. Županji ste pri srcu, a protikorupcijska policija vas je obtožila zlorabe javnih sredstev. Verjetno vam ne bo treba v zapor, a županja vseeno zahteva vaš odstop.",
-			"text@el": "<h2>Πιάστηκες επ' αυτοφώρω! Έχασες!</h2><p>Κατάφερες να έχεις καλές σχέσεις με τους εργολάβους χτίζοντας παράλληλα πολιτική καριέρα. Η δήμαρχος σε συμπαθεί όμως κατηγορείσαι για κατασπατάληση χρήματος. Χαλάρωσε, μάλλον δεν θα μπεις φυλακή αλλά θα ήταν σοφότερο να δηλώσεις την παραίτησή σου.</p>"
+			"text@el": "<h2>Πιάστηκες επ' αυτοφώρω! Έχασες!</h2><p>Κατάφερες να έχεις καλές σχέσεις με τους εργολάβους χτίζοντας παράλληλα πολιτική καριέρα. Η δήμαρχος σε συμπαθεί, όμως κατηγορείσαι για κατασπατάληση χρήματος. Χαλάρωσε, μάλλον δεν θα μπεις φυλακή αλλά θα ήταν σοφότερο να δηλώσεις την παραίτησή σου.</p>"
 		},
 		{
 			"condition": {
@@ -3807,7 +3807,7 @@
 			"text@de": "<h2>Sie haben verloren!</h2><p> Sie haben zwar gute Beziehungen zur Bürgermeisterin und der Polizei aufgebaut, aber Ferdinand Meinhardt verlangt Ihren Rücktritt. Er sagt, mit Ihnen könne man einfach nicht zusammenarbeiten. Die Bürgermeisterin hat sie in das Grünflächenamt versetzt. Wie schön, an der frischen Luft arbeiten zu dürfen!</p>",
 			"text@fr": "<h2>Perdu: Vous changez de poste !</h2><p>Vous avez entretenu de bonnes relations avec le maire et avec la police, mais Guillory réclame votre départ. Il dit qu'il ne peut pas travailler avec vous. La maire vous mute aux Parcs et Jardins. Quelle joie de travailler au grand air !</p>",
 			"text@sl": "<h2>Sprememba delovnega mesta: izgubili ste!</h2><p>Izvajalci javnih del v službi mesta so se županji pritožili, da ne morejo delati z vami. Premestili so vas na oddelek za parke in vrtove. Kako čudovito, da lahko sedaj delate zunaj.</p>",
-			"text@el": "<h2>Αλλαγή καριέρας. Έχασες!</h2><p>Έχεις καλές σχέσεις με την αστυνομία και την κοινότητα αλλά οι εργολάβοι παραπονιούνται για σένα στην Δήμαρχο. Πήρες μετάθεση στο Τμήμα Πρασίνου. Δες το θετικά, τώρα μπορείς να εργάζεσαι στην φύση!</p>"
+			"text@el": "<h2>Αλλαγή καριέρας. Έχασες!</h2><p>Έχεις καλές σχέσεις με την αστυνομία και την κοινότητα αλλά οι εργολάβοι παραπονιούνται για σένα στην δήμαρχο. Πήρες μετάθεση στο Τμήμα Πρασίνου. Δες το θετικά, τώρα μπορείς να εργάζεσαι στην φύση!</p>"
 		},
 		{
 			"condition": {
@@ -3839,7 +3839,7 @@
 			"body@en": "Cartels appear when contractors coordinate their offers. You can spot it when the prices of the offers to a public tender are close to one another.<br><br>Contractors agree who will have the lowest price and win the bid. The winner then pays off other members of the cartel.<br><br>Sometimes, a contractor leaves the cartel and makes a lower offer. It can be dangerous.",
 			"body@de": "Kartelle entstehen, wenn Auftragnehmer ihre Angebot koordinieren. Sollten sich die Preise der Angebote stark ähneln, kann dies ein Hinweis auf eventuelle Absprachen der Unternehmen sein.<br><br>Die Auftragnehmer handeln gemeinsam aus, wer das günstigste Angebot abgeben wird. Der Auftragnehmer, der den Zuschlag erhält, zahlt dann einen Teil des Gewinns an die übrigen Mitglieder des Kartells.<br><br> Es kann jedoch auch vorkommen, dass ein Auftragnehmer das Kartell verlässt und dem Auftraggeber ein günstigeres Angebot unterbreitet. Das kann dann gefährlich werden.",
 			"body@fr": "Un cartel apparait quand les candidats à un appel d'offre s'entendent entre eux. Vous pouvez les détecter si les prix des offres se suivent et sont proches les uns des autres.<br><br>Les industriels peuvent s'entendre sur celui qui proposera le prix le plus bas et gagnera l'appel d'offre. Le gagnant paye ensuite les autres membres du cartel. Le cartel fait une rotation entre les entreprises, afin que chaque membre du cartel gagne un peu.<br><br>Parfois, un des membres du cartels fait cavalier seul et fait une offre plus basse. Ça devient dangereux pour lui.",
-			"body@el": "Τα καρτέλ εμφανίζονται όταν οι εργολάβοι συννενοούνται για τις προσφορές που θα καταθέσουν. Μπορείς να το αναγνωρίσεις καθώς οι τιμές των προσφορών σε έναν δημόσιο διαγωνισμό έχουν πολύ μικρές διαφορές.<br><br>Οι εργολάβοι έχουν αποφασίσει ποιος θα καταθέσει την φθηνότερη προσφορά και θα αναλάβει το έργο. Στην συνέχεια ο νικητής μοιράζεται τα χρήματα με τους υπόλοιπους του καρτέλ.<br><br>Σε ορισμένες περιπτώσεις ο εργολάβος εγκαταλείπει το καρτέλ και κάνει ανεξάρτητα, ακόμα καλύτερη προσφορά. Μια τέτοια κίνηση, όμως, είναι πολύ επικίνδυνη."
+			"body@el": "Τα καρτέλ εμφανίζονται όταν οι εργολάβοι συννενοούνται για τις προσφορές που θα καταθέσουν. Μπορείς να το αναγνωρίσεις καθώς οι τιμές των προσφορών σε έναν δημόσιο διαγωνισμό έχουν πολύ μικρές διαφορές.<br><br>Οι εργολάβοι έχουν αποφασίσει ποιος θα καταθέσει την φθηνότερη προσφορά και θα αναλάβει το έργο. Στην συνέχεια ο νικητής μοιράζεται τα χρήματα με τους υπόλοιπους του καρτέλ.<br><br>Σε ορισμένες περιπτώσεις ο εργολάβος εγκαταλείπει το καρτέλ και κάνει ανεξάρτητα ακόμα καλύτερη προσφορά. Μια τέτοια κίνηση, όμως, είναι πολύ επικίνδυνη."
 		},
 		"gifts": {
 			"title@en": "How to react to gifts?",
@@ -3851,7 +3851,7 @@
 			"body@de": "Beamten ist es normalerweise verboten, Geschenke oberhalb eines bestimmten Grenzwertes anzunehmen (bei der europäischen Kommission etwa liegt dieser Wert bei 50€). Das heißt, es ist erlaubt ein Geschenk anzunehmen, das an Sie als Privatperson oder an Ihren Lebenspartner adressiert ist. Wenn Sie einen Geschenk ablehnen, kann es den Geschenkgeber ärgern.",
 			"body@fr": "Les fonctionnaires n'ont généralement pas le droit d'accepter des cadeaux au delà d'un certain seuil (50€ à la Commission Européenne, par exemple). Cela dit, vous pouvez accepter le cadeau s'il vous est adressé à vous personnellement, et non pas à vous en tant que fonctionnaire. Ou bien s'il est fait à votre partenaire. En refusant un cadeau, vous prenez le risque d'offenser celui qui vous l'offre.",
 			"body@sl": "Javnim uslužbencem običajno ni dovoljeno prejemati daril nad določeno vrednostjo (npr. med 10 in 500 €). Lahko pa kot zasebnik sprejmete darilo, namenjeno vam ali vašemu partnerju. Če ga zavrnete, lahko razjezite osebo, ki vam ga je ponudila.",
-			"body@el": "Απαγορεύεται στους δημόσιους λειτουργούς να δέχονται δώρα μεγάλης αξίας (για παράδειγμα, τα μέλη της Ευρωπαϊκής Επιτροπής μπορούν να δεχθούν δώρα αξίας που δεν ξεπερνά τα €50). Ωστόσο, μπορείς να αποδεχτείς το δώρο αν απευθύνεται σε σένα ως ιδιώτη, ή σε κάποιο συγγενικό πρόσωπο. Αν αρνηθείς το δώρα, ενδέχεται να προσβάλεις το άτομο που στο προσφέρει."
+			"body@el": "Απαγορεύεται στους δημόσιους λειτουργούς να δέχονται δώρα μεγάλης αξίας (για παράδειγμα, τα μέλη της Ευρωπαϊκής Επιτροπής μπορούν να δεχθούν δώρα αξίας που δεν ξεπερνά τα €50). Ωστόσο, μπορείς να αποδεχτείς το δώρο αν απευθύνεται σε σένα ως ιδιώτη, ή σε κάποιο συγγενικό πρόσωπο. Αν αρνηθείς το δώρο, ενδέχεται να προσβάλεις το άτομο που στο προσφέρει."
 		},
 		"bribes": {
 			"title@en": "How can you organize bribes?",
@@ -3863,7 +3863,7 @@
 			"body@de": "In Europa ist Bestechung nicht so weit verbreitet wie in anderen Regionen der Welt, mit Ausnahme bestimmter Bereiche. Im sozialen Wohungsbau oder bei Fahrzeuguntersuchungen sind Bestechungen durchaus üblich.<br><br>Mehr zum Thema erfahren Sie unter <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> von Cooking Budgets.",
 			"body@fr": "Les bakchichs ne sont pas aussi fréquents en Europe que dans d'autres régions du monde, à l'exception de certains secteurs. Pour déterminer qui obtient un logement social, certains fonctionnaires n'hésitent pas à demander des enveloppes d'argent de la main à la main. Pour passer le contrôle technique automobile, certains centres de contrôle ferment les yeux en échange d'un cadeau sur le siège passager.<br><br>Lisez <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
 			"body@sl": "Podkupnine v EU niso tako pogoste kot v drugih delih sveta, a so vseeno precej razbohotene v določenih sektorjih. Na področju neprofitnih stanovanj želijo nekateri uradniki gotovino neposredno v kuverti. Pri tehničnih pregledih avtomobilov se pred pregledom bankovce pogosto pusti na zadnjem sedežu.<br><br>Več o tem si preberite na <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> pri Cooking Budgets.",
-			"body@el": "Η δωροδοκία δεν αποτελεί τόσο μεγάλο πρόβλημα στην Ευρώπη σε σχέση με άλλες περιοχές στον κόσμο αλλά είναι συνηθισμένη πρακτική σε ορισμένους τομείς. Στα προγράμματα κοινωνικής στέγασης οι δημόσιοι υπάλληλοι ζητούν ευθέως φακελάκι από τους αιτούντους. Για τους ελέγχους οχημάτων, ορισμένες υπηρεσίες θα σε εξυπηρετήσουν με χαρά αν αφήσεις μετρητά στην θέση του συνοδηγού. <br><br>Μάθε περισσότερο στο <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> του Cooking Budgets."
+			"body@el": "Η δωροδοκία δεν αποτελεί τόσο μεγάλο πρόβλημα στην Ευρώπη σε σχέση με άλλες περιοχές του κόσμου αλλά είναι συνηθισμένη πρακτική σε ορισμένους τομείς. Στα προγράμματα κοινωνικής στέγασης οι δημόσιοι υπάλληλοι ζητούν ευθέως φακελάκι από τους αιτούντες. Για τους ελέγχους οχημάτων, ορισμένες υπηρεσίες θα σε εξυπηρετήσουν με χαρά αν αφήσεις μετρητά στην θέση του συνοδηγού. <br><br>Μάθε περισσότερα στο <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> του Cooking Budgets."
 		},
 		"land_sales": {
 			"title@en": "Spotting corruption in land sales",
@@ -3875,19 +3875,19 @@
 			"body@de": "Städte sind häufig im Besitz großer Grundstücke und Immobilien. Diese können zu Marktpreisen verkauft werden oder aber zu günstigeren Konditionen, etwa um für potentielle Käufer zusätzliche Anreize zu schaffen. Solche Gefallen sind äußerst schwierig aufzudecken, denn häufig gibt es gar keinen Markt für zumeist große Gebäude oder Grundstücke im Stadtzentrum. Es fällt daher entsprechend schwer den Marktpreis zu bestimmen.",
 			"body@fr": "Les villes possèdent souvent des terrains et des immeubles. Ces biens peuvent être vendus au prix du marché ou à des prix plus bas, pour faire un cadeau à l'acheteur. Il est fort difficile d'identifier ces transactions frauduleuses car, le plus souvent, il n'existe pas vraiment de marché pour un immeuble entier ou un grand terrain en centre ville.",
 			"body@sl": "Občine imajo pogosto v lasti večja zemljišča. Ta lahko prodajo po tržnih cenah, ali pa jih po nižji ceni prijateljsko ponudijo določenemu kupcu. Običajno je težko določiti, za kakšen primer gre, saj na trgu ni veliko kupcev za tovrstna zemljišča.",
-			"body@el": "Οι Δήμοι έχουν συχνά στην ιδιοκτησία τους μεγάλα οικόπεδα. Μπορούν είτε να τα πουλήσουν σε ανταγωνιστικές τιμές είτε σε χαμηλότερες, αν θέλουν να κάνουν ένα δωράκι στον αγοραστή. Τέτοιου είδους συναλλαγές είναι δύσκολο να εντοπιστούν καθώς συνήθως δεν υπάρχει μεγάλη κίνηση στην αγοροπωλησία οικοπέδων στις πόλεις."
+			"body@el": "Οι Δήμοι έχουν συχνά στην ιδιοκτησία τους μεγάλα οικόπεδα. Μπορούν είτε να τα πουλήσουν σε ανταγωνιστικές τιμές είτε σε χαμηλότερες, αν θέλουν να κάνουν ένα δωράκι στον αγοραστή. Τέτοιου είδους συναλλαγές είναι δύσκολο να εντοπιστούν καθώς συνήθως δεν υπάρχει μεγάλη κίνηση στην αγοραπωλησία οικοπέδων στις πόλεις."
 		},
 		"conflicts_of_interest": {
 			"title@en": "Conflicts of interest",
 			"title@sl": "Nasprotje interesov",
 			"title@de": "Interessenkonflikt",
 			"title@fr": "Conflits d'intérêts",
-			"title@el": "Σύγκρουση συμφερόντων.",
+			"title@el": "Σύγκρουση συμφερόντων",
 			"body@en": "People in politics or in the administration can own companies that receive public contracts. In some countries, it is forbidden for companies owned by public servants or politiciants to receive money from public contracts.",
 			"body@de": "Beamte und Politiker können Firmen besitzen, die von öffentlichen Ausschreibungen profitieren. In bestimmten Ländern ist es zwar verboten, dass eine Firma, die einem Politiker gehört, öffentliche Aufträge annimmt. Das kann jedoch mit Hilfe einer Strohfirma recht einfach umgangen werden.",
 			"body@fr": "Des élus ou des fonctionnaires peuvent posséder des entreprises qui bénéficient de contrats publics. Dans certains pays, ce mélange des genres est interdit, mais le bénéficiaire final d'une société peut toujours être masqué par un prête-nom ou par une société-écran.",
 			"body@sl": "Zaposleni v politiki ali javni upravi so lahko lastniki podjetij, ki sklepajo posle z javno upravo. V nekaterih državah je to zakonsko prepovedano.",
-			"body@el": "Άτομα που εμπλέκονται στην πολιτική και καταλαμβάνουν δημόσιες σχέσεις μπορεί να είναι και ιδιοκτήτες εταιρειών που συμμετέχουν σε δημόσιους διαγωνισμούς. Σε κάποιες χώρες ισχύει το ασυμβίβαστο μεταξύ δημόσιου αξιώματος και ανάληψης δημόσιου έργου."
+			"body@el": "Άτομα που εμπλέκονται στην πολιτική και καταλαμβάνουν δημόσιες θέσεις μπορεί να είναι και ιδιοκτήτες εταιρειών που συμμετέχουν σε δημόσιους διαγωνισμούς. Σε κάποιες χώρες ισχύει το ασυμβίβαστο μεταξύ δημόσιου αξιώματος και ανάληψης δημόσιου έργου."
 		},
 		"credit_card": {
 			"title@en": "Using the official credit card",
@@ -3906,19 +3906,19 @@
 			"title@de": "Politische Werbung durch den Einsatz öffentlicher Gelder",
 			"title@sl": "Politično komuniciranje z uporabo javnih sredstev",
 			"title@fr": "La communication politique sur fonds publics",
-			"title@el": "Πολιτική επικοινωνία με δημόσια χρήμα",
+			"title@el": "Πολιτική εκστρατεία με δημόσιο χρήμα",
 			"body@en": "Politicians can control public companies, either directly or through patronage networks. They might require them to buy advertising in newspapers that advertise their performance as a politician and not the company itself. It's very hard for prosecutors to prove that the advertising was not done in the interest of the company.<br><br>Read more under <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> at Cooking Budgets.",
 			"body@de": "Politiker können ihren Einfluß auf öffentliche Organisationen und Firmen und Firmen sowohl direkt als auch durch sogenannten Klientelismus ausüben. So können Sie etwa von Firmen verlangen Werbung für Sie zu machen. Für den Staatsanwalt ist es dabei äußerst schwierig nachzuweisen, dass die Firma nicht aus Eigeninteresse handelt.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> von Cooking Budgets.",
 			"body@fr": "Les élus peuvent contrôler des sociétés publiques, soit directement, soit via des liens de clientélisme. Ils peuvent demander à ces sociétés d'acheter des espaces publicitaires dans des journaux pour faire faire leur propre promotion. C'est très difficile pour un procureur de prouver que la publicité était faite dans l'intérêt de l'élu et non pas dans l'intérêt de la société elle-même.<br><br>Lisez <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
 			"body@sl": "Politiki lahko nadzorujejo javna podjetja neposredno ali prek mreže zaupnikov. Od njih lahko zahtevajo zakup oglasnega prostora, s katerim se nato oglašuje njihovo politično delovanje in ne delovanja podjetja. Tožilcem je izjemno težko dokazati, da oglaševanje ni bilo v skladu z interesi podjetja.<br><br>Več na <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> pri Cooking Budgets.",
-			"body@el": "Οι πολιτικοί μπορούν να ελέγχουν δημόσιες επιχειρήσεις είτε άμεσα είτε μέσω πελατειακών σχέσεων. Μπορούν να τους ζητήσουν να χρηματοδοτήσουν διαφημιστικές εκστρατείες σε εφημερίδες που προβάλλουν το πολιτικό τους έργο και όχι την ίδια την δημόσια επιχείρηση. Είναι εξαιρετικά δύσκολο να αποδείξει κάποιος πως η εκστρατεία δεν εξυπηρετούσε τα συμφέροντα της επιχείρησης.<br><br>Μάθε περισσότερα στο <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> του Cooking Budgets."
+			"body@el": "Οι πολιτικοί μπορούν να ελέγχουν δημόσιες επιχειρήσεις είτε άμεσα είτε μέσω πελατειακών σχέσεων. Μπορούν να τους ζητήσουν να χρηματοδοτήσουν διαφημιστικές εκστρατείες σε εφημερίδες που προβάλλουν το πολιτικό τους έργο και όχι την ίδια την δημόσια επιχείρηση. Είναι εξαιρετικά δύσκολο να αποδείξει κάποιος ότι η εκστρατεία δεν εξυπηρετούσε τα συμφέροντα της επιχείρησης.<br><br>Μάθε περισσότερα στο <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> του Cooking Budgets."
 		},
 		"emphyteutic": {
 			"title@en": "Leasing public space to private companies",
 			"title@de": "Die Vermietung öffentlicher Immobilien",
 			"title@sl": "Oddajanje javnih površin zasebnim podjetjem",
 			"title@fr": "Louer des biens publics à des sociétés privées",
-			"title@el": "Μίσθωση δημόσιου χώρου σε ιδιώτη.",
+			"title@el": "Μίσθωση δημόσιου χώρου σε ιδιώτη",
 			"body@en": "The easiest way to support a private company for a politician is to buy their building with public funds and rent it back to the company at a low price. The operation is hard to trace and fully legal.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> at Cooking Budgets.",
 			"body@de": "Der einfachste Weg für einen Politiker, eine private Firma zu unterstützen ist, eines ihrer Gebäude zu kaufen, und es anschließend an sie zu vermieten. Solche Operationen sind schwer nach zu verfolgen und völlig legal.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> von Cooking Budgets.",
 			"body@fr": "L'une des manières les plus simples pour un élu ou un fonctionnaire de subventionner une société privée est de lui acheter un bien immobilier puis de la lui louer à un très bas prix. L'opération est complexe à tracer et complètement légale.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
@@ -3935,7 +3935,7 @@
 			"body@de": "Manchmal kommt es vor, dass Aufträge vergeben werden, um nicht-existierende Straßen zu renovieren oder eine Software zu aktualisieren, die gar nicht genutzt wird. Das ist jedoch ausnahmsweise recht leicht nachzuweisen und daher riskant.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> von Cooking Budgets.",
 			"body@fr": "Il arrive parfois que des administrations passent des appels d'offres pour rénover des routes qui n'existent pas ou pour mettre à jour des logiciels fantômes. C'est risqué, car il est facile de prouver que le contrat est un faux.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
 			"body@sl": "Včasih se zgodi, da javna uprava prične obnovo ulice ali ceste, ki sploh ne obstaja. Tovrstno početje je nevarno, saj je zelo lahko dokazati, da gre za goljufijo.<br><br>Več na <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> pri Cooking Budgets.",
-			"body@el": "Στο Δημόσιο συμβαίνει καμιά φορά να υπογράφονται συμβάσεις για ανακαινίσεις κτιρίων ή δρόμων που δεν υπάρχουν. Είναι ριψοκίνδυνο καθώς είναι εύκολο να αποδειχθεί ότι το έργο είναι απάτη.<br><br>Μάθε περισσότερο στο <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> του Cooking Budgets."
+			"body@el": "Στο Δημόσιο συμβαίνει καμιά φορά να υπογράφονται συμβάσεις για ανακαινίσεις κτιρίων ή δρόμων που δεν υπάρχουν. Είναι ριψοκίνδυνο καθώς είναι εύκολο να αποδειχθεί ότι το έργο είναι απάτη.<br><br>Μάθε περισσότερα στο <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> του Cooking Budgets."
 		},
 		"ppp": {
 			"title@en": "Public-private partnerships",
@@ -3947,7 +3947,7 @@
 			"body@de": "Seit den 80er-Jahren sind die sogenannten Öffentlich-Private Partnerschaften (ÖPP) in Mode. Dahinter steckt die Idee, dass private Firmen die Kosten und das Risiko eines Projekts mit dem öffentlichen Sektor teilen. Dafür bekommen die Firmen einen Teil der Einnahmen des Projekts zurückerstattet.<br><br> Das Ziel dabei ist, dass der öffentliche Sektor ohne finanziellen Mehraufwand höhere Investitionen tätigen kann. Tatsächlich gehen private Firmen aber ohnehin fast kein Risiko ein, weil sie vom öffentlichen Sektor entsprechende Garantien verlangen. Im Endeffekt zahlt der öffentliche Sektor daher oft mehr als er ohne die ÖPP gezahlt hätte.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> von Cooking Budgets.",
 			"body@fr": "Depuis les années 1980, les partenariats public-privé sont à la mode. Un tel partenariat implique qu'une société privée réalise un investissement, en général la construction d'un équipement public (route, stade, pont). En échange, la société privée peut garder tout ou partie des revenus d'exploitation de l'équipement.<br><br>L'objectif était que les administrations puissent investir dans de nouveaux équipements sans rien payer. En réalité, les administrations s'engagent souvent à payer un loyer à la société privée, dont le montant total dépasse la valeur de l'investissement ! Comme ces loyers sont étalés dans le temps, on ne voit pas que le partenariat public-privé a en fait coûté plus cher à la collectivité qu'un investissement traditionnel.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
 			"body@sl": "Od osemdesetih let so priljubljena t.i. javno-zasebna partnerstva. V takih partnerstvih zasebno podjetje izvede del naročila, javna uprava pa prispeva h kritju stroškov. V zameno lahko podjetje obdrži prihodke od nove storitve/nepremičnine/opreme, ki jo je razvilo. <br><br>Cilj teh partnerstev je bil nižanje javnih stroškov in hkratno razvijanje javne infrastrukture. V praksi pa zasebniki skorajda ne nosijo tveganja, javna uprava pa za storitev plača enako ceno, kot bi jo brez partnerstva, vendar je to običajno skrito v računovodskih izkazih.<br><br> Več na <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> pri Cooking Budgets.",
-			"body@el": "Οι Συμπράξεις Δημοσίου και Ιδιωτικού Τομέα (ΣΔΙΤ) είναι δημοφιλής πρακτική από την δεκαετία του ΄80. Στα πλαίσια των συμπράξεων, μία ιδιωτική εταιρεία αναλαμβάνει ένα έργο, συνήθως την κατασκευή ή την λειτουργία δημόσιας εγκατάστασης, με την δημόσια διοίκηση να αναλαμβάνει μέρος του κόστους. Ως αντάλλαγμα, η ιδιωτική εταιρεία λαμβάνει τα έσοδα από τις εγκαστάσεις.<br><br>Με τις ΣΔΙΤ το Δημόσιο μπορεί να παρέχει στους πολίτες διάφορες υπηρεσίες χωρίς υπερόγκα κόστη. Στην πραγματικότητα αυτός που ωφελείται είναι ο ιδιωτικός τομέας αφού με οι ΣΔΙΤ είναι καλές ευκαιρίες για επενδύσεις με ελάχιστο ρίσκο ενώ το Δημόσιο καταλήγει να επωμίζεται το ίδιο κόστος που θα είχε χωρίς την σύμπραξη.<br><br> Μάθε περισσότερο στο <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> του Cooking Budgets."
+			"body@el": "Οι Συμπράξεις Δημοσίου και Ιδιωτικού Τομέα (ΣΔΙΤ) είναι δημοφιλής πρακτική από την δεκαετία του ΄80. Στα πλαίσια των συμπράξεων, μία ιδιωτική εταιρεία αναλαμβάνει ένα έργο, συνήθως την κατασκευή ή την λειτουργία δημόσιας εγκατάστασης, με την δημόσια διοίκηση να αναλαμβάνει μέρος του κόστους. Ως αντάλλαγμα, η ιδιωτική εταιρεία λαμβάνει τα έσοδα από τις εγκαστάσεις.<br><br>Με τις ΣΔΙΤ το Δημόσιο μπορεί να παρέχει στους πολίτες διάφορες υπηρεσίες χωρίς υπερόγκα κόστη. Στην πραγματικότητα αυτός που ωφελείται είναι ο ιδιωτικός τομέας αφού οι ΣΔΙΤ είναι καλές ευκαιρίες για επενδύσεις με ελάχιστο ρίσκο ενώ το Δημόσιο καταλήγει να επωμίζεται το ίδιο κόστος που θα είχε χωρίς την σύμπραξη.<br><br> Μάθε περισσότερα στο <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> του Cooking Budgets."
 		},
 		"privatization": {
 			"title@en": "Deregulation and privatization",
